@@ -1,0 +1,34 @@
+# Ignore everything by default
+*
+
+# Allow only necessary folders
+!data/raw/
+!notebooks/
+!outputs/
+!reports/
+
+# Allow all files inside allowed folders
+!data/raw/**
+!notebooks/**
+!outputs/**
+!reports/**
+
+# Ignore processed/interim data, models, and utilities
+data/processed/
+data/interim/
+models/
+utils/
+
+# Ignore notebook checkpoints and cache
+notebooks/catboost_info/
+.ipynb_checkpoints/
+
+# Ignore artifacts
+*.npy
+*.joblib
+*.pkl
+
+# Ignore CSVs except those in data/raw and reports
+*.csv
+!data/raw/*.csv
+!reports/*.csv
