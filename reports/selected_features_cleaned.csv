@@ -1,0 +1,3001 @@
+Attack Type,Target Industry,Number of Affected Users,Attack Source,Security Vulnerability Type,Incident Resolution Time (in Hours),Financial Loss (in Million $)
+Phishing,Education,773169,Hacker Group,Unpatched Software,63,80.53
+Ransomware,Retail,295961,Hacker Group,Unpatched Software,71,62.19
+Man-in-the-Middle,IT,605895,Hacker Group,Weak Passwords,20,38.65
+Ransomware,Telecommunications,659320,Nation-state,Social Engineering,7,41.44
+Man-in-the-Middle,IT,810682,Insider,Social Engineering,68,74.41
+Man-in-the-Middle,Retail,285201,Unknown,Social Engineering,25,98.24
+DDoS,Telecommunications,431262,Insider,Unpatched Software,34,33.26
+SQL Injection,Government,909991,Unknown,Social Engineering,66,59.23
+Man-in-the-Middle,Banking,698249,Unknown,Social Engineering,47,16.88
+DDoS,Healthcare,685927,Hacker Group,Unpatched Software,58,69.14
+Phishing,Telecommunications,493675,Unknown,Zero-day,29,88.67
+SQL Injection,Healthcare,920768,Hacker Group,Unpatched Software,27,38.81
+Ransomware,Education,583204,Insider,Zero-day,37,30.56
+DDoS,Healthcare,599797,Nation-state,Unpatched Software,35,58.37
+DDoS,IT,922258,Unknown,Social Engineering,64,48.01
+Phishing,Banking,120789,Nation-state,Zero-day,36,64.31
+Man-in-the-Middle,Healthcare,850158,Hacker Group,Unpatched Software,67,13.04
+DDoS,IT,805278,Insider,Social Engineering,56,93.14
+Malware,Telecommunications,578443,Insider,Social Engineering,28,14.01
+DDoS,IT,261808,Nation-state,Social Engineering,6,36.45
+Ransomware,Retail,920172,Hacker Group,Weak Passwords,43,49.55
+Ransomware,Education,261661,Insider,Social Engineering,11,17.72
+DDoS,Government,246205,Nation-state,Unpatched Software,30,76.71
+Phishing,Telecommunications,186148,Nation-state,Weak Passwords,32,20.42
+DDoS,Telecommunications,699007,Hacker Group,Social Engineering,30,51.84
+Phishing,Retail,628562,Insider,Zero-day,52,51.06
+Malware,Education,570494,Nation-state,Unpatched Software,53,53.04
+Ransomware,Banking,937653,Insider,Unpatched Software,24,26.17
+Malware,IT,599757,Unknown,Social Engineering,9,87.32
+DDoS,Government,904805,Hacker Group,Zero-day,61,82.7
+SQL Injection,Education,678876,Hacker Group,Social Engineering,11,66.24
+Malware,Telecommunications,246900,Hacker Group,Zero-day,34,18.38
+SQL Injection,IT,85255,Unknown,Unpatched Software,61,42.99
+Phishing,Banking,972469,Nation-state,Zero-day,21,98.47
+Phishing,Healthcare,113777,Nation-state,Weak Passwords,27,14.51
+Phishing,Banking,739540,Hacker Group,Zero-day,31,17.75
+Man-in-the-Middle,Education,722788,Nation-state,Zero-day,70,19.81
+SQL Injection,Retail,214372,Insider,Unpatched Software,12,82.52
+DDoS,Retail,235314,Insider,Weak Passwords,62,32.53
+DDoS,Education,140812,Nation-state,Unpatched Software,71,96.98
+DDoS,Telecommunications,238356,Unknown,Zero-day,3,96.39
+SQL Injection,IT,826976,Nation-state,Zero-day,57,98.09
+Man-in-the-Middle,Retail,757694,Nation-state,Unpatched Software,69,39.77
+DDoS,IT,403108,Hacker Group,Zero-day,64,74.12
+DDoS,Banking,942890,Insider,Weak Passwords,19,92.95
+Malware,Healthcare,794906,Unknown,Weak Passwords,36,20.33
+SQL Injection,Government,481293,Hacker Group,Unpatched Software,65,27.33
+DDoS,Education,602692,Hacker Group,Unpatched Software,29,21.01
+Man-in-the-Middle,Retail,455529,Hacker Group,Zero-day,40,13.66
+Phishing,Telecommunications,383395,Hacker Group,Zero-day,31,75.84
+DDoS,Retail,113612,Hacker Group,Zero-day,70,59.69
+Malware,Government,984411,Insider,Unpatched Software,17,21.72
+Phishing,IT,17229,Hacker Group,Weak Passwords,30,85.58
+Phishing,Healthcare,581303,Insider,Social Engineering,51,75.11
+Man-in-the-Middle,Education,799474,Nation-state,Zero-day,23,10.8
+DDoS,Banking,898655,Nation-state,Unpatched Software,10,86.27
+Malware,Healthcare,698852,Unknown,Weak Passwords,57,67.1
+DDoS,Healthcare,304162,Hacker Group,Unpatched Software,56,76.43
+Phishing,Banking,191625,Hacker Group,Social Engineering,65,43.4
+Phishing,Education,93185,Unknown,Unpatched Software,14,93.32
+Phishing,Healthcare,40718,Nation-state,Zero-day,24,35.6
+Phishing,Government,310574,Nation-state,Zero-day,65,42.73
+DDoS,Education,475719,Nation-state,Social Engineering,52,73.37
+Malware,Retail,404060,Unknown,Weak Passwords,32,73.18
+Malware,Education,132726,Hacker Group,Zero-day,55,72.35
+DDoS,Banking,336376,Nation-state,Social Engineering,11,87.68
+Malware,Healthcare,566437,Unknown,Weak Passwords,63,67.16
+Man-in-the-Middle,Education,313631,Nation-state,Weak Passwords,16,83.43
+DDoS,Banking,996004,Unknown,Zero-day,28,28.66
+Phishing,Healthcare,871600,Insider,Unpatched Software,29,55.04
+DDoS,IT,940656,Unknown,Weak Passwords,41,43.51
+Ransomware,Telecommunications,297209,Nation-state,Social Engineering,66,20.73
+Phishing,IT,28321,Insider,Unpatched Software,63,78.19
+Phishing,Telecommunications,456783,Nation-state,Zero-day,10,29.02
+Ransomware,Banking,933028,Nation-state,Unpatched Software,25,87.56
+Phishing,Telecommunications,221512,Nation-state,Zero-day,56,24.65
+Phishing,Banking,16585,Hacker Group,Unpatched Software,12,17.88
+Ransomware,Education,787752,Nation-state,Weak Passwords,9,21.01
+SQL Injection,Banking,662517,Unknown,Social Engineering,40,60.25
+Malware,Education,274509,Hacker Group,Zero-day,20,6.63
+Phishing,Government,508649,Hacker Group,Unpatched Software,66,5.8
+DDoS,IT,740257,Unknown,Weak Passwords,70,70.26
+Malware,Healthcare,969504,Hacker Group,Social Engineering,5,62.08
+Man-in-the-Middle,Healthcare,779494,Nation-state,Social Engineering,54,90.2
+Malware,Banking,605166,Insider,Weak Passwords,27,44.17
+Malware,Government,274946,Insider,Zero-day,66,55.18
+Man-in-the-Middle,Banking,645097,Nation-state,Zero-day,36,41.32
+DDoS,Telecommunications,157678,Nation-state,Unpatched Software,68,32.92
+DDoS,Retail,157034,Nation-state,Social Engineering,69,15.16
+SQL Injection,Education,550656,Nation-state,Weak Passwords,4,62.5
+SQL Injection,Healthcare,634048,Hacker Group,Unpatched Software,66,68.91
+DDoS,Banking,547495,Nation-state,Weak Passwords,3,81.26
+DDoS,Healthcare,487694,Hacker Group,Weak Passwords,41,58.31
+Man-in-the-Middle,Retail,427067,Hacker Group,Unpatched Software,42,88.65
+Malware,Telecommunications,954902,Hacker Group,Unpatched Software,55,1.51
+Ransomware,Banking,128594,Nation-state,Weak Passwords,53,49.23
+Phishing,Healthcare,189430,Nation-state,Social Engineering,1,84.53
+DDoS,Healthcare,603327,Nation-state,Unpatched Software,15,90.63
+DDoS,Education,276593,Nation-state,Social Engineering,36,80.26
+Malware,Education,975282,Insider,Unpatched Software,49,22.87
+Ransomware,Retail,486810,Hacker Group,Unpatched Software,11,23.79
+Ransomware,IT,969517,Hacker Group,Weak Passwords,25,35.43
+Malware,Banking,151599,Insider,Zero-day,18,74.77
+SQL Injection,IT,749545,Unknown,Social Engineering,30,66.66
+Malware,Retail,71743,Hacker Group,Unpatched Software,35,78.13
+Phishing,Banking,969684,Hacker Group,Weak Passwords,41,11.39
+SQL Injection,Education,842506,Unknown,Weak Passwords,19,87.84
+Man-in-the-Middle,IT,933883,Nation-state,Social Engineering,41,10.18
+Malware,Education,393748,Nation-state,Unpatched Software,10,4.42
+DDoS,Banking,708549,Unknown,Weak Passwords,37,76.98
+DDoS,Healthcare,136762,Unknown,Zero-day,41,73.24
+Malware,Telecommunications,737958,Unknown,Social Engineering,35,8.11
+Man-in-the-Middle,Banking,108886,Insider,Unpatched Software,51,23.55
+Phishing,Banking,285311,Nation-state,Unpatched Software,55,92.79
+Malware,Retail,961868,Hacker Group,Unpatched Software,57,71.11
+Man-in-the-Middle,Banking,471743,Unknown,Zero-day,29,57.34
+Phishing,Government,993903,Unknown,Weak Passwords,25,81.26
+Ransomware,Telecommunications,179156,Nation-state,Social Engineering,34,7.32
+Man-in-the-Middle,Healthcare,699129,Nation-state,Unpatched Software,25,56.27
+Malware,IT,920983,Insider,Social Engineering,24,83.76
+SQL Injection,Banking,875790,Nation-state,Unpatched Software,36,85.64
+Malware,Retail,415274,Hacker Group,Weak Passwords,40,61.39
+Ransomware,Banking,222293,Hacker Group,Social Engineering,38,42.14
+Man-in-the-Middle,Retail,357092,Unknown,Unpatched Software,71,94.4
+Malware,Telecommunications,708291,Hacker Group,Zero-day,54,84.68
+Malware,Banking,517610,Nation-state,Social Engineering,35,93.33
+Malware,Government,368803,Hacker Group,Unpatched Software,23,70.46
+Man-in-the-Middle,Healthcare,421191,Nation-state,Unpatched Software,62,48.71
+Phishing,IT,282139,Hacker Group,Unpatched Software,37,69.03
+Malware,IT,117543,Insider,Social Engineering,22,49.19
+Phishing,Government,536925,Unknown,Zero-day,62,27.2
+Ransomware,Retail,238068,Unknown,Unpatched Software,61,64.08
+Malware,Telecommunications,39814,Insider,Social Engineering,32,38.46
+DDoS,Government,268956,Nation-state,Zero-day,47,80.89
+Malware,Education,424,Nation-state,Unpatched Software,58,15.76
+SQL Injection,Telecommunications,982969,Unknown,Unpatched Software,64,82.24
+Malware,Government,219703,Nation-state,Social Engineering,33,82.72
+Man-in-the-Middle,Retail,530947,Nation-state,Unpatched Software,12,18.96
+SQL Injection,IT,576110,Insider,Unpatched Software,37,53.39
+Man-in-the-Middle,Government,177154,Unknown,Zero-day,68,48.9
+SQL Injection,Healthcare,212177,Hacker Group,Social Engineering,2,60.77
+DDoS,Banking,8787,Hacker Group,Unpatched Software,55,91.24
+Phishing,Education,291727,Insider,Social Engineering,31,41.36
+DDoS,IT,987652,Hacker Group,Social Engineering,72,78.18
+Ransomware,Telecommunications,236284,Unknown,Social Engineering,38,16.16
+Man-in-the-Middle,Telecommunications,209853,Nation-state,Zero-day,1,15.63
+DDoS,Retail,755621,Unknown,Zero-day,50,36.29
+SQL Injection,Retail,694844,Insider,Unpatched Software,43,61.41
+SQL Injection,Retail,795831,Nation-state,Unpatched Software,61,53.72
+DDoS,Retail,342253,Unknown,Weak Passwords,22,17.4
+Phishing,Retail,638693,Nation-state,Weak Passwords,35,75.94
+Phishing,Banking,618616,Insider,Zero-day,51,55.9
+SQL Injection,Retail,774426,Hacker Group,Social Engineering,21,56.76
+DDoS,Government,900661,Insider,Unpatched Software,64,76.25
+Phishing,Telecommunications,141627,Insider,Unpatched Software,64,75.23
+Phishing,IT,845785,Unknown,Unpatched Software,69,3.93
+Malware,Retail,120048,Insider,Zero-day,12,99.41
+Malware,Retail,894935,Unknown,Social Engineering,31,32.89
+SQL Injection,Healthcare,277555,Unknown,Social Engineering,45,21.66
+Ransomware,Education,461012,Insider,Unpatched Software,38,85.86
+SQL Injection,Telecommunications,599291,Nation-state,Social Engineering,55,80.23
+Man-in-the-Middle,Government,163602,Hacker Group,Unpatched Software,26,31.92
+SQL Injection,Government,986196,Nation-state,Weak Passwords,11,39.03
+Ransomware,Retail,349008,Nation-state,Zero-day,20,99.03
+SQL Injection,Retail,559667,Unknown,Zero-day,69,25.1
+DDoS,Healthcare,335628,Hacker Group,Weak Passwords,20,67.27
+Ransomware,Education,385363,Unknown,Unpatched Software,22,29.89
+Man-in-the-Middle,Education,945793,Insider,Zero-day,32,15.92
+SQL Injection,Telecommunications,595950,Nation-state,Social Engineering,11,95.93
+DDoS,Education,756722,Nation-state,Weak Passwords,15,12.61
+Ransomware,Government,594424,Hacker Group,Social Engineering,54,39.92
+Malware,Retail,457790,Hacker Group,Zero-day,39,19.36
+Ransomware,Telecommunications,549337,Unknown,Social Engineering,63,70.47
+Malware,Healthcare,714681,Unknown,Unpatched Software,34,53.34
+Malware,Government,849745,Hacker Group,Social Engineering,51,84.15
+SQL Injection,Banking,826256,Nation-state,Zero-day,50,27.64
+DDoS,IT,617543,Unknown,Zero-day,43,9.01
+SQL Injection,Banking,895507,Unknown,Social Engineering,52,9.08
+SQL Injection,Healthcare,2233,Unknown,Social Engineering,45,67.9
+Phishing,Government,76776,Unknown,Unpatched Software,42,71.12
+Ransomware,Retail,175261,Nation-state,Zero-day,64,6.08
+Man-in-the-Middle,Healthcare,746369,Insider,Unpatched Software,30,90.85
+Malware,Healthcare,563706,Nation-state,Unpatched Software,35,77.32
+DDoS,Healthcare,254980,Insider,Unpatched Software,58,12.01
+Malware,Education,869574,Unknown,Unpatched Software,16,0.54
+Malware,IT,282598,Unknown,Zero-day,21,95.33
+Malware,Telecommunications,422623,Nation-state,Zero-day,55,62.77
+Malware,Healthcare,937717,Unknown,Unpatched Software,56,83.06
+Man-in-the-Middle,Telecommunications,416077,Insider,Social Engineering,39,71.64
+Man-in-the-Middle,Banking,112313,Insider,Social Engineering,63,47.67
+Man-in-the-Middle,Telecommunications,799971,Insider,Zero-day,63,79.72
+Man-in-the-Middle,Retail,690595,Hacker Group,Social Engineering,71,47.11
+Man-in-the-Middle,Government,713419,Hacker Group,Unpatched Software,70,69.69
+Man-in-the-Middle,Healthcare,707365,Hacker Group,Zero-day,38,81.31
+Malware,Healthcare,155059,Unknown,Unpatched Software,29,83.88
+Phishing,Banking,923558,Insider,Weak Passwords,41,85.01
+DDoS,Telecommunications,239313,Nation-state,Social Engineering,6,20.55
+Ransomware,Telecommunications,874485,Hacker Group,Weak Passwords,48,60.08
+SQL Injection,Healthcare,90895,Unknown,Social Engineering,29,46.95
+Man-in-the-Middle,Retail,529593,Hacker Group,Zero-day,64,47.2
+Phishing,Government,610201,Nation-state,Weak Passwords,72,46.92
+DDoS,Telecommunications,863623,Hacker Group,Weak Passwords,24,1.98
+Malware,Healthcare,755771,Insider,Weak Passwords,44,14.28
+SQL Injection,Telecommunications,164032,Unknown,Social Engineering,5,66.23
+Man-in-the-Middle,Telecommunications,259993,Nation-state,Weak Passwords,58,95.66
+Phishing,Retail,232359,Unknown,Social Engineering,17,90.13
+Phishing,Telecommunications,800031,Unknown,Unpatched Software,10,84.9
+Phishing,Healthcare,925040,Unknown,Unpatched Software,48,71.19
+Malware,IT,273469,Insider,Social Engineering,67,99.29
+Malware,Banking,797768,Insider,Zero-day,58,22.84
+DDoS,Education,905203,Hacker Group,Weak Passwords,37,82.19
+Phishing,Telecommunications,512291,Insider,Zero-day,51,11.72
+Phishing,Telecommunications,416833,Insider,Social Engineering,9,27.08
+Ransomware,Government,744505,Nation-state,Unpatched Software,43,30.74
+Malware,Banking,755029,Nation-state,Weak Passwords,27,79.61
+Malware,Banking,660182,Insider,Weak Passwords,21,99.22
+Ransomware,Retail,403737,Insider,Zero-day,26,29.48
+DDoS,Retail,86783,Nation-state,Weak Passwords,12,7.87
+DDoS,Telecommunications,390083,Nation-state,Social Engineering,72,86.77
+Man-in-the-Middle,Banking,376174,Unknown,Social Engineering,43,20.15
+Ransomware,Government,485080,Insider,Weak Passwords,61,31.94
+Ransomware,Banking,759804,Unknown,Unpatched Software,47,78.82
+Phishing,IT,286208,Hacker Group,Zero-day,57,65.62
+Malware,IT,992377,Nation-state,Unpatched Software,33,75.53
+Man-in-the-Middle,Education,48987,Unknown,Zero-day,58,36.06
+SQL Injection,Telecommunications,538602,Insider,Unpatched Software,19,68.07
+Malware,Healthcare,808392,Hacker Group,Weak Passwords,4,26.29
+Ransomware,IT,21580,Unknown,Weak Passwords,14,26.12
+Phishing,Government,209658,Insider,Zero-day,11,94.44
+Man-in-the-Middle,Retail,559889,Nation-state,Zero-day,10,74.12
+SQL Injection,Government,344516,Insider,Zero-day,28,12.92
+Phishing,Retail,897569,Hacker Group,Social Engineering,66,73.43
+SQL Injection,Healthcare,538688,Nation-state,Zero-day,36,99.19
+DDoS,Government,303975,Nation-state,Social Engineering,2,22.71
+SQL Injection,Telecommunications,822256,Insider,Unpatched Software,60,67.62
+Man-in-the-Middle,Healthcare,521877,Unknown,Zero-day,66,53.82
+SQL Injection,Education,758258,Unknown,Zero-day,44,55.83
+DDoS,IT,988369,Hacker Group,Weak Passwords,26,17.12
+Malware,Healthcare,325521,Hacker Group,Social Engineering,69,67.89
+Ransomware,IT,254933,Nation-state,Social Engineering,41,5.54
+DDoS,Government,339144,Hacker Group,Unpatched Software,26,55.28
+Ransomware,Education,170002,Unknown,Unpatched Software,54,57.52
+DDoS,Government,491269,Nation-state,Zero-day,67,74.65
+Phishing,Banking,341100,Insider,Social Engineering,37,49.14
+DDoS,Government,446170,Insider,Unpatched Software,72,36.04
+Malware,Telecommunications,28398,Insider,Zero-day,22,14.09
+Ransomware,Telecommunications,180698,Hacker Group,Zero-day,53,66.36
+Malware,Healthcare,676384,Unknown,Social Engineering,44,8.53
+Ransomware,Healthcare,961557,Insider,Unpatched Software,64,61.91
+Phishing,Education,345334,Hacker Group,Weak Passwords,25,54.47
+Phishing,Education,263407,Nation-state,Zero-day,8,87.88
+Phishing,IT,791350,Nation-state,Social Engineering,32,89.22
+Ransomware,Telecommunications,591819,Unknown,Zero-day,49,64.92
+SQL Injection,IT,186612,Unknown,Unpatched Software,30,6.59
+Ransomware,Retail,187730,Nation-state,Weak Passwords,26,48.0
+SQL Injection,IT,6456,Hacker Group,Social Engineering,69,87.78
+Malware,Banking,762662,Hacker Group,Zero-day,56,15.73
+Phishing,IT,256396,Hacker Group,Zero-day,29,30.26
+SQL Injection,Healthcare,437634,Unknown,Weak Passwords,29,54.59
+Malware,Healthcare,80855,Nation-state,Zero-day,53,63.09
+Phishing,Retail,967614,Nation-state,Unpatched Software,71,59.36
+Ransomware,IT,934400,Unknown,Social Engineering,4,79.52
+Man-in-the-Middle,Telecommunications,547719,Unknown,Weak Passwords,22,87.83
+Malware,Healthcare,808984,Unknown,Weak Passwords,26,96.63
+Ransomware,Banking,261038,Nation-state,Social Engineering,48,52.86
+Phishing,Education,841054,Insider,Zero-day,49,4.01
+Ransomware,IT,175038,Hacker Group,Weak Passwords,67,68.02
+Phishing,Retail,774613,Hacker Group,Weak Passwords,53,67.17
+Phishing,Healthcare,558357,Hacker Group,Weak Passwords,49,37.45
+Phishing,Retail,620056,Nation-state,Weak Passwords,14,36.78
+Malware,Healthcare,90640,Unknown,Social Engineering,56,40.66
+Ransomware,Retail,449596,Unknown,Unpatched Software,3,76.93
+Ransomware,Healthcare,207842,Nation-state,Social Engineering,40,58.91
+Phishing,Retail,908249,Nation-state,Zero-day,53,93.6
+Phishing,Healthcare,470895,Nation-state,Social Engineering,63,47.39
+Malware,Education,342049,Nation-state,Unpatched Software,31,3.21
+Phishing,Banking,316891,Hacker Group,Social Engineering,55,98.75
+Man-in-the-Middle,Education,633466,Unknown,Zero-day,16,27.45
+Malware,Telecommunications,123866,Nation-state,Zero-day,43,23.98
+DDoS,Telecommunications,305905,Unknown,Unpatched Software,44,79.93
+SQL Injection,Telecommunications,702942,Nation-state,Unpatched Software,34,3.66
+Man-in-the-Middle,Retail,11339,Hacker Group,Social Engineering,34,72.78
+SQL Injection,Banking,8385,Nation-state,Social Engineering,69,73.88
+Ransomware,Banking,21810,Insider,Zero-day,48,52.8
+Man-in-the-Middle,Healthcare,7347,Insider,Zero-day,7,94.6
+SQL Injection,Education,61463,Hacker Group,Weak Passwords,58,1.62
+DDoS,Healthcare,683572,Insider,Zero-day,69,0.82
+Malware,Healthcare,654633,Nation-state,Weak Passwords,43,90.91
+DDoS,Banking,311274,Hacker Group,Zero-day,67,32.84
+Malware,Education,185208,Unknown,Zero-day,3,63.33
+Man-in-the-Middle,Healthcare,182378,Insider,Social Engineering,10,27.82
+Phishing,IT,800480,Unknown,Zero-day,31,7.73
+DDoS,Banking,147761,Unknown,Unpatched Software,68,46.98
+Ransomware,Banking,923911,Insider,Unpatched Software,60,80.11
+Ransomware,Education,418893,Insider,Social Engineering,31,11.81
+Ransomware,Education,914593,Unknown,Weak Passwords,1,15.09
+SQL Injection,Banking,344789,Unknown,Zero-day,69,20.69
+DDoS,Telecommunications,116906,Insider,Social Engineering,7,36.86
+Phishing,Education,812343,Insider,Social Engineering,16,10.87
+Malware,IT,346390,Hacker Group,Weak Passwords,36,18.17
+Phishing,IT,30925,Insider,Zero-day,43,13.89
+DDoS,Government,663812,Nation-state,Zero-day,57,15.63
+Man-in-the-Middle,Government,220978,Nation-state,Zero-day,47,32.72
+DDoS,Banking,100486,Nation-state,Unpatched Software,31,97.03
+SQL Injection,Education,195733,Nation-state,Weak Passwords,70,75.63
+Man-in-the-Middle,Healthcare,707978,Nation-state,Weak Passwords,41,64.21
+Phishing,Healthcare,456432,Insider,Weak Passwords,66,99.14
+Man-in-the-Middle,IT,37230,Unknown,Social Engineering,52,75.51
+DDoS,Government,890414,Nation-state,Unpatched Software,28,11.68
+Malware,IT,440358,Nation-state,Social Engineering,5,33.84
+Malware,Healthcare,400752,Insider,Unpatched Software,36,38.89
+Phishing,Banking,134364,Nation-state,Zero-day,63,89.77
+DDoS,Telecommunications,406483,Insider,Weak Passwords,62,15.01
+SQL Injection,IT,661583,Insider,Social Engineering,30,98.38
+SQL Injection,Education,642834,Unknown,Weak Passwords,34,23.49
+Ransomware,IT,493087,Hacker Group,Unpatched Software,44,9.43
+Man-in-the-Middle,IT,966570,Nation-state,Weak Passwords,32,97.37
+Phishing,Telecommunications,687383,Nation-state,Weak Passwords,8,73.26
+Phishing,Retail,733304,Unknown,Weak Passwords,19,78.84
+Ransomware,Telecommunications,661681,Hacker Group,Weak Passwords,14,3.51
+SQL Injection,IT,644538,Unknown,Social Engineering,57,25.32
+Phishing,Banking,861637,Unknown,Social Engineering,15,58.78
+SQL Injection,Telecommunications,393189,Unknown,Zero-day,37,73.76
+SQL Injection,Healthcare,999545,Hacker Group,Social Engineering,47,27.06
+SQL Injection,IT,935572,Hacker Group,Social Engineering,61,77.82
+Ransomware,IT,724608,Hacker Group,Social Engineering,21,55.99
+DDoS,Banking,750979,Unknown,Social Engineering,30,55.73
+Malware,Telecommunications,552358,Nation-state,Weak Passwords,42,7.44
+Phishing,Banking,902654,Insider,Social Engineering,9,37.07
+Ransomware,Healthcare,413293,Hacker Group,Zero-day,27,75.67
+Malware,Retail,114357,Insider,Zero-day,58,56.19
+Malware,Government,363432,Hacker Group,Zero-day,40,70.53
+SQL Injection,Telecommunications,304618,Unknown,Unpatched Software,54,63.77
+SQL Injection,IT,153154,Hacker Group,Zero-day,37,32.73
+Malware,Banking,741153,Insider,Social Engineering,66,21.87
+Man-in-the-Middle,Healthcare,261230,Insider,Social Engineering,19,72.08
+SQL Injection,Telecommunications,688014,Unknown,Zero-day,18,53.82
+DDoS,Education,45027,Unknown,Social Engineering,68,3.3
+Malware,Banking,689681,Nation-state,Weak Passwords,62,13.99
+Malware,Government,702688,Hacker Group,Unpatched Software,39,93.49
+Man-in-the-Middle,Banking,86038,Insider,Weak Passwords,19,97.28
+Malware,Education,899381,Insider,Unpatched Software,66,17.19
+Malware,IT,157667,Insider,Weak Passwords,34,54.21
+Malware,Government,643714,Nation-state,Weak Passwords,25,64.28
+Ransomware,Education,3607,Insider,Zero-day,7,71.31
+Phishing,Banking,259706,Hacker Group,Social Engineering,2,52.31
+Man-in-the-Middle,Retail,698921,Insider,Weak Passwords,72,40.94
+Ransomware,Government,482574,Nation-state,Unpatched Software,22,32.21
+DDoS,IT,618269,Nation-state,Weak Passwords,48,20.44
+Ransomware,Government,854961,Unknown,Unpatched Software,7,59.66
+SQL Injection,Education,595157,Unknown,Zero-day,41,56.33
+SQL Injection,Government,813706,Hacker Group,Weak Passwords,54,2.24
+DDoS,Telecommunications,322527,Nation-state,Weak Passwords,46,82.05
+DDoS,Healthcare,557016,Unknown,Zero-day,34,11.92
+DDoS,Healthcare,966668,Hacker Group,Weak Passwords,15,54.83
+SQL Injection,Retail,813165,Nation-state,Unpatched Software,44,36.17
+SQL Injection,Government,400807,Unknown,Weak Passwords,67,80.06
+Man-in-the-Middle,Retail,549300,Hacker Group,Weak Passwords,26,74.85
+Ransomware,Government,956893,Unknown,Social Engineering,49,74.01
+SQL Injection,Government,245370,Insider,Social Engineering,57,46.2
+Malware,IT,912731,Nation-state,Zero-day,4,9.59
+Malware,Telecommunications,362085,Insider,Weak Passwords,5,81.19
+SQL Injection,Telecommunications,862664,Hacker Group,Zero-day,44,42.8
+Ransomware,Telecommunications,313384,Insider,Social Engineering,51,32.65
+Malware,Banking,593009,Unknown,Social Engineering,27,17.99
+SQL Injection,Banking,933754,Insider,Social Engineering,36,30.68
+DDoS,Government,55055,Hacker Group,Unpatched Software,44,82.12
+SQL Injection,Education,481180,Hacker Group,Weak Passwords,10,94.63
+Man-in-the-Middle,Banking,110260,Unknown,Weak Passwords,66,54.03
+DDoS,Government,741592,Insider,Social Engineering,69,10.54
+Phishing,Education,928026,Unknown,Social Engineering,5,34.41
+SQL Injection,Education,399014,Nation-state,Zero-day,52,84.27
+Ransomware,Retail,42831,Hacker Group,Social Engineering,42,35.08
+Man-in-the-Middle,Healthcare,545613,Insider,Unpatched Software,25,45.11
+Man-in-the-Middle,Retail,813789,Nation-state,Unpatched Software,27,92.57
+Ransomware,Banking,345825,Hacker Group,Zero-day,6,13.49
+Phishing,Education,29671,Insider,Unpatched Software,61,8.42
+Phishing,Government,34011,Insider,Unpatched Software,9,92.5
+SQL Injection,Banking,341383,Nation-state,Weak Passwords,9,63.8
+Ransomware,Banking,565080,Unknown,Zero-day,6,40.86
+Malware,Banking,862136,Hacker Group,Zero-day,44,79.24
+Man-in-the-Middle,Retail,241151,Hacker Group,Social Engineering,56,37.15
+Man-in-the-Middle,Government,321158,Insider,Zero-day,37,62.06
+Phishing,Education,472386,Nation-state,Zero-day,24,31.03
+Man-in-the-Middle,Healthcare,34240,Insider,Weak Passwords,45,82.54
+Malware,Government,98018,Insider,Zero-day,55,34.4
+Phishing,Education,555808,Unknown,Weak Passwords,4,72.2
+SQL Injection,Healthcare,449333,Hacker Group,Unpatched Software,39,52.23
+Man-in-the-Middle,Retail,368618,Nation-state,Social Engineering,22,7.16
+Man-in-the-Middle,IT,310175,Hacker Group,Unpatched Software,53,78.23
+Phishing,Retail,986980,Nation-state,Zero-day,71,25.1
+DDoS,Retail,518181,Insider,Zero-day,24,88.54
+Phishing,Retail,72782,Unknown,Zero-day,63,49.51
+DDoS,Telecommunications,502842,Unknown,Zero-day,15,4.08
+Phishing,Retail,376586,Unknown,Weak Passwords,51,89.31
+Phishing,Government,698597,Unknown,Social Engineering,66,88.55
+SQL Injection,Education,559195,Insider,Weak Passwords,52,5.26
+Ransomware,Retail,236253,Unknown,Social Engineering,38,17.57
+DDoS,Healthcare,534847,Nation-state,Zero-day,3,8.01
+Malware,Retail,262611,Unknown,Social Engineering,33,39.86
+SQL Injection,Telecommunications,848702,Unknown,Weak Passwords,48,11.61
+Man-in-the-Middle,Retail,609952,Hacker Group,Unpatched Software,7,73.98
+Man-in-the-Middle,IT,978868,Insider,Weak Passwords,39,65.86
+Ransomware,Retail,659734,Insider,Unpatched Software,54,41.26
+DDoS,Retail,88354,Nation-state,Social Engineering,52,64.38
+Phishing,Banking,771434,Hacker Group,Social Engineering,38,75.01
+SQL Injection,Banking,91560,Hacker Group,Weak Passwords,35,1.73
+Phishing,Healthcare,375292,Unknown,Unpatched Software,48,1.35
+SQL Injection,Retail,43366,Unknown,Weak Passwords,43,70.88
+Ransomware,Telecommunications,429224,Unknown,Social Engineering,56,32.08
+Phishing,Healthcare,526227,Hacker Group,Weak Passwords,62,68.99
+Man-in-the-Middle,Retail,621770,Insider,Unpatched Software,70,9.77
+DDoS,Telecommunications,857688,Insider,Zero-day,55,14.53
+SQL Injection,Banking,644841,Insider,Weak Passwords,64,33.06
+Man-in-the-Middle,IT,242847,Unknown,Unpatched Software,37,67.61
+Man-in-the-Middle,IT,155225,Unknown,Weak Passwords,13,85.3
+Man-in-the-Middle,Banking,712646,Nation-state,Unpatched Software,50,79.68
+Phishing,Government,298941,Unknown,Zero-day,13,61.87
+Man-in-the-Middle,Telecommunications,783480,Insider,Zero-day,55,4.92
+Phishing,Healthcare,950451,Hacker Group,Weak Passwords,29,99.97
+Malware,Education,917848,Insider,Social Engineering,30,95.42
+SQL Injection,Education,194633,Nation-state,Social Engineering,37,42.98
+Malware,Telecommunications,778844,Unknown,Zero-day,65,68.42
+SQL Injection,Government,668774,Unknown,Social Engineering,61,36.14
+SQL Injection,Healthcare,824351,Unknown,Zero-day,17,69.76
+Phishing,Healthcare,510974,Unknown,Weak Passwords,16,3.02
+Man-in-the-Middle,Healthcare,404595,Unknown,Social Engineering,3,86.29
+SQL Injection,IT,742273,Hacker Group,Zero-day,67,6.31
+Phishing,IT,973388,Nation-state,Zero-day,63,27.46
+DDoS,Government,890675,Hacker Group,Unpatched Software,5,69.28
+SQL Injection,Education,710896,Nation-state,Zero-day,18,68.96
+SQL Injection,Retail,30883,Nation-state,Weak Passwords,51,2.85
+SQL Injection,Government,153355,Unknown,Zero-day,57,53.76
+DDoS,Healthcare,96706,Insider,Unpatched Software,42,25.83
+SQL Injection,IT,959797,Nation-state,Social Engineering,32,43.76
+Phishing,Telecommunications,501864,Hacker Group,Unpatched Software,12,9.45
+Man-in-the-Middle,IT,358626,Unknown,Weak Passwords,26,63.57
+Man-in-the-Middle,Healthcare,64472,Insider,Social Engineering,43,11.3
+DDoS,Education,23683,Hacker Group,Weak Passwords,69,82.11
+Man-in-the-Middle,IT,22635,Unknown,Unpatched Software,8,5.21
+SQL Injection,Government,894933,Insider,Weak Passwords,59,98.75
+Malware,Banking,259176,Unknown,Unpatched Software,3,55.34
+Man-in-the-Middle,Banking,987115,Unknown,Social Engineering,55,12.36
+DDoS,Healthcare,727601,Insider,Social Engineering,50,6.48
+Phishing,Retail,542850,Nation-state,Zero-day,41,56.53
+Ransomware,Education,352194,Nation-state,Unpatched Software,10,41.15
+Malware,Healthcare,571521,Nation-state,Weak Passwords,8,39.83
+SQL Injection,Healthcare,933271,Insider,Unpatched Software,30,47.59
+Phishing,Banking,884502,Insider,Unpatched Software,55,98.06
+Ransomware,IT,762001,Nation-state,Social Engineering,67,57.27
+DDoS,Government,351330,Nation-state,Weak Passwords,57,82.49
+Malware,Healthcare,158107,Unknown,Unpatched Software,43,37.73
+SQL Injection,Government,632319,Unknown,Weak Passwords,47,77.45
+DDoS,Government,352250,Insider,Zero-day,39,75.52
+Ransomware,Telecommunications,504165,Hacker Group,Zero-day,55,11.28
+DDoS,Telecommunications,738981,Unknown,Social Engineering,45,36.69
+Ransomware,Banking,555527,Unknown,Unpatched Software,33,79.33
+SQL Injection,Banking,681856,Insider,Zero-day,52,59.78
+DDoS,Retail,197609,Nation-state,Social Engineering,15,38.65
+Man-in-the-Middle,Banking,685291,Hacker Group,Social Engineering,53,85.29
+Ransomware,Retail,835730,Insider,Zero-day,14,37.49
+Phishing,Education,907547,Unknown,Unpatched Software,33,48.57
+Phishing,Retail,298096,Unknown,Social Engineering,16,3.0
+Phishing,Retail,18579,Unknown,Social Engineering,13,33.06
+Malware,Education,490771,Nation-state,Weak Passwords,70,70.9
+Phishing,Healthcare,394577,Nation-state,Unpatched Software,33,38.12
+DDoS,Telecommunications,155426,Nation-state,Zero-day,16,35.19
+Ransomware,Education,444399,Insider,Zero-day,38,88.9
+Man-in-the-Middle,Healthcare,770028,Unknown,Unpatched Software,58,7.96
+Ransomware,Retail,608520,Hacker Group,Zero-day,14,66.38
+DDoS,Healthcare,471113,Hacker Group,Unpatched Software,71,91.45
+Man-in-the-Middle,Retail,311253,Nation-state,Weak Passwords,36,63.65
+DDoS,IT,390409,Insider,Zero-day,31,84.19
+SQL Injection,IT,604786,Unknown,Zero-day,34,28.35
+SQL Injection,Government,568377,Unknown,Social Engineering,38,84.23
+SQL Injection,Telecommunications,267678,Insider,Zero-day,13,29.89
+Malware,Education,592485,Insider,Weak Passwords,10,5.95
+DDoS,Government,639011,Insider,Weak Passwords,26,84.85
+Man-in-the-Middle,Telecommunications,446243,Unknown,Zero-day,66,28.82
+DDoS,Government,10438,Nation-state,Unpatched Software,10,22.48
+SQL Injection,IT,796195,Nation-state,Social Engineering,20,97.37
+SQL Injection,Telecommunications,55392,Unknown,Zero-day,44,53.32
+DDoS,IT,579291,Hacker Group,Unpatched Software,6,63.11
+Malware,Banking,791366,Unknown,Unpatched Software,61,70.19
+Malware,IT,727826,Unknown,Weak Passwords,63,92.29
+Malware,IT,608695,Nation-state,Unpatched Software,31,98.07
+SQL Injection,Retail,496667,Unknown,Zero-day,45,13.96
+Malware,Retail,353887,Unknown,Weak Passwords,59,56.9
+Ransomware,Banking,713584,Insider,Weak Passwords,26,32.69
+DDoS,IT,417831,Unknown,Unpatched Software,36,70.09
+Ransomware,Banking,51219,Unknown,Zero-day,36,22.62
+Ransomware,Retail,153257,Insider,Zero-day,59,47.91
+Phishing,Retail,768022,Unknown,Zero-day,64,20.58
+Phishing,Banking,314347,Hacker Group,Unpatched Software,28,26.29
+Phishing,IT,649406,Insider,Social Engineering,27,33.51
+Phishing,Education,744595,Insider,Zero-day,44,68.28
+DDoS,Banking,126781,Insider,Weak Passwords,32,14.72
+Phishing,Retail,427167,Insider,Unpatched Software,11,44.29
+Ransomware,Retail,396865,Insider,Social Engineering,42,41.54
+Phishing,Telecommunications,902952,Unknown,Weak Passwords,8,90.67
+Ransomware,IT,632075,Insider,Social Engineering,64,34.94
+SQL Injection,Healthcare,728486,Nation-state,Social Engineering,61,83.73
+DDoS,Education,109439,Insider,Zero-day,32,64.62
+Malware,Education,1174,Insider,Weak Passwords,23,86.38
+Phishing,Education,953987,Insider,Social Engineering,65,25.7
+DDoS,Government,713309,Hacker Group,Zero-day,51,56.2
+DDoS,Healthcare,334528,Insider,Weak Passwords,5,11.38
+Phishing,IT,219826,Nation-state,Social Engineering,38,92.53
+SQL Injection,Telecommunications,916744,Nation-state,Social Engineering,47,88.6
+Man-in-the-Middle,IT,568560,Hacker Group,Zero-day,49,30.4
+Malware,Education,440178,Insider,Unpatched Software,15,90.7
+SQL Injection,Healthcare,172628,Insider,Weak Passwords,4,45.38
+Ransomware,Government,257989,Unknown,Unpatched Software,68,71.33
+Phishing,Healthcare,573560,Hacker Group,Social Engineering,9,9.42
+Malware,Education,850056,Hacker Group,Weak Passwords,65,5.27
+DDoS,Retail,860119,Nation-state,Unpatched Software,30,41.59
+SQL Injection,Education,140958,Insider,Social Engineering,51,98.78
+DDoS,Telecommunications,965727,Nation-state,Zero-day,32,61.24
+Malware,Telecommunications,20269,Unknown,Social Engineering,36,69.34
+DDoS,Retail,323011,Nation-state,Social Engineering,25,7.84
+Ransomware,Retail,50321,Nation-state,Social Engineering,25,57.17
+DDoS,Banking,851863,Insider,Weak Passwords,25,33.99
+DDoS,IT,704925,Unknown,Unpatched Software,52,22.45
+Ransomware,Banking,355077,Nation-state,Unpatched Software,65,27.78
+Malware,Education,866057,Unknown,Social Engineering,17,47.12
+SQL Injection,Telecommunications,169455,Insider,Zero-day,23,48.77
+SQL Injection,IT,380022,Unknown,Unpatched Software,30,92.35
+SQL Injection,Retail,898679,Insider,Zero-day,35,88.98
+Ransomware,IT,704157,Unknown,Zero-day,42,61.69
+Malware,Telecommunications,262201,Nation-state,Weak Passwords,54,84.57
+DDoS,Telecommunications,683261,Hacker Group,Unpatched Software,13,67.87
+Phishing,IT,382379,Nation-state,Unpatched Software,2,59.7
+Phishing,Government,510657,Nation-state,Social Engineering,62,90.21
+SQL Injection,Education,912558,Nation-state,Unpatched Software,69,16.23
+Ransomware,Banking,952504,Hacker Group,Zero-day,45,16.91
+Phishing,Government,913027,Insider,Unpatched Software,68,41.88
+Malware,Government,269271,Insider,Unpatched Software,58,31.04
+Ransomware,Healthcare,113404,Hacker Group,Social Engineering,11,37.12
+DDoS,Healthcare,310868,Hacker Group,Weak Passwords,10,46.2
+Man-in-the-Middle,Telecommunications,458630,Insider,Social Engineering,14,98.3
+Ransomware,IT,912183,Unknown,Weak Passwords,44,16.61
+Man-in-the-Middle,IT,871891,Unknown,Social Engineering,52,71.06
+SQL Injection,Government,863298,Nation-state,Unpatched Software,15,14.17
+Malware,Healthcare,434626,Unknown,Social Engineering,29,82.65
+Ransomware,IT,195490,Unknown,Zero-day,63,78.27
+Ransomware,Retail,19404,Nation-state,Unpatched Software,32,10.44
+Ransomware,Healthcare,217438,Hacker Group,Social Engineering,14,21.95
+Malware,Healthcare,481452,Unknown,Weak Passwords,57,30.83
+SQL Injection,Education,386093,Unknown,Unpatched Software,42,35.57
+Man-in-the-Middle,Banking,929020,Nation-state,Weak Passwords,2,28.29
+Malware,IT,863756,Nation-state,Unpatched Software,66,4.06
+Ransomware,Telecommunications,300898,Nation-state,Unpatched Software,18,58.28
+SQL Injection,Healthcare,191328,Insider,Weak Passwords,51,7.31
+Man-in-the-Middle,Banking,361849,Hacker Group,Zero-day,63,37.69
+Phishing,Retail,30884,Nation-state,Unpatched Software,26,27.99
+Ransomware,IT,902924,Unknown,Social Engineering,12,71.55
+Man-in-the-Middle,Telecommunications,943178,Nation-state,Weak Passwords,63,27.13
+SQL Injection,Telecommunications,994468,Insider,Unpatched Software,8,10.28
+Phishing,Retail,131361,Insider,Weak Passwords,39,31.35
+Malware,Telecommunications,237658,Unknown,Zero-day,26,80.1
+Ransomware,Banking,157313,Hacker Group,Unpatched Software,47,42.19
+Man-in-the-Middle,Education,414340,Insider,Unpatched Software,10,40.98
+DDoS,Healthcare,153523,Insider,Social Engineering,22,58.8
+Phishing,IT,232665,Unknown,Social Engineering,65,3.33
+Phishing,Government,383945,Nation-state,Zero-day,49,58.98
+Ransomware,Government,762006,Unknown,Weak Passwords,21,4.6
+SQL Injection,Government,408103,Nation-state,Unpatched Software,27,96.91
+Phishing,Healthcare,44837,Unknown,Zero-day,18,85.91
+DDoS,Telecommunications,642699,Unknown,Social Engineering,51,51.49
+Ransomware,Telecommunications,634820,Insider,Unpatched Software,33,3.99
+Malware,Retail,887718,Insider,Zero-day,55,3.44
+DDoS,Education,541631,Unknown,Zero-day,30,52.7
+Ransomware,Retail,523522,Unknown,Weak Passwords,57,11.58
+DDoS,Government,686309,Unknown,Unpatched Software,42,91.69
+Man-in-the-Middle,Education,416328,Nation-state,Zero-day,55,79.89
+Man-in-the-Middle,IT,582718,Hacker Group,Social Engineering,20,53.49
+Man-in-the-Middle,Telecommunications,549640,Nation-state,Social Engineering,17,18.91
+DDoS,Retail,1068,Insider,Social Engineering,3,15.34
+DDoS,Telecommunications,959835,Unknown,Zero-day,38,12.72
+Ransomware,Retail,227390,Insider,Weak Passwords,40,46.59
+SQL Injection,Banking,577763,Insider,Zero-day,43,62.9
+SQL Injection,Healthcare,786644,Nation-state,Unpatched Software,41,85.33
+Malware,Healthcare,454802,Insider,Unpatched Software,48,85.15
+DDoS,Healthcare,371685,Unknown,Social Engineering,34,53.53
+Ransomware,Retail,217534,Unknown,Unpatched Software,48,4.32
+Man-in-the-Middle,Telecommunications,376612,Nation-state,Unpatched Software,27,31.68
+Phishing,Banking,812206,Hacker Group,Unpatched Software,39,84.77
+Man-in-the-Middle,Banking,255967,Unknown,Social Engineering,23,82.87
+DDoS,Healthcare,463332,Unknown,Weak Passwords,16,5.32
+DDoS,IT,771547,Hacker Group,Zero-day,5,31.48
+DDoS,Retail,809209,Unknown,Social Engineering,26,86.0
+DDoS,Retail,342575,Insider,Social Engineering,49,35.47
+Phishing,Retail,478963,Insider,Zero-day,70,94.75
+SQL Injection,Banking,910393,Unknown,Weak Passwords,52,39.59
+Phishing,Banking,601198,Insider,Zero-day,41,70.52
+Ransomware,Government,152302,Hacker Group,Social Engineering,26,6.6
+SQL Injection,Healthcare,79102,Nation-state,Zero-day,4,25.85
+Ransomware,Retail,837506,Nation-state,Zero-day,8,80.93
+Malware,Banking,347441,Hacker Group,Social Engineering,58,63.81
+Ransomware,Telecommunications,231198,Insider,Unpatched Software,42,3.63
+DDoS,Government,555275,Unknown,Social Engineering,71,80.09
+SQL Injection,Retail,46699,Unknown,Zero-day,53,24.51
+Man-in-the-Middle,IT,706469,Unknown,Unpatched Software,17,56.23
+Ransomware,IT,311165,Unknown,Social Engineering,34,43.73
+SQL Injection,Government,304257,Nation-state,Weak Passwords,20,85.13
+SQL Injection,Telecommunications,446378,Insider,Unpatched Software,59,24.05
+Ransomware,Healthcare,994243,Hacker Group,Social Engineering,54,32.72
+Phishing,Healthcare,98634,Unknown,Social Engineering,5,81.75
+Phishing,Telecommunications,93999,Nation-state,Social Engineering,65,42.46
+SQL Injection,Education,171095,Hacker Group,Zero-day,63,14.54
+Man-in-the-Middle,IT,820182,Nation-state,Weak Passwords,16,38.92
+SQL Injection,Telecommunications,164890,Insider,Weak Passwords,61,4.2
+SQL Injection,Telecommunications,605020,Insider,Unpatched Software,43,75.91
+Ransomware,Education,500747,Insider,Unpatched Software,58,44.95
+Man-in-the-Middle,IT,854904,Insider,Weak Passwords,12,35.79
+SQL Injection,Healthcare,55719,Unknown,Unpatched Software,71,62.44
+Phishing,Retail,355008,Hacker Group,Unpatched Software,31,19.93
+Phishing,IT,428615,Unknown,Social Engineering,66,75.31
+Phishing,Healthcare,108767,Nation-state,Unpatched Software,48,76.4
+Man-in-the-Middle,IT,939469,Insider,Unpatched Software,45,28.69
+Man-in-the-Middle,Government,325827,Nation-state,Zero-day,39,23.93
+Man-in-the-Middle,Education,996762,Hacker Group,Social Engineering,27,30.44
+Phishing,IT,319868,Hacker Group,Unpatched Software,52,5.14
+Man-in-the-Middle,Banking,66191,Hacker Group,Weak Passwords,71,1.01
+Ransomware,IT,925373,Insider,Zero-day,4,18.53
+Malware,Telecommunications,913114,Insider,Unpatched Software,15,1.52
+DDoS,Healthcare,163975,Nation-state,Unpatched Software,22,84.89
+DDoS,Education,876135,Insider,Unpatched Software,67,66.73
+Ransomware,Government,595380,Hacker Group,Zero-day,10,72.61
+DDoS,Government,840796,Nation-state,Weak Passwords,5,44.16
+DDoS,Telecommunications,484908,Unknown,Weak Passwords,42,80.05
+SQL Injection,Telecommunications,146100,Unknown,Social Engineering,22,13.69
+Phishing,IT,555756,Insider,Zero-day,21,29.02
+Ransomware,Retail,340928,Unknown,Social Engineering,61,69.91
+Malware,Telecommunications,678640,Insider,Zero-day,44,3.76
+Phishing,IT,212798,Insider,Social Engineering,31,57.43
+Ransomware,Retail,354024,Unknown,Weak Passwords,33,63.45
+Man-in-the-Middle,Government,189354,Insider,Zero-day,39,41.34
+Phishing,Education,648363,Unknown,Zero-day,47,22.73
+DDoS,IT,231114,Insider,Weak Passwords,37,5.88
+Ransomware,Banking,489620,Unknown,Unpatched Software,43,9.81
+DDoS,IT,854005,Unknown,Zero-day,14,94.14
+Ransomware,IT,550719,Hacker Group,Zero-day,60,33.24
+Man-in-the-Middle,Government,445254,Hacker Group,Unpatched Software,42,75.37
+Phishing,Education,218097,Unknown,Zero-day,32,49.17
+Malware,Telecommunications,324790,Insider,Zero-day,42,94.87
+SQL Injection,Government,497965,Unknown,Unpatched Software,25,28.71
+SQL Injection,Education,933030,Insider,Social Engineering,27,42.5
+Man-in-the-Middle,IT,538338,Nation-state,Zero-day,1,53.07
+Phishing,Retail,860459,Hacker Group,Social Engineering,11,99.78
+DDoS,Healthcare,276634,Unknown,Unpatched Software,38,82.87
+Man-in-the-Middle,Banking,316299,Insider,Social Engineering,66,81.46
+Ransomware,Healthcare,410385,Unknown,Zero-day,71,33.66
+DDoS,Healthcare,589898,Unknown,Weak Passwords,59,99.28
+Man-in-the-Middle,Retail,63760,Hacker Group,Weak Passwords,8,14.86
+Ransomware,Banking,58037,Insider,Social Engineering,13,33.75
+SQL Injection,Government,994787,Nation-state,Unpatched Software,56,82.03
+Ransomware,Retail,89719,Unknown,Zero-day,68,9.53
+SQL Injection,Telecommunications,590760,Unknown,Unpatched Software,32,6.09
+DDoS,IT,186700,Insider,Weak Passwords,37,29.05
+SQL Injection,Education,682430,Hacker Group,Zero-day,5,89.48
+SQL Injection,Education,60868,Insider,Social Engineering,46,75.2
+SQL Injection,Government,182916,Nation-state,Unpatched Software,17,29.33
+DDoS,Education,181879,Insider,Weak Passwords,64,65.96
+Phishing,Retail,715732,Unknown,Weak Passwords,11,95.2
+Malware,Banking,452477,Hacker Group,Zero-day,23,16.02
+Ransomware,Banking,168881,Insider,Social Engineering,5,11.19
+SQL Injection,Healthcare,94235,Insider,Social Engineering,29,27.42
+Ransomware,Telecommunications,75314,Unknown,Unpatched Software,6,17.38
+Man-in-the-Middle,Retail,515797,Nation-state,Social Engineering,46,99.53
+DDoS,Telecommunications,363906,Insider,Weak Passwords,31,55.05
+DDoS,Education,446296,Unknown,Zero-day,4,79.6
+Ransomware,Telecommunications,329972,Nation-state,Unpatched Software,48,65.18
+Ransomware,Education,639190,Insider,Social Engineering,33,25.73
+Ransomware,Government,135105,Unknown,Unpatched Software,48,33.71
+DDoS,Education,103079,Nation-state,Social Engineering,57,94.74
+DDoS,IT,822364,Unknown,Zero-day,71,75.88
+SQL Injection,Government,597509,Nation-state,Social Engineering,20,75.25
+Man-in-the-Middle,Telecommunications,705678,Hacker Group,Zero-day,57,90.37
+Phishing,Retail,309967,Unknown,Zero-day,26,14.45
+Ransomware,Banking,604250,Unknown,Social Engineering,63,54.47
+Ransomware,IT,131900,Unknown,Unpatched Software,21,33.66
+Ransomware,Government,305494,Insider,Social Engineering,19,84.51
+Malware,Healthcare,907121,Unknown,Social Engineering,33,61.56
+Phishing,Banking,879162,Unknown,Zero-day,38,23.32
+Man-in-the-Middle,Telecommunications,57237,Unknown,Unpatched Software,52,43.71
+Phishing,Telecommunications,880127,Insider,Social Engineering,67,2.84
+Phishing,IT,698847,Insider,Zero-day,17,71.4
+Man-in-the-Middle,Banking,928859,Unknown,Unpatched Software,32,90.87
+SQL Injection,IT,858565,Unknown,Weak Passwords,29,78.94
+Malware,Telecommunications,571265,Unknown,Unpatched Software,17,34.33
+DDoS,Banking,259321,Nation-state,Social Engineering,62,40.64
+Man-in-the-Middle,Banking,121504,Insider,Weak Passwords,32,59.43
+DDoS,Banking,670630,Nation-state,Zero-day,4,50.75
+Ransomware,Banking,277175,Insider,Social Engineering,72,72.18
+Man-in-the-Middle,Retail,952463,Nation-state,Unpatched Software,26,23.35
+DDoS,Government,624619,Unknown,Weak Passwords,67,78.32
+Phishing,Healthcare,363934,Insider,Weak Passwords,24,20.22
+SQL Injection,IT,44750,Unknown,Unpatched Software,22,33.15
+DDoS,Banking,736601,Nation-state,Zero-day,26,8.82
+Ransomware,Education,42876,Unknown,Unpatched Software,40,43.32
+DDoS,Healthcare,536357,Nation-state,Weak Passwords,55,90.4
+Phishing,Government,785099,Insider,Social Engineering,29,55.34
+DDoS,Healthcare,460544,Unknown,Weak Passwords,29,27.89
+Ransomware,Education,881755,Unknown,Zero-day,10,66.04
+SQL Injection,Telecommunications,213393,Unknown,Social Engineering,49,10.24
+Man-in-the-Middle,Telecommunications,213979,Hacker Group,Unpatched Software,10,43.82
+Malware,Telecommunications,570243,Insider,Unpatched Software,51,3.17
+Malware,Government,47624,Nation-state,Weak Passwords,70,72.73
+Man-in-the-Middle,Banking,72940,Nation-state,Zero-day,26,16.09
+Malware,Telecommunications,710142,Insider,Zero-day,56,98.14
+Malware,Retail,360524,Hacker Group,Unpatched Software,47,51.91
+Phishing,IT,309259,Insider,Zero-day,3,55.9
+Phishing,Government,393201,Nation-state,Social Engineering,3,30.68
+Ransomware,IT,306799,Unknown,Zero-day,61,65.2
+Malware,Healthcare,30180,Insider,Weak Passwords,53,81.92
+Phishing,Retail,113745,Unknown,Unpatched Software,2,97.87
+Ransomware,Banking,584428,Nation-state,Weak Passwords,34,24.22
+Ransomware,Healthcare,178268,Nation-state,Unpatched Software,2,3.27
+Phishing,Retail,338578,Unknown,Social Engineering,38,33.69
+DDoS,Healthcare,972407,Hacker Group,Zero-day,51,7.31
+Ransomware,Banking,817169,Insider,Unpatched Software,54,15.66
+Malware,Healthcare,796100,Hacker Group,Social Engineering,20,62.34
+Man-in-the-Middle,Banking,530253,Unknown,Weak Passwords,28,76.06
+Man-in-the-Middle,Government,165496,Nation-state,Weak Passwords,72,50.36
+Ransomware,Banking,501490,Insider,Social Engineering,44,34.92
+Malware,Banking,392365,Insider,Social Engineering,72,11.81
+Malware,Education,194617,Insider,Social Engineering,31,96.72
+Man-in-the-Middle,Retail,516125,Unknown,Zero-day,67,44.34
+Man-in-the-Middle,Telecommunications,393335,Hacker Group,Social Engineering,31,67.72
+SQL Injection,Government,197436,Unknown,Zero-day,10,34.09
+DDoS,Education,452360,Nation-state,Zero-day,65,31.51
+DDoS,Healthcare,913090,Unknown,Zero-day,2,20.39
+SQL Injection,Telecommunications,368222,Insider,Zero-day,56,38.65
+SQL Injection,Healthcare,826937,Unknown,Zero-day,64,77.3
+Ransomware,Retail,673959,Hacker Group,Zero-day,39,89.93
+Ransomware,Education,383246,Nation-state,Unpatched Software,45,4.29
+Man-in-the-Middle,Banking,422890,Insider,Social Engineering,4,76.03
+Malware,Banking,497035,Hacker Group,Zero-day,66,42.3
+Phishing,Government,720220,Unknown,Weak Passwords,71,72.57
+Phishing,Government,808318,Nation-state,Social Engineering,57,93.7
+SQL Injection,IT,294981,Unknown,Zero-day,3,68.63
+Phishing,Healthcare,281182,Nation-state,Zero-day,27,52.7
+Ransomware,Education,95750,Nation-state,Zero-day,44,66.56
+Ransomware,Retail,879260,Hacker Group,Social Engineering,16,91.03
+Man-in-the-Middle,IT,561615,Hacker Group,Weak Passwords,29,14.74
+SQL Injection,Retail,206598,Unknown,Zero-day,45,40.29
+Man-in-the-Middle,IT,171305,Unknown,Unpatched Software,54,56.83
+SQL Injection,Government,492909,Unknown,Zero-day,42,63.45
+Man-in-the-Middle,IT,477493,Hacker Group,Unpatched Software,16,72.57
+Phishing,Government,622723,Nation-state,Weak Passwords,67,22.94
+Malware,Healthcare,124155,Nation-state,Weak Passwords,40,80.22
+Malware,Retail,897277,Unknown,Zero-day,55,34.49
+SQL Injection,Healthcare,28682,Hacker Group,Zero-day,44,51.26
+Phishing,Banking,512431,Nation-state,Unpatched Software,44,73.04
+SQL Injection,IT,171977,Unknown,Zero-day,44,19.14
+SQL Injection,Telecommunications,943070,Hacker Group,Zero-day,36,38.72
+DDoS,Education,887855,Nation-state,Zero-day,7,14.88
+Ransomware,Retail,535110,Nation-state,Zero-day,2,54.05
+Man-in-the-Middle,Telecommunications,817386,Nation-state,Zero-day,8,42.29
+Phishing,Banking,206552,Nation-state,Weak Passwords,13,96.59
+Man-in-the-Middle,Education,154966,Hacker Group,Zero-day,19,71.35
+Phishing,Banking,511287,Unknown,Unpatched Software,34,54.5
+SQL Injection,Banking,426499,Unknown,Unpatched Software,37,94.48
+Man-in-the-Middle,Telecommunications,15907,Hacker Group,Social Engineering,36,73.63
+Phishing,Education,375734,Nation-state,Weak Passwords,31,36.15
+Malware,Government,993826,Unknown,Zero-day,7,19.18
+Ransomware,Banking,397813,Nation-state,Social Engineering,12,83.18
+Ransomware,Banking,185001,Insider,Zero-day,3,70.98
+DDoS,IT,805548,Insider,Unpatched Software,10,7.99
+SQL Injection,Retail,562552,Nation-state,Unpatched Software,37,74.74
+Malware,Education,724513,Nation-state,Zero-day,46,33.12
+SQL Injection,Telecommunications,715395,Unknown,Social Engineering,60,54.1
+Ransomware,Telecommunications,177097,Unknown,Unpatched Software,15,75.13
+Man-in-the-Middle,Banking,407084,Unknown,Unpatched Software,11,56.34
+Phishing,Healthcare,889641,Hacker Group,Social Engineering,50,23.66
+SQL Injection,IT,378105,Unknown,Weak Passwords,4,17.81
+SQL Injection,Education,597987,Hacker Group,Weak Passwords,50,43.96
+Malware,Education,10600,Insider,Social Engineering,47,77.07
+SQL Injection,Healthcare,586784,Hacker Group,Weak Passwords,26,10.82
+SQL Injection,Banking,421083,Insider,Unpatched Software,28,48.53
+Ransomware,Education,127127,Unknown,Social Engineering,47,94.86
+Malware,Government,668188,Insider,Unpatched Software,38,15.92
+SQL Injection,Education,433618,Hacker Group,Social Engineering,59,11.28
+Malware,Telecommunications,51176,Unknown,Social Engineering,61,3.86
+SQL Injection,IT,918452,Unknown,Weak Passwords,16,34.35
+Ransomware,Healthcare,152814,Nation-state,Social Engineering,33,84.92
+Man-in-the-Middle,Retail,502149,Hacker Group,Weak Passwords,29,74.57
+Ransomware,Healthcare,46960,Nation-state,Zero-day,16,89.81
+SQL Injection,Government,651335,Insider,Weak Passwords,21,40.66
+DDoS,Telecommunications,587034,Hacker Group,Weak Passwords,35,69.83
+Man-in-the-Middle,Healthcare,856278,Hacker Group,Zero-day,71,79.58
+DDoS,Banking,880586,Hacker Group,Unpatched Software,56,79.07
+DDoS,Government,78873,Hacker Group,Weak Passwords,27,81.56
+DDoS,Banking,810106,Hacker Group,Weak Passwords,66,62.81
+DDoS,Government,937384,Hacker Group,Unpatched Software,67,28.71
+Man-in-the-Middle,Retail,231307,Unknown,Zero-day,4,36.68
+DDoS,IT,816710,Hacker Group,Weak Passwords,60,71.75
+Man-in-the-Middle,Telecommunications,896828,Unknown,Weak Passwords,33,17.21
+DDoS,Telecommunications,937466,Hacker Group,Social Engineering,28,48.47
+DDoS,Banking,81518,Nation-state,Social Engineering,47,11.72
+Malware,IT,371048,Hacker Group,Zero-day,56,1.35
+Phishing,IT,25946,Hacker Group,Weak Passwords,68,20.13
+Man-in-the-Middle,Education,942088,Insider,Zero-day,46,14.99
+Malware,Telecommunications,915532,Insider,Zero-day,68,28.8
+SQL Injection,Government,755576,Insider,Weak Passwords,23,99.49
+Malware,Education,661644,Insider,Social Engineering,29,6.3
+DDoS,Telecommunications,168951,Insider,Social Engineering,13,95.75
+Man-in-the-Middle,IT,816398,Insider,Social Engineering,39,49.87
+DDoS,Education,79933,Hacker Group,Zero-day,23,83.49
+Malware,Government,506149,Nation-state,Social Engineering,35,83.84
+Phishing,Retail,245015,Nation-state,Zero-day,41,81.26
+SQL Injection,Banking,966993,Hacker Group,Social Engineering,64,66.81
+Malware,Education,235062,Nation-state,Weak Passwords,32,88.87
+Phishing,Healthcare,132520,Unknown,Zero-day,56,75.08
+SQL Injection,Retail,869605,Unknown,Social Engineering,51,56.57
+Phishing,Banking,637264,Hacker Group,Unpatched Software,11,96.27
+DDoS,Banking,759356,Insider,Social Engineering,1,45.6
+DDoS,Education,666096,Hacker Group,Zero-day,9,69.37
+SQL Injection,Telecommunications,851981,Nation-state,Zero-day,57,68.91
+Phishing,Banking,214740,Nation-state,Unpatched Software,57,14.97
+Phishing,Government,372653,Hacker Group,Weak Passwords,60,35.94
+Phishing,Banking,903871,Nation-state,Unpatched Software,17,64.23
+Malware,Education,924049,Nation-state,Social Engineering,5,64.29
+Malware,Government,193983,Nation-state,Zero-day,31,98.05
+Ransomware,Telecommunications,904330,Nation-state,Weak Passwords,49,11.04
+SQL Injection,Education,874254,Nation-state,Zero-day,11,52.05
+Man-in-the-Middle,Healthcare,691190,Nation-state,Unpatched Software,27,28.81
+DDoS,IT,412245,Nation-state,Social Engineering,48,61.42
+Man-in-the-Middle,Healthcare,302180,Insider,Weak Passwords,11,53.77
+Ransomware,Government,537592,Nation-state,Social Engineering,11,8.21
+SQL Injection,Retail,632061,Nation-state,Zero-day,2,25.85
+DDoS,Retail,224815,Nation-state,Social Engineering,32,67.52
+DDoS,IT,169310,Unknown,Weak Passwords,36,23.91
+Man-in-the-Middle,Telecommunications,635827,Nation-state,Social Engineering,72,86.98
+Ransomware,IT,560021,Unknown,Zero-day,43,63.67
+Man-in-the-Middle,Government,768506,Nation-state,Zero-day,11,61.03
+Phishing,Healthcare,755469,Hacker Group,Social Engineering,58,39.94
+Ransomware,Retail,205336,Hacker Group,Social Engineering,2,74.05
+DDoS,IT,957779,Nation-state,Social Engineering,17,7.52
+Malware,Education,85644,Hacker Group,Social Engineering,3,29.47
+Man-in-the-Middle,Telecommunications,561713,Insider,Unpatched Software,31,75.99
+Phishing,Healthcare,287762,Insider,Weak Passwords,13,53.57
+Phishing,Healthcare,471550,Unknown,Zero-day,5,76.08
+SQL Injection,IT,33209,Insider,Unpatched Software,66,69.19
+Phishing,Retail,395251,Unknown,Unpatched Software,33,45.83
+DDoS,IT,491791,Hacker Group,Zero-day,66,14.77
+Phishing,Healthcare,279874,Hacker Group,Unpatched Software,66,53.81
+Malware,IT,881326,Insider,Unpatched Software,43,71.94
+DDoS,IT,749700,Nation-state,Zero-day,35,68.86
+Phishing,Government,722445,Nation-state,Weak Passwords,10,97.56
+Ransomware,Government,695841,Nation-state,Zero-day,21,84.13
+SQL Injection,Government,803757,Hacker Group,Social Engineering,33,40.95
+DDoS,IT,174510,Insider,Zero-day,60,20.16
+SQL Injection,Retail,857660,Hacker Group,Zero-day,37,11.51
+SQL Injection,Banking,729265,Unknown,Zero-day,42,47.67
+Phishing,Retail,836604,Hacker Group,Unpatched Software,44,38.89
+Malware,Government,885843,Insider,Unpatched Software,46,91.69
+Man-in-the-Middle,Education,808798,Unknown,Social Engineering,60,17.94
+Man-in-the-Middle,Telecommunications,401208,Hacker Group,Unpatched Software,10,30.5
+Ransomware,Healthcare,380970,Nation-state,Weak Passwords,44,77.33
+Phishing,Healthcare,248437,Hacker Group,Social Engineering,70,70.03
+SQL Injection,Retail,709125,Hacker Group,Weak Passwords,37,66.49
+Malware,Education,656250,Hacker Group,Social Engineering,67,5.33
+Ransomware,Healthcare,32616,Unknown,Unpatched Software,63,10.46
+Phishing,Healthcare,290846,Unknown,Weak Passwords,3,39.3
+DDoS,Banking,557428,Insider,Unpatched Software,38,23.83
+DDoS,Banking,182440,Insider,Zero-day,8,59.13
+DDoS,Government,292383,Insider,Social Engineering,71,30.24
+DDoS,Government,99728,Nation-state,Unpatched Software,44,86.82
+DDoS,IT,365006,Insider,Weak Passwords,47,66.39
+Ransomware,Telecommunications,605427,Nation-state,Zero-day,33,61.11
+Malware,Retail,864358,Hacker Group,Unpatched Software,11,7.65
+Ransomware,Retail,610968,Unknown,Unpatched Software,26,9.82
+DDoS,IT,413150,Hacker Group,Social Engineering,27,67.28
+Malware,Education,681956,Nation-state,Social Engineering,35,13.14
+Man-in-the-Middle,IT,94162,Unknown,Weak Passwords,15,84.46
+Man-in-the-Middle,Retail,565002,Hacker Group,Unpatched Software,72,9.43
+Phishing,Retail,275185,Nation-state,Zero-day,20,90.69
+DDoS,Retail,476758,Hacker Group,Unpatched Software,19,37.47
+SQL Injection,Banking,312607,Hacker Group,Weak Passwords,24,7.2
+Phishing,Banking,963192,Hacker Group,Weak Passwords,7,94.15
+Malware,Healthcare,680874,Unknown,Zero-day,8,42.15
+DDoS,Government,904770,Hacker Group,Social Engineering,4,15.71
+SQL Injection,Government,429452,Hacker Group,Weak Passwords,6,98.46
+Ransomware,Healthcare,858128,Hacker Group,Social Engineering,35,51.71
+Malware,Education,615849,Nation-state,Unpatched Software,44,42.26
+Phishing,Education,467349,Nation-state,Zero-day,44,99.45
+SQL Injection,Retail,235418,Nation-state,Weak Passwords,28,63.74
+SQL Injection,IT,823606,Insider,Weak Passwords,25,5.05
+SQL Injection,IT,923489,Nation-state,Unpatched Software,66,89.38
+Phishing,IT,630793,Hacker Group,Social Engineering,64,58.57
+SQL Injection,Education,691903,Unknown,Zero-day,54,65.83
+Phishing,Government,133632,Hacker Group,Weak Passwords,8,79.79
+Phishing,Banking,42278,Insider,Weak Passwords,45,90.5
+Phishing,IT,176471,Unknown,Zero-day,9,2.1
+SQL Injection,Telecommunications,916516,Hacker Group,Social Engineering,68,63.72
+SQL Injection,Government,510002,Hacker Group,Social Engineering,62,87.8
+Malware,IT,435994,Nation-state,Unpatched Software,51,82.45
+Ransomware,IT,537670,Hacker Group,Unpatched Software,55,66.19
+Malware,Banking,850339,Hacker Group,Social Engineering,50,39.62
+DDoS,Government,937562,Unknown,Zero-day,10,35.46
+Malware,Government,405267,Nation-state,Unpatched Software,5,10.62
+DDoS,Government,346279,Unknown,Zero-day,59,80.76
+DDoS,Telecommunications,889928,Nation-state,Zero-day,63,10.45
+SQL Injection,Healthcare,376206,Unknown,Unpatched Software,44,0.95
+Ransomware,IT,227433,Unknown,Unpatched Software,13,27.14
+Ransomware,Healthcare,393779,Nation-state,Weak Passwords,39,54.79
+Ransomware,IT,529025,Insider,Unpatched Software,42,41.08
+Man-in-the-Middle,Education,451311,Unknown,Weak Passwords,14,8.94
+Ransomware,Education,677198,Unknown,Social Engineering,28,98.11
+Man-in-the-Middle,Healthcare,480988,Nation-state,Unpatched Software,59,9.4
+Ransomware,Telecommunications,605536,Nation-state,Unpatched Software,61,46.39
+Ransomware,Banking,910960,Nation-state,Social Engineering,31,30.61
+Ransomware,Banking,386308,Nation-state,Weak Passwords,3,43.98
+Man-in-the-Middle,Banking,100855,Unknown,Social Engineering,2,54.38
+Malware,Education,317922,Insider,Social Engineering,18,23.74
+DDoS,IT,220618,Unknown,Weak Passwords,59,82.13
+Ransomware,Telecommunications,825941,Hacker Group,Unpatched Software,54,24.7
+Malware,Education,331234,Unknown,Social Engineering,3,60.9
+Man-in-the-Middle,Telecommunications,855055,Hacker Group,Unpatched Software,59,14.61
+DDoS,Telecommunications,305329,Unknown,Unpatched Software,40,34.31
+Phishing,Government,442923,Nation-state,Social Engineering,57,32.39
+Ransomware,Banking,893277,Unknown,Social Engineering,15,79.3
+Malware,Healthcare,240532,Insider,Weak Passwords,64,30.86
+DDoS,Healthcare,947960,Nation-state,Weak Passwords,55,93.14
+Malware,Healthcare,437283,Insider,Zero-day,30,52.87
+Malware,Healthcare,761390,Insider,Weak Passwords,7,29.61
+Phishing,Retail,998507,Insider,Weak Passwords,15,25.75
+DDoS,Retail,593329,Hacker Group,Unpatched Software,62,82.17
+Phishing,Banking,197590,Insider,Zero-day,62,60.07
+Ransomware,Banking,53111,Hacker Group,Social Engineering,15,50.75
+Phishing,Retail,69641,Hacker Group,Unpatched Software,54,14.88
+DDoS,IT,953770,Insider,Weak Passwords,54,73.98
+SQL Injection,Retail,643549,Nation-state,Weak Passwords,20,42.33
+Man-in-the-Middle,Education,899279,Insider,Zero-day,39,77.98
+Ransomware,Education,857887,Unknown,Social Engineering,44,8.55
+Phishing,Government,503775,Unknown,Zero-day,71,30.57
+SQL Injection,IT,452892,Unknown,Weak Passwords,17,36.98
+Ransomware,Healthcare,327566,Unknown,Unpatched Software,6,24.06
+Ransomware,Education,851204,Insider,Zero-day,3,50.66
+Man-in-the-Middle,Government,923309,Hacker Group,Unpatched Software,29,79.27
+Phishing,Banking,151590,Nation-state,Zero-day,30,71.86
+DDoS,Education,452432,Nation-state,Unpatched Software,8,21.01
+Ransomware,Retail,769596,Nation-state,Weak Passwords,65,95.38
+Phishing,Banking,407151,Unknown,Weak Passwords,37,14.79
+DDoS,IT,312555,Nation-state,Social Engineering,67,45.97
+Man-in-the-Middle,Government,311908,Unknown,Weak Passwords,68,76.39
+Malware,Banking,59979,Insider,Zero-day,41,68.55
+Malware,IT,233545,Unknown,Zero-day,55,9.86
+Man-in-the-Middle,Retail,722081,Hacker Group,Zero-day,33,89.85
+SQL Injection,Healthcare,873037,Nation-state,Unpatched Software,31,76.99
+Malware,IT,482213,Nation-state,Social Engineering,3,12.08
+Phishing,Education,512850,Hacker Group,Zero-day,15,39.72
+Man-in-the-Middle,Telecommunications,849834,Hacker Group,Zero-day,56,37.73
+Malware,Retail,660707,Insider,Unpatched Software,11,78.03
+Ransomware,Education,697935,Unknown,Social Engineering,16,6.77
+Malware,IT,500655,Nation-state,Zero-day,8,71.92
+Ransomware,IT,239343,Nation-state,Zero-day,63,95.79
+Phishing,Retail,143728,Unknown,Zero-day,57,90.04
+Phishing,Retail,464717,Insider,Weak Passwords,27,99.64
+SQL Injection,Education,351063,Nation-state,Weak Passwords,56,1.25
+DDoS,Government,479025,Nation-state,Zero-day,54,13.96
+DDoS,Banking,823004,Nation-state,Zero-day,22,1.62
+DDoS,Education,394957,Hacker Group,Weak Passwords,27,18.47
+Phishing,Telecommunications,96640,Unknown,Social Engineering,60,28.88
+DDoS,Education,325634,Insider,Weak Passwords,5,19.5
+SQL Injection,Government,662667,Hacker Group,Zero-day,30,29.63
+Phishing,IT,107681,Unknown,Zero-day,18,57.24
+Phishing,Banking,982243,Insider,Zero-day,6,3.2
+SQL Injection,Government,950425,Unknown,Social Engineering,54,79.19
+Ransomware,Education,279808,Insider,Social Engineering,60,80.5
+SQL Injection,Telecommunications,190099,Unknown,Zero-day,15,71.2
+Malware,Government,713035,Nation-state,Social Engineering,59,12.04
+Malware,Retail,817347,Nation-state,Weak Passwords,68,29.05
+Ransomware,Healthcare,707214,Unknown,Weak Passwords,11,28.18
+DDoS,Retail,668780,Hacker Group,Zero-day,33,39.26
+DDoS,Telecommunications,609196,Unknown,Social Engineering,4,57.21
+Man-in-the-Middle,Telecommunications,980367,Nation-state,Unpatched Software,3,83.88
+Man-in-the-Middle,IT,919858,Nation-state,Unpatched Software,47,84.1
+DDoS,Healthcare,195459,Hacker Group,Weak Passwords,14,39.49
+Man-in-the-Middle,Government,713342,Unknown,Weak Passwords,36,46.76
+DDoS,Banking,19007,Nation-state,Unpatched Software,29,80.68
+Ransomware,Government,963091,Insider,Zero-day,37,86.56
+Malware,Government,726887,Hacker Group,Social Engineering,13,66.25
+DDoS,IT,130413,Unknown,Social Engineering,66,78.76
+Malware,Banking,906914,Hacker Group,Zero-day,15,97.68
+Ransomware,IT,557218,Nation-state,Zero-day,70,14.94
+SQL Injection,Banking,380543,Unknown,Weak Passwords,26,59.29
+Malware,Retail,337363,Insider,Social Engineering,2,39.55
+DDoS,IT,803086,Nation-state,Social Engineering,23,14.04
+Man-in-the-Middle,IT,195858,Hacker Group,Zero-day,1,63.79
+Malware,Banking,358371,Insider,Weak Passwords,30,37.03
+Phishing,Retail,212267,Insider,Zero-day,14,9.12
+Man-in-the-Middle,Healthcare,757744,Nation-state,Zero-day,43,52.04
+Ransomware,Retail,747705,Insider,Unpatched Software,47,59.13
+Phishing,Telecommunications,996651,Hacker Group,Weak Passwords,69,64.67
+Ransomware,Government,281905,Insider,Social Engineering,32,52.78
+Man-in-the-Middle,Healthcare,739981,Unknown,Social Engineering,54,7.44
+SQL Injection,Telecommunications,554448,Hacker Group,Social Engineering,31,47.19
+Ransomware,Healthcare,745103,Insider,Unpatched Software,8,99.19
+DDoS,Healthcare,600279,Insider,Unpatched Software,16,10.94
+Man-in-the-Middle,IT,973654,Unknown,Unpatched Software,23,48.86
+DDoS,Telecommunications,78123,Hacker Group,Social Engineering,50,80.48
+Man-in-the-Middle,Government,675955,Insider,Zero-day,60,69.96
+DDoS,IT,122866,Insider,Unpatched Software,46,18.96
+Ransomware,Education,177570,Nation-state,Social Engineering,72,66.33
+Man-in-the-Middle,Retail,774913,Unknown,Unpatched Software,43,60.4
+Phishing,IT,852327,Unknown,Zero-day,44,24.92
+DDoS,IT,775033,Hacker Group,Zero-day,8,32.06
+Phishing,Telecommunications,823093,Insider,Zero-day,36,71.77
+Phishing,Government,947445,Insider,Social Engineering,59,70.59
+DDoS,IT,972713,Unknown,Unpatched Software,71,75.34
+Malware,Banking,116840,Unknown,Zero-day,51,9.99
+Ransomware,Telecommunications,710953,Unknown,Zero-day,9,91.94
+DDoS,IT,467190,Nation-state,Social Engineering,25,66.09
+Phishing,Healthcare,540773,Unknown,Unpatched Software,15,66.73
+SQL Injection,Banking,874040,Unknown,Social Engineering,6,40.11
+SQL Injection,Healthcare,8498,Nation-state,Weak Passwords,17,60.71
+DDoS,IT,112881,Hacker Group,Social Engineering,32,18.48
+DDoS,IT,942725,Insider,Zero-day,56,9.9
+Phishing,Education,168684,Nation-state,Unpatched Software,27,52.03
+DDoS,Telecommunications,559274,Hacker Group,Social Engineering,27,25.06
+Phishing,Retail,144856,Unknown,Unpatched Software,13,13.68
+Malware,Banking,418914,Nation-state,Unpatched Software,53,2.63
+Phishing,Retail,842945,Hacker Group,Weak Passwords,67,88.47
+DDoS,Government,841198,Unknown,Zero-day,41,50.04
+Phishing,Government,50054,Insider,Unpatched Software,24,19.52
+DDoS,Telecommunications,52302,Unknown,Social Engineering,58,4.52
+Man-in-the-Middle,Banking,694308,Nation-state,Weak Passwords,66,97.28
+Malware,Telecommunications,520232,Nation-state,Weak Passwords,53,62.67
+SQL Injection,Retail,575379,Unknown,Zero-day,35,46.34
+Man-in-the-Middle,IT,850714,Hacker Group,Unpatched Software,6,26.45
+SQL Injection,Healthcare,403325,Hacker Group,Weak Passwords,35,14.12
+Phishing,Education,345577,Insider,Unpatched Software,4,80.99
+Man-in-the-Middle,IT,428352,Hacker Group,Unpatched Software,41,30.51
+Phishing,Banking,852592,Nation-state,Zero-day,12,69.45
+SQL Injection,Education,36804,Unknown,Weak Passwords,30,78.12
+Phishing,Telecommunications,725707,Hacker Group,Weak Passwords,9,92.63
+Man-in-the-Middle,Telecommunications,765929,Nation-state,Weak Passwords,16,35.27
+Man-in-the-Middle,Retail,242574,Nation-state,Social Engineering,59,17.22
+SQL Injection,Education,838652,Unknown,Social Engineering,20,45.52
+DDoS,Telecommunications,389405,Nation-state,Weak Passwords,53,99.04
+Phishing,Telecommunications,359577,Unknown,Zero-day,38,56.44
+Man-in-the-Middle,Telecommunications,943689,Insider,Zero-day,32,73.24
+SQL Injection,Education,783795,Insider,Weak Passwords,43,14.69
+DDoS,Healthcare,263506,Insider,Zero-day,49,72.05
+DDoS,Telecommunications,457184,Insider,Social Engineering,11,20.59
+SQL Injection,Banking,186842,Nation-state,Zero-day,40,68.44
+DDoS,Banking,198929,Nation-state,Weak Passwords,41,8.81
+SQL Injection,Retail,65700,Hacker Group,Zero-day,28,51.58
+Phishing,Telecommunications,90156,Hacker Group,Unpatched Software,65,83.79
+DDoS,Telecommunications,470471,Nation-state,Unpatched Software,53,14.55
+Malware,Retail,33426,Unknown,Social Engineering,16,20.52
+Malware,Education,143037,Insider,Unpatched Software,47,83.29
+Ransomware,Telecommunications,151930,Unknown,Zero-day,4,79.77
+Malware,Education,499651,Nation-state,Zero-day,50,97.2
+DDoS,Education,249211,Insider,Zero-day,59,41.63
+SQL Injection,IT,470074,Insider,Weak Passwords,9,1.01
+Phishing,Banking,429920,Nation-state,Zero-day,37,87.5
+SQL Injection,Healthcare,269314,Unknown,Social Engineering,64,0.75
+Man-in-the-Middle,Healthcare,696199,Nation-state,Weak Passwords,42,37.16
+Phishing,Banking,355505,Nation-state,Unpatched Software,35,98.38
+DDoS,IT,890234,Nation-state,Unpatched Software,53,55.94
+Ransomware,Telecommunications,581616,Insider,Social Engineering,1,23.63
+SQL Injection,IT,155768,Nation-state,Social Engineering,19,39.44
+Malware,Telecommunications,824298,Nation-state,Unpatched Software,4,83.69
+Malware,Government,212533,Insider,Unpatched Software,71,28.88
+Ransomware,Banking,47737,Hacker Group,Social Engineering,69,10.1
+Man-in-the-Middle,IT,940513,Unknown,Unpatched Software,10,47.01
+Man-in-the-Middle,Banking,292992,Insider,Zero-day,15,18.66
+Malware,Telecommunications,639779,Nation-state,Zero-day,6,79.72
+DDoS,Banking,949862,Hacker Group,Weak Passwords,25,29.85
+Phishing,Healthcare,260396,Hacker Group,Zero-day,16,0.92
+Phishing,IT,215376,Nation-state,Social Engineering,18,92.48
+DDoS,Telecommunications,689397,Insider,Social Engineering,68,20.09
+SQL Injection,Education,238092,Nation-state,Zero-day,32,16.24
+Phishing,Banking,289539,Nation-state,Unpatched Software,27,18.42
+DDoS,Healthcare,382327,Insider,Zero-day,30,49.02
+Phishing,Government,605810,Unknown,Zero-day,41,12.43
+DDoS,Banking,588345,Insider,Unpatched Software,49,1.27
+Phishing,Government,831367,Insider,Social Engineering,55,21.58
+Man-in-the-Middle,Banking,880671,Hacker Group,Social Engineering,66,14.64
+DDoS,Retail,418211,Insider,Unpatched Software,39,92.32
+Man-in-the-Middle,Retail,264380,Insider,Zero-day,37,31.4
+Phishing,Banking,437974,Hacker Group,Zero-day,20,9.25
+Phishing,IT,713949,Hacker Group,Unpatched Software,71,37.1
+SQL Injection,IT,523164,Hacker Group,Weak Passwords,30,8.5
+DDoS,Telecommunications,193852,Insider,Zero-day,54,85.23
+DDoS,Retail,655640,Nation-state,Zero-day,61,14.09
+Phishing,IT,573328,Insider,Zero-day,10,76.02
+Malware,Government,798717,Hacker Group,Social Engineering,10,46.27
+DDoS,Telecommunications,899413,Nation-state,Weak Passwords,11,59.86
+SQL Injection,Healthcare,436009,Nation-state,Social Engineering,44,18.75
+SQL Injection,Retail,142291,Nation-state,Weak Passwords,29,56.3
+Man-in-the-Middle,Government,276197,Unknown,Zero-day,2,64.8
+Ransomware,IT,807918,Hacker Group,Social Engineering,37,33.61
+Man-in-the-Middle,Telecommunications,483484,Hacker Group,Unpatched Software,2,90.99
+Ransomware,IT,7290,Insider,Weak Passwords,32,41.79
+DDoS,IT,333967,Insider,Zero-day,26,38.69
+Man-in-the-Middle,Education,840118,Hacker Group,Zero-day,58,84.4
+Malware,Healthcare,187312,Nation-state,Zero-day,58,69.46
+DDoS,IT,470727,Unknown,Weak Passwords,8,34.46
+Malware,Education,629490,Hacker Group,Zero-day,38,95.97
+SQL Injection,Government,904598,Hacker Group,Social Engineering,11,98.76
+Ransomware,Education,820632,Unknown,Social Engineering,65,12.59
+DDoS,Retail,214152,Insider,Weak Passwords,7,78.78
+DDoS,Banking,18766,Insider,Weak Passwords,43,21.11
+Malware,Banking,760230,Nation-state,Zero-day,56,50.19
+Ransomware,Healthcare,603402,Insider,Zero-day,57,76.83
+Man-in-the-Middle,Healthcare,693907,Hacker Group,Zero-day,54,17.49
+SQL Injection,Banking,698892,Unknown,Zero-day,24,66.78
+Phishing,IT,64082,Unknown,Social Engineering,16,24.17
+Ransomware,IT,687052,Nation-state,Unpatched Software,34,38.84
+Phishing,Government,417488,Hacker Group,Weak Passwords,23,14.98
+Ransomware,Telecommunications,970038,Nation-state,Zero-day,47,15.14
+SQL Injection,Government,240441,Unknown,Zero-day,17,10.4
+Man-in-the-Middle,Banking,747418,Insider,Unpatched Software,20,59.67
+Malware,Retail,977185,Insider,Social Engineering,71,36.66
+Malware,Retail,267401,Unknown,Zero-day,20,58.98
+Ransomware,Retail,496271,Hacker Group,Unpatched Software,20,19.47
+Phishing,Banking,104619,Insider,Unpatched Software,68,64.62
+Ransomware,Healthcare,877571,Insider,Weak Passwords,19,98.25
+Ransomware,Healthcare,93314,Hacker Group,Unpatched Software,24,41.88
+DDoS,Government,790415,Hacker Group,Zero-day,52,13.22
+Ransomware,IT,107180,Nation-state,Zero-day,68,54.65
+Phishing,IT,401960,Nation-state,Unpatched Software,44,72.01
+Ransomware,Telecommunications,602474,Unknown,Social Engineering,71,93.89
+Phishing,Education,701144,Hacker Group,Unpatched Software,41,18.64
+Malware,Education,116714,Insider,Social Engineering,37,64.05
+Man-in-the-Middle,IT,453408,Nation-state,Social Engineering,8,41.79
+Phishing,Retail,40843,Unknown,Weak Passwords,66,13.37
+Man-in-the-Middle,Healthcare,336650,Hacker Group,Zero-day,35,1.62
+Phishing,Healthcare,911233,Hacker Group,Weak Passwords,18,92.64
+Ransomware,Telecommunications,812908,Hacker Group,Weak Passwords,12,32.18
+SQL Injection,Education,796878,Nation-state,Zero-day,26,64.26
+Man-in-the-Middle,Government,738014,Unknown,Social Engineering,24,81.57
+DDoS,Education,315915,Nation-state,Social Engineering,52,87.32
+Ransomware,Education,164734,Nation-state,Unpatched Software,7,70.44
+Man-in-the-Middle,IT,617939,Unknown,Zero-day,22,1.75
+Phishing,Healthcare,374164,Hacker Group,Weak Passwords,53,96.81
+Phishing,Banking,332766,Hacker Group,Weak Passwords,53,74.51
+Phishing,Healthcare,414899,Unknown,Weak Passwords,37,2.52
+DDoS,Retail,140371,Hacker Group,Zero-day,13,81.63
+Ransomware,Education,729109,Insider,Weak Passwords,22,43.53
+DDoS,Education,776200,Unknown,Weak Passwords,49,84.28
+Phishing,Healthcare,839921,Unknown,Zero-day,5,17.6
+Malware,Education,312314,Unknown,Social Engineering,35,31.35
+Man-in-the-Middle,Healthcare,299613,Hacker Group,Zero-day,20,65.72
+Phishing,Banking,250482,Insider,Weak Passwords,20,43.81
+DDoS,Banking,230110,Unknown,Social Engineering,51,84.41
+SQL Injection,Retail,852650,Nation-state,Social Engineering,50,55.78
+DDoS,Telecommunications,337890,Unknown,Weak Passwords,35,67.47
+Malware,Education,557108,Nation-state,Zero-day,17,8.08
+DDoS,Telecommunications,299968,Insider,Zero-day,46,46.2
+Phishing,Telecommunications,459296,Nation-state,Weak Passwords,13,72.06
+Ransomware,Telecommunications,46972,Nation-state,Social Engineering,23,90.48
+Malware,Healthcare,602041,Hacker Group,Unpatched Software,25,21.26
+Phishing,Banking,36797,Insider,Unpatched Software,2,82.93
+SQL Injection,Healthcare,730762,Insider,Social Engineering,19,23.15
+Malware,Government,91194,Hacker Group,Unpatched Software,72,66.19
+SQL Injection,Banking,42883,Unknown,Zero-day,37,95.81
+SQL Injection,Retail,422592,Nation-state,Unpatched Software,37,48.33
+Man-in-the-Middle,Healthcare,837320,Unknown,Social Engineering,14,29.54
+Phishing,Banking,708034,Unknown,Zero-day,39,44.08
+Phishing,IT,47841,Hacker Group,Weak Passwords,23,91.71
+SQL Injection,Banking,274703,Nation-state,Social Engineering,6,73.94
+Malware,Healthcare,776819,Insider,Unpatched Software,64,10.35
+Man-in-the-Middle,IT,544648,Unknown,Weak Passwords,47,89.6
+Man-in-the-Middle,Government,735203,Insider,Zero-day,66,11.99
+SQL Injection,Education,424342,Unknown,Social Engineering,57,77.02
+Malware,Retail,155353,Unknown,Weak Passwords,67,78.82
+DDoS,Banking,735855,Insider,Unpatched Software,23,64.64
+Man-in-the-Middle,IT,765453,Unknown,Social Engineering,39,11.91
+SQL Injection,Education,788243,Insider,Social Engineering,38,82.52
+Phishing,Banking,253058,Hacker Group,Social Engineering,44,69.85
+Phishing,Healthcare,537530,Nation-state,Zero-day,14,80.11
+SQL Injection,Banking,95779,Nation-state,Zero-day,43,2.46
+Phishing,Healthcare,906160,Unknown,Zero-day,48,59.79
+Ransomware,Education,490910,Insider,Zero-day,58,11.06
+SQL Injection,Banking,522097,Hacker Group,Weak Passwords,63,73.69
+Man-in-the-Middle,Retail,218143,Nation-state,Unpatched Software,27,53.57
+Malware,IT,667023,Unknown,Zero-day,26,30.2
+Malware,Education,362308,Unknown,Social Engineering,5,67.23
+DDoS,IT,717258,Insider,Unpatched Software,16,86.81
+Man-in-the-Middle,Retail,984,Insider,Unpatched Software,56,76.39
+DDoS,Telecommunications,956064,Insider,Weak Passwords,45,96.61
+Malware,Retail,891367,Nation-state,Social Engineering,21,64.3
+Man-in-the-Middle,IT,842637,Nation-state,Unpatched Software,55,79.33
+DDoS,IT,772018,Hacker Group,Weak Passwords,46,45.91
+Malware,IT,945897,Insider,Weak Passwords,66,41.67
+SQL Injection,Banking,508544,Insider,Unpatched Software,45,81.33
+Ransomware,Healthcare,125309,Unknown,Social Engineering,13,91.8
+Man-in-the-Middle,IT,529410,Insider,Zero-day,59,3.69
+Phishing,Education,665381,Insider,Unpatched Software,61,24.25
+Man-in-the-Middle,Telecommunications,163110,Nation-state,Zero-day,35,89.5
+Ransomware,IT,354784,Hacker Group,Social Engineering,65,60.24
+Ransomware,Education,643306,Hacker Group,Zero-day,50,7.65
+Malware,Telecommunications,23249,Insider,Social Engineering,1,44.93
+SQL Injection,Retail,763017,Insider,Social Engineering,24,26.98
+Ransomware,Retail,71334,Unknown,Unpatched Software,26,84.08
+SQL Injection,Government,605470,Nation-state,Unpatched Software,18,99.2
+SQL Injection,Government,356387,Nation-state,Zero-day,11,40.63
+Malware,IT,260907,Insider,Weak Passwords,31,11.89
+Man-in-the-Middle,IT,560693,Hacker Group,Weak Passwords,1,73.71
+Phishing,IT,82841,Insider,Social Engineering,36,16.44
+Malware,Government,262500,Nation-state,Social Engineering,27,51.05
+Malware,IT,116201,Nation-state,Zero-day,14,49.13
+Phishing,IT,44473,Unknown,Weak Passwords,67,17.06
+Ransomware,IT,372975,Hacker Group,Weak Passwords,64,93.15
+DDoS,Government,613192,Insider,Weak Passwords,50,66.4
+SQL Injection,Government,421023,Insider,Unpatched Software,72,20.21
+Ransomware,Healthcare,818172,Unknown,Social Engineering,30,1.48
+Ransomware,Education,828880,Hacker Group,Unpatched Software,69,22.77
+Man-in-the-Middle,Government,487668,Hacker Group,Unpatched Software,72,56.15
+Ransomware,Telecommunications,253094,Hacker Group,Unpatched Software,19,10.52
+SQL Injection,Telecommunications,712886,Hacker Group,Weak Passwords,7,34.84
+Phishing,IT,65176,Unknown,Weak Passwords,49,5.05
+SQL Injection,IT,248356,Nation-state,Weak Passwords,25,54.59
+DDoS,Education,499615,Hacker Group,Unpatched Software,19,52.36
+Man-in-the-Middle,Telecommunications,446917,Unknown,Unpatched Software,1,10.2
+SQL Injection,Education,164892,Insider,Weak Passwords,63,77.96
+SQL Injection,IT,627852,Nation-state,Unpatched Software,23,61.97
+DDoS,Banking,219846,Insider,Social Engineering,13,61.15
+Malware,Education,862049,Insider,Unpatched Software,43,83.04
+Man-in-the-Middle,Education,270984,Nation-state,Zero-day,28,37.18
+Malware,Government,979810,Insider,Weak Passwords,34,27.09
+SQL Injection,Government,944106,Insider,Unpatched Software,2,0.72
+Phishing,Banking,612761,Nation-state,Unpatched Software,71,9.24
+Malware,Telecommunications,813960,Hacker Group,Weak Passwords,6,8.69
+DDoS,Healthcare,510895,Unknown,Weak Passwords,6,32.07
+Malware,Healthcare,652957,Insider,Weak Passwords,65,71.94
+Ransomware,IT,991854,Unknown,Unpatched Software,11,84.09
+Ransomware,Retail,382041,Unknown,Weak Passwords,4,56.06
+Man-in-the-Middle,Government,428556,Unknown,Weak Passwords,15,47.76
+SQL Injection,Banking,455556,Insider,Social Engineering,1,79.34
+Ransomware,Healthcare,18399,Unknown,Zero-day,14,17.58
+Man-in-the-Middle,Government,984519,Nation-state,Unpatched Software,57,97.79
+DDoS,Retail,740795,Hacker Group,Unpatched Software,12,75.1
+SQL Injection,Telecommunications,483585,Unknown,Unpatched Software,13,39.58
+Ransomware,Healthcare,989151,Unknown,Social Engineering,2,78.08
+SQL Injection,Government,946613,Insider,Social Engineering,21,63.89
+Ransomware,Banking,77845,Insider,Social Engineering,26,24.33
+Ransomware,IT,403494,Hacker Group,Social Engineering,3,70.91
+Man-in-the-Middle,Banking,524693,Unknown,Unpatched Software,63,23.32
+Phishing,Education,628589,Unknown,Unpatched Software,8,9.84
+Man-in-the-Middle,Healthcare,943349,Nation-state,Zero-day,5,34.29
+DDoS,Retail,100633,Insider,Zero-day,53,1.58
+Phishing,Government,551515,Unknown,Zero-day,37,59.64
+Man-in-the-Middle,Banking,289046,Nation-state,Zero-day,41,80.97
+Malware,Retail,70067,Insider,Weak Passwords,22,22.48
+Phishing,Banking,366596,Insider,Weak Passwords,65,69.99
+SQL Injection,IT,452476,Nation-state,Zero-day,41,51.24
+SQL Injection,Banking,575065,Insider,Weak Passwords,61,70.14
+Man-in-the-Middle,Education,474131,Insider,Unpatched Software,41,68.35
+Phishing,Education,702702,Hacker Group,Zero-day,14,86.3
+DDoS,Government,692900,Unknown,Social Engineering,72,97.18
+SQL Injection,IT,654303,Hacker Group,Unpatched Software,15,92.4
+Ransomware,Banking,851222,Insider,Weak Passwords,16,50.11
+Man-in-the-Middle,Government,729762,Insider,Social Engineering,6,35.59
+DDoS,Healthcare,388698,Nation-state,Social Engineering,35,56.89
+SQL Injection,Telecommunications,293647,Nation-state,Social Engineering,37,86.79
+Phishing,Government,884734,Hacker Group,Weak Passwords,6,84.49
+DDoS,IT,638329,Hacker Group,Social Engineering,11,52.75
+DDoS,Government,47191,Insider,Unpatched Software,28,63.63
+Phishing,Retail,309021,Unknown,Unpatched Software,2,42.69
+DDoS,Telecommunications,834902,Nation-state,Weak Passwords,63,15.14
+DDoS,Banking,132286,Insider,Unpatched Software,66,25.81
+SQL Injection,Banking,659062,Unknown,Unpatched Software,42,46.58
+Malware,Telecommunications,69492,Hacker Group,Social Engineering,29,93.88
+Phishing,IT,388154,Nation-state,Zero-day,29,53.07
+DDoS,Government,889448,Hacker Group,Zero-day,20,24.23
+Phishing,Retail,445458,Hacker Group,Unpatched Software,36,49.08
+Phishing,Banking,828382,Hacker Group,Weak Passwords,4,84.5
+SQL Injection,Education,362492,Insider,Weak Passwords,63,99.31
+Man-in-the-Middle,Healthcare,68886,Hacker Group,Weak Passwords,41,55.4
+DDoS,Education,165722,Unknown,Unpatched Software,23,7.84
+SQL Injection,Government,604113,Insider,Weak Passwords,7,99.72
+Man-in-the-Middle,Healthcare,450466,Unknown,Unpatched Software,52,39.48
+Phishing,Banking,507976,Hacker Group,Zero-day,70,1.13
+DDoS,Banking,180980,Hacker Group,Unpatched Software,15,43.45
+Ransomware,Healthcare,745273,Insider,Zero-day,67,37.36
+SQL Injection,Telecommunications,536737,Unknown,Unpatched Software,44,94.14
+SQL Injection,Banking,202102,Insider,Unpatched Software,54,65.24
+DDoS,Education,134998,Unknown,Zero-day,42,80.79
+Ransomware,Banking,41635,Nation-state,Unpatched Software,37,81.81
+Phishing,Telecommunications,604908,Unknown,Zero-day,25,35.54
+Man-in-the-Middle,IT,688016,Nation-state,Zero-day,26,88.42
+Ransomware,IT,679131,Hacker Group,Weak Passwords,55,56.59
+DDoS,Retail,585934,Insider,Unpatched Software,13,39.28
+Man-in-the-Middle,IT,762605,Nation-state,Unpatched Software,53,88.81
+Malware,Healthcare,984973,Unknown,Zero-day,30,58.9
+Phishing,Education,889970,Nation-state,Unpatched Software,20,9.52
+Phishing,Healthcare,376443,Insider,Zero-day,20,39.92
+Phishing,Retail,699386,Nation-state,Weak Passwords,20,28.54
+Man-in-the-Middle,Retail,158758,Nation-state,Zero-day,72,74.11
+Man-in-the-Middle,Banking,812101,Insider,Social Engineering,52,85.26
+Phishing,Telecommunications,402744,Insider,Zero-day,65,43.72
+Malware,Healthcare,182338,Unknown,Social Engineering,72,77.01
+Man-in-the-Middle,Banking,587213,Unknown,Weak Passwords,32,88.03
+DDoS,Government,419571,Nation-state,Zero-day,72,86.65
+SQL Injection,IT,772541,Nation-state,Unpatched Software,46,33.79
+SQL Injection,Retail,759384,Nation-state,Unpatched Software,22,76.04
+Ransomware,Government,887037,Insider,Unpatched Software,39,57.59
+Ransomware,IT,788555,Insider,Unpatched Software,43,37.22
+Man-in-the-Middle,Telecommunications,438137,Unknown,Unpatched Software,18,57.89
+Ransomware,Government,414907,Hacker Group,Zero-day,42,3.37
+Ransomware,Telecommunications,576302,Hacker Group,Zero-day,2,88.2
+DDoS,IT,156275,Insider,Social Engineering,24,96.08
+DDoS,Government,234154,Nation-state,Unpatched Software,42,84.36
+Phishing,IT,176386,Hacker Group,Unpatched Software,63,92.58
+Malware,Healthcare,775042,Unknown,Zero-day,12,27.92
+Phishing,Telecommunications,992092,Hacker Group,Unpatched Software,3,46.28
+Ransomware,Education,883536,Hacker Group,Unpatched Software,66,25.55
+Phishing,Banking,276541,Hacker Group,Social Engineering,16,15.14
+Phishing,Telecommunications,513620,Unknown,Unpatched Software,65,50.64
+Phishing,Banking,397919,Nation-state,Social Engineering,22,31.73
+Phishing,Telecommunications,32743,Hacker Group,Zero-day,18,73.93
+Phishing,Government,318648,Insider,Zero-day,1,40.62
+Ransomware,Education,353297,Insider,Weak Passwords,58,14.5
+Malware,IT,484009,Insider,Weak Passwords,41,20.85
+Malware,Government,872411,Hacker Group,Zero-day,5,49.51
+Man-in-the-Middle,Education,876348,Unknown,Social Engineering,1,26.14
+SQL Injection,Government,11310,Hacker Group,Weak Passwords,71,13.76
+SQL Injection,Retail,597358,Nation-state,Zero-day,30,72.21
+SQL Injection,Healthcare,180456,Unknown,Unpatched Software,8,91.91
+DDoS,Retail,368255,Nation-state,Social Engineering,17,79.06
+Malware,Education,268414,Insider,Unpatched Software,9,7.17
+SQL Injection,Healthcare,891504,Insider,Zero-day,63,79.28
+Phishing,Healthcare,3395,Nation-state,Weak Passwords,58,48.25
+Ransomware,Education,164890,Unknown,Weak Passwords,20,45.88
+SQL Injection,Banking,895388,Insider,Social Engineering,54,89.8
+SQL Injection,Telecommunications,436517,Nation-state,Weak Passwords,61,17.47
+Phishing,IT,677164,Nation-state,Weak Passwords,7,70.85
+Man-in-the-Middle,Banking,414192,Nation-state,Weak Passwords,34,93.13
+Man-in-the-Middle,Retail,80069,Insider,Unpatched Software,8,39.73
+Phishing,IT,604185,Unknown,Zero-day,57,1.28
+SQL Injection,IT,807733,Unknown,Weak Passwords,18,83.99
+SQL Injection,Telecommunications,945154,Nation-state,Social Engineering,63,16.51
+Malware,Retail,918454,Unknown,Unpatched Software,15,62.43
+Phishing,Retail,450205,Unknown,Zero-day,32,56.1
+Malware,Telecommunications,476001,Hacker Group,Social Engineering,58,87.52
+Phishing,IT,503520,Hacker Group,Zero-day,48,65.88
+SQL Injection,Retail,457411,Nation-state,Zero-day,34,86.29
+Malware,Education,580609,Unknown,Weak Passwords,29,62.82
+Phishing,Banking,848022,Hacker Group,Social Engineering,10,18.45
+Phishing,Education,761590,Unknown,Unpatched Software,45,75.42
+DDoS,Education,366968,Nation-state,Social Engineering,47,17.68
+Man-in-the-Middle,Education,625370,Insider,Social Engineering,24,27.95
+Ransomware,Healthcare,193378,Unknown,Unpatched Software,32,60.01
+DDoS,Healthcare,375691,Insider,Zero-day,21,92.34
+SQL Injection,Banking,526324,Insider,Unpatched Software,39,7.21
+Malware,Healthcare,50468,Hacker Group,Social Engineering,64,76.42
+Phishing,IT,922656,Insider,Zero-day,17,3.2
+Ransomware,Retail,498457,Insider,Weak Passwords,12,62.59
+SQL Injection,Education,351850,Hacker Group,Social Engineering,21,89.04
+DDoS,Retail,391982,Unknown,Social Engineering,46,76.95
+Malware,Telecommunications,247243,Nation-state,Zero-day,69,51.66
+Phishing,Banking,257190,Insider,Unpatched Software,14,39.33
+SQL Injection,Retail,804658,Nation-state,Unpatched Software,23,89.77
+Man-in-the-Middle,Education,758032,Insider,Social Engineering,30,75.95
+DDoS,Telecommunications,381948,Unknown,Weak Passwords,46,13.31
+DDoS,Retail,152435,Unknown,Weak Passwords,26,40.0
+Ransomware,Banking,429566,Nation-state,Zero-day,54,99.9
+Ransomware,Healthcare,496292,Nation-state,Zero-day,21,61.99
+Man-in-the-Middle,Healthcare,943724,Insider,Unpatched Software,58,75.8
+Man-in-the-Middle,Government,243600,Unknown,Weak Passwords,40,39.87
+Phishing,IT,480386,Nation-state,Zero-day,18,48.96
+Ransomware,Healthcare,564046,Insider,Social Engineering,39,70.67
+Malware,Retail,50007,Nation-state,Weak Passwords,19,26.7
+Malware,Retail,307143,Hacker Group,Social Engineering,1,99.72
+DDoS,IT,356964,Insider,Unpatched Software,27,22.71
+SQL Injection,Retail,891369,Hacker Group,Social Engineering,71,94.83
+DDoS,Retail,482700,Insider,Unpatched Software,55,37.81
+Phishing,Healthcare,596628,Hacker Group,Unpatched Software,60,42.93
+Ransomware,Telecommunications,776295,Unknown,Zero-day,40,89.33
+Phishing,Banking,447486,Insider,Weak Passwords,7,38.58
+Man-in-the-Middle,Retail,298887,Nation-state,Zero-day,44,75.51
+Ransomware,Government,59582,Nation-state,Unpatched Software,56,56.3
+Ransomware,Healthcare,553944,Hacker Group,Social Engineering,64,6.67
+Ransomware,Banking,507258,Nation-state,Social Engineering,30,80.29
+DDoS,Government,82500,Hacker Group,Zero-day,28,94.6
+SQL Injection,Retail,383781,Nation-state,Zero-day,57,27.54
+Ransomware,Banking,647303,Insider,Zero-day,37,97.48
+Phishing,IT,877998,Nation-state,Weak Passwords,23,68.23
+SQL Injection,Government,631420,Nation-state,Unpatched Software,68,56.84
+Ransomware,Telecommunications,263566,Hacker Group,Zero-day,64,84.79
+Ransomware,Banking,65148,Nation-state,Weak Passwords,15,4.22
+Ransomware,Telecommunications,345623,Unknown,Weak Passwords,67,58.73
+Ransomware,IT,962452,Nation-state,Unpatched Software,34,60.43
+Phishing,IT,951767,Nation-state,Weak Passwords,10,2.85
+SQL Injection,Education,712306,Hacker Group,Social Engineering,29,43.55
+Ransomware,Telecommunications,365116,Hacker Group,Social Engineering,66,11.83
+Man-in-the-Middle,Banking,485702,Unknown,Unpatched Software,51,64.96
+SQL Injection,IT,49480,Hacker Group,Social Engineering,17,19.37
+Phishing,Education,971148,Insider,Unpatched Software,44,46.64
+DDoS,Banking,513005,Unknown,Social Engineering,62,31.54
+Malware,Retail,360381,Unknown,Zero-day,62,6.47
+DDoS,Banking,649383,Unknown,Weak Passwords,59,96.23
+SQL Injection,Banking,155736,Nation-state,Social Engineering,63,89.74
+Malware,Healthcare,443715,Unknown,Social Engineering,54,54.29
+DDoS,Telecommunications,683733,Nation-state,Zero-day,65,4.81
+DDoS,Healthcare,400214,Unknown,Zero-day,58,42.16
+Ransomware,IT,813472,Hacker Group,Zero-day,17,74.06
+Ransomware,Banking,199832,Nation-state,Weak Passwords,54,27.1
+Malware,IT,210495,Insider,Weak Passwords,18,22.04
+Man-in-the-Middle,Education,923445,Hacker Group,Unpatched Software,42,49.53
+Man-in-the-Middle,Education,407485,Insider,Unpatched Software,22,1.72
+Man-in-the-Middle,Government,517452,Unknown,Zero-day,9,97.39
+Ransomware,Retail,509742,Nation-state,Zero-day,43,68.73
+Malware,Healthcare,412236,Nation-state,Weak Passwords,36,57.85
+Malware,Healthcare,592988,Hacker Group,Unpatched Software,43,6.58
+Ransomware,Banking,451510,Hacker Group,Zero-day,45,47.25
+Ransomware,Education,144065,Insider,Unpatched Software,62,20.26
+DDoS,Telecommunications,700440,Hacker Group,Weak Passwords,23,85.02
+Phishing,IT,255689,Unknown,Zero-day,54,64.54
+Malware,Retail,750473,Unknown,Zero-day,41,74.01
+Malware,Government,284512,Nation-state,Social Engineering,23,68.8
+Malware,Education,607544,Nation-state,Weak Passwords,56,76.8
+Ransomware,Banking,61764,Hacker Group,Social Engineering,38,92.39
+DDoS,Telecommunications,489053,Nation-state,Zero-day,29,11.73
+SQL Injection,Telecommunications,8884,Nation-state,Weak Passwords,23,29.31
+Ransomware,Retail,80135,Hacker Group,Social Engineering,35,91.67
+Phishing,Retail,20064,Insider,Social Engineering,61,47.66
+SQL Injection,Telecommunications,849940,Insider,Weak Passwords,61,95.74
+Ransomware,Government,437649,Hacker Group,Weak Passwords,10,79.25
+SQL Injection,Telecommunications,269137,Unknown,Unpatched Software,18,43.69
+Malware,Telecommunications,233460,Insider,Unpatched Software,11,23.27
+SQL Injection,Banking,474585,Nation-state,Unpatched Software,34,6.96
+SQL Injection,Government,674211,Hacker Group,Weak Passwords,54,41.65
+Phishing,Healthcare,267178,Nation-state,Social Engineering,56,18.79
+DDoS,Healthcare,104121,Hacker Group,Zero-day,15,58.93
+Ransomware,IT,217598,Hacker Group,Unpatched Software,24,83.29
+Ransomware,Government,44082,Nation-state,Social Engineering,48,65.96
+Phishing,Banking,31733,Hacker Group,Unpatched Software,49,71.58
+Man-in-the-Middle,Banking,346224,Nation-state,Zero-day,64,34.16
+DDoS,IT,419127,Unknown,Social Engineering,26,61.01
+Man-in-the-Middle,Education,810539,Unknown,Weak Passwords,22,53.59
+DDoS,Retail,692784,Hacker Group,Unpatched Software,2,11.79
+SQL Injection,Retail,315050,Unknown,Unpatched Software,8,16.98
+SQL Injection,IT,786464,Unknown,Weak Passwords,38,29.24
+Man-in-the-Middle,IT,140061,Hacker Group,Weak Passwords,42,20.35
+SQL Injection,IT,673923,Hacker Group,Unpatched Software,3,34.32
+SQL Injection,Government,221051,Insider,Zero-day,18,35.88
+SQL Injection,Banking,442940,Nation-state,Unpatched Software,7,33.84
+SQL Injection,Telecommunications,677688,Nation-state,Zero-day,31,17.21
+Ransomware,Education,679860,Unknown,Social Engineering,66,95.08
+Phishing,Retail,963983,Unknown,Zero-day,45,27.85
+DDoS,Retail,125100,Unknown,Weak Passwords,61,18.52
+DDoS,Education,815317,Hacker Group,Social Engineering,72,81.31
+Man-in-the-Middle,Retail,500252,Nation-state,Zero-day,29,34.82
+DDoS,Education,512953,Unknown,Weak Passwords,57,55.3
+Phishing,IT,337377,Hacker Group,Social Engineering,23,88.71
+DDoS,Retail,766733,Insider,Zero-day,55,0.6
+Malware,Retail,578310,Nation-state,Weak Passwords,15,50.02
+Man-in-the-Middle,Telecommunications,255574,Insider,Social Engineering,69,12.96
+Phishing,IT,169152,Nation-state,Unpatched Software,49,43.58
+Man-in-the-Middle,IT,216472,Unknown,Zero-day,55,33.22
+Phishing,Retail,370096,Nation-state,Weak Passwords,23,38.96
+Phishing,Telecommunications,742555,Insider,Zero-day,57,30.14
+Man-in-the-Middle,IT,870019,Insider,Social Engineering,5,21.72
+Malware,IT,941679,Hacker Group,Social Engineering,43,93.2
+DDoS,Retail,738419,Unknown,Zero-day,11,88.17
+Phishing,Retail,4136,Nation-state,Zero-day,23,42.46
+SQL Injection,Education,995847,Nation-state,Social Engineering,1,61.41
+Ransomware,Education,536995,Hacker Group,Weak Passwords,3,51.51
+Malware,Telecommunications,57200,Hacker Group,Social Engineering,26,77.7
+Phishing,Government,936566,Nation-state,Social Engineering,61,14.65
+DDoS,Healthcare,567370,Insider,Unpatched Software,9,68.4
+Malware,Banking,970056,Hacker Group,Unpatched Software,30,34.51
+Ransomware,IT,3432,Hacker Group,Unpatched Software,45,71.74
+Malware,Education,49473,Insider,Social Engineering,51,37.54
+Man-in-the-Middle,IT,460984,Hacker Group,Zero-day,55,76.35
+Phishing,IT,228010,Nation-state,Social Engineering,59,71.2
+Ransomware,Government,172789,Hacker Group,Unpatched Software,10,48.88
+Man-in-the-Middle,Retail,338732,Nation-state,Unpatched Software,15,48.24
+Ransomware,Healthcare,175755,Insider,Weak Passwords,30,32.0
+DDoS,Education,897521,Nation-state,Social Engineering,19,50.34
+Ransomware,Healthcare,719532,Insider,Unpatched Software,10,5.18
+DDoS,Government,583925,Insider,Zero-day,70,95.28
+Phishing,Retail,480522,Unknown,Zero-day,72,70.4
+SQL Injection,IT,16957,Unknown,Zero-day,49,47.2
+Ransomware,IT,316228,Unknown,Unpatched Software,7,29.35
+SQL Injection,Banking,363414,Insider,Unpatched Software,59,20.28
+Man-in-the-Middle,Telecommunications,733671,Insider,Zero-day,20,71.9
+SQL Injection,Telecommunications,399457,Nation-state,Weak Passwords,48,27.91
+DDoS,Government,171772,Nation-state,Social Engineering,8,57.34
+Phishing,Government,197305,Insider,Unpatched Software,34,82.4
+Ransomware,Healthcare,677971,Insider,Social Engineering,51,15.08
+Man-in-the-Middle,Banking,942454,Hacker Group,Social Engineering,66,55.12
+Ransomware,Government,211205,Insider,Unpatched Software,54,38.84
+Malware,Telecommunications,483399,Insider,Zero-day,50,42.79
+DDoS,Telecommunications,699791,Nation-state,Weak Passwords,2,97.83
+Phishing,Education,679314,Nation-state,Unpatched Software,39,10.04
+SQL Injection,Retail,466897,Insider,Unpatched Software,58,96.97
+SQL Injection,Healthcare,175957,Hacker Group,Zero-day,69,41.05
+Ransomware,Government,912202,Nation-state,Weak Passwords,15,10.37
+DDoS,Education,985398,Nation-state,Social Engineering,54,33.73
+SQL Injection,Education,715127,Nation-state,Weak Passwords,60,4.18
+Malware,Retail,472835,Hacker Group,Unpatched Software,57,72.24
+DDoS,Healthcare,412019,Unknown,Weak Passwords,34,98.25
+SQL Injection,Retail,172469,Insider,Weak Passwords,16,85.69
+Phishing,Banking,893284,Unknown,Unpatched Software,21,39.12
+Malware,Telecommunications,586,Hacker Group,Zero-day,23,82.66
+Phishing,IT,845169,Nation-state,Social Engineering,1,49.12
+Ransomware,Government,184748,Unknown,Unpatched Software,4,89.36
+Malware,Healthcare,783976,Nation-state,Weak Passwords,62,77.84
+Phishing,IT,282583,Unknown,Weak Passwords,15,49.84
+SQL Injection,Healthcare,591828,Unknown,Unpatched Software,16,96.31
+SQL Injection,Government,27344,Nation-state,Zero-day,1,18.44
+Ransomware,Healthcare,200307,Unknown,Social Engineering,59,18.16
+Man-in-the-Middle,IT,528411,Insider,Zero-day,10,68.28
+Phishing,Banking,551812,Insider,Weak Passwords,69,95.72
+SQL Injection,Education,975019,Unknown,Unpatched Software,38,96.6
+DDoS,Government,399851,Nation-state,Social Engineering,38,97.15
+Ransomware,Government,998833,Hacker Group,Social Engineering,21,79.3
+Man-in-the-Middle,Education,517640,Hacker Group,Unpatched Software,4,76.35
+DDoS,Banking,615332,Hacker Group,Social Engineering,65,33.51
+SQL Injection,Healthcare,592364,Insider,Weak Passwords,21,96.08
+Phishing,Education,943680,Insider,Zero-day,46,33.69
+Man-in-the-Middle,Retail,506551,Unknown,Unpatched Software,53,17.99
+Ransomware,Government,122651,Insider,Weak Passwords,59,86.84
+Man-in-the-Middle,Retail,459039,Nation-state,Weak Passwords,68,97.62
+Ransomware,IT,176331,Insider,Weak Passwords,25,25.85
+Ransomware,Healthcare,543437,Unknown,Unpatched Software,20,27.37
+SQL Injection,Telecommunications,859311,Insider,Zero-day,47,29.02
+DDoS,Retail,877041,Unknown,Unpatched Software,48,90.78
+Ransomware,Healthcare,657939,Nation-state,Social Engineering,47,42.33
+DDoS,Banking,920270,Nation-state,Unpatched Software,20,81.89
+Ransomware,Healthcare,905935,Unknown,Unpatched Software,60,43.81
+Malware,Telecommunications,217863,Insider,Unpatched Software,31,93.71
+Man-in-the-Middle,Government,930468,Insider,Social Engineering,35,54.29
+Phishing,Healthcare,179545,Unknown,Zero-day,15,55.72
+Ransomware,Retail,582097,Insider,Weak Passwords,40,5.57
+SQL Injection,Banking,360752,Unknown,Zero-day,21,48.1
+Phishing,Retail,907128,Insider,Unpatched Software,13,25.79
+Man-in-the-Middle,Banking,817793,Hacker Group,Social Engineering,64,14.84
+Malware,Healthcare,922209,Nation-state,Zero-day,27,85.76
+DDoS,Retail,411707,Insider,Social Engineering,42,18.76
+Phishing,Healthcare,847958,Insider,Weak Passwords,32,38.19
+Man-in-the-Middle,Banking,187807,Nation-state,Unpatched Software,37,38.1
+SQL Injection,Telecommunications,637350,Unknown,Weak Passwords,52,10.18
+SQL Injection,IT,237068,Hacker Group,Zero-day,65,36.27
+Ransomware,Government,819812,Nation-state,Unpatched Software,63,92.07
+SQL Injection,Healthcare,434510,Hacker Group,Social Engineering,72,72.9
+DDoS,Telecommunications,513601,Nation-state,Unpatched Software,14,57.52
+Malware,Healthcare,821803,Unknown,Social Engineering,40,5.79
+Man-in-the-Middle,IT,12585,Unknown,Zero-day,30,14.68
+Man-in-the-Middle,Telecommunications,405253,Hacker Group,Unpatched Software,52,10.12
+DDoS,IT,703035,Unknown,Unpatched Software,15,86.89
+Phishing,Government,580402,Nation-state,Social Engineering,70,9.84
+Man-in-the-Middle,Education,640572,Hacker Group,Social Engineering,51,49.94
+Phishing,Banking,85528,Hacker Group,Social Engineering,55,75.13
+Malware,Healthcare,79940,Unknown,Zero-day,64,33.21
+SQL Injection,Telecommunications,215401,Hacker Group,Social Engineering,50,54.41
+Malware,IT,450313,Nation-state,Zero-day,26,59.56
+Malware,Retail,461668,Nation-state,Unpatched Software,10,45.71
+Man-in-the-Middle,Banking,71156,Insider,Social Engineering,34,4.94
+Ransomware,Government,201732,Unknown,Zero-day,39,89.47
+Man-in-the-Middle,Government,322132,Nation-state,Weak Passwords,44,45.91
+Phishing,Banking,854309,Insider,Zero-day,16,82.85
+Phishing,Retail,998085,Insider,Zero-day,7,89.85
+Malware,IT,479628,Insider,Weak Passwords,13,10.81
+Malware,Healthcare,554162,Insider,Weak Passwords,33,34.32
+Phishing,Government,653402,Hacker Group,Social Engineering,5,92.54
+Man-in-the-Middle,Government,119785,Hacker Group,Unpatched Software,14,62.9
+DDoS,Banking,754656,Hacker Group,Unpatched Software,35,48.76
+Malware,Retail,848855,Unknown,Unpatched Software,37,41.11
+SQL Injection,Healthcare,328454,Nation-state,Zero-day,10,57.2
+DDoS,Education,510702,Hacker Group,Weak Passwords,15,13.13
+Man-in-the-Middle,Education,248083,Hacker Group,Social Engineering,70,20.96
+DDoS,Government,746425,Unknown,Zero-day,24,42.75
+Ransomware,Education,336607,Unknown,Zero-day,17,82.89
+Ransomware,Government,570810,Insider,Social Engineering,72,21.21
+Malware,Banking,162930,Insider,Unpatched Software,13,12.25
+SQL Injection,Education,244406,Nation-state,Social Engineering,43,61.87
+DDoS,Education,604557,Nation-state,Social Engineering,20,71.12
+Man-in-the-Middle,Education,313397,Hacker Group,Social Engineering,36,26.58
+Malware,Retail,696902,Nation-state,Unpatched Software,21,5.24
+Phishing,Banking,156576,Hacker Group,Unpatched Software,72,30.39
+Phishing,Healthcare,843310,Hacker Group,Zero-day,71,66.55
+DDoS,Telecommunications,281862,Insider,Social Engineering,4,83.02
+Ransomware,IT,526308,Insider,Unpatched Software,23,88.23
+DDoS,IT,826924,Insider,Social Engineering,35,5.18
+DDoS,IT,928751,Insider,Social Engineering,26,13.77
+Ransomware,Education,304804,Hacker Group,Weak Passwords,53,21.9
+Man-in-the-Middle,Education,960625,Nation-state,Weak Passwords,48,34.42
+Ransomware,Government,264088,Unknown,Weak Passwords,28,57.9
+Phishing,Healthcare,633750,Insider,Unpatched Software,45,61.97
+Ransomware,Healthcare,255531,Unknown,Social Engineering,17,56.11
+Ransomware,Banking,874035,Insider,Unpatched Software,38,50.64
+DDoS,Healthcare,632431,Insider,Zero-day,55,64.99
+Ransomware,Education,939146,Nation-state,Zero-day,56,69.04
+Man-in-the-Middle,Retail,633855,Hacker Group,Social Engineering,37,13.82
+Malware,Government,686176,Nation-state,Zero-day,62,22.48
+Malware,Retail,561807,Unknown,Zero-day,17,11.31
+SQL Injection,Government,15768,Unknown,Zero-day,66,60.53
+Malware,Healthcare,32423,Hacker Group,Weak Passwords,45,98.45
+SQL Injection,IT,329378,Nation-state,Weak Passwords,61,97.06
+Phishing,Healthcare,541451,Hacker Group,Weak Passwords,17,64.7
+Man-in-the-Middle,Education,255393,Unknown,Unpatched Software,71,1.05
+Phishing,Government,141115,Hacker Group,Zero-day,9,89.97
+Man-in-the-Middle,Telecommunications,358210,Nation-state,Zero-day,11,48.58
+Man-in-the-Middle,Education,60322,Insider,Zero-day,22,16.42
+Ransomware,Government,555153,Unknown,Zero-day,11,15.42
+SQL Injection,Healthcare,98266,Insider,Social Engineering,18,47.15
+Man-in-the-Middle,IT,633511,Insider,Zero-day,58,52.8
+Man-in-the-Middle,Banking,976213,Unknown,Social Engineering,28,64.88
+DDoS,Telecommunications,838739,Unknown,Social Engineering,21,94.1
+Ransomware,IT,367503,Nation-state,Weak Passwords,17,23.18
+Ransomware,Education,598614,Insider,Social Engineering,59,17.44
+Phishing,Retail,629571,Hacker Group,Unpatched Software,41,22.72
+Man-in-the-Middle,Education,834355,Nation-state,Unpatched Software,71,69.99
+Man-in-the-Middle,IT,731495,Nation-state,Unpatched Software,3,87.88
+SQL Injection,Retail,354637,Insider,Social Engineering,63,69.91
+Ransomware,Banking,60428,Nation-state,Weak Passwords,27,27.45
+DDoS,Retail,95351,Nation-state,Unpatched Software,11,13.17
+Phishing,Retail,826159,Insider,Weak Passwords,3,50.99
+SQL Injection,Healthcare,234301,Insider,Zero-day,32,66.92
+Phishing,Healthcare,551014,Nation-state,Social Engineering,71,39.47
+SQL Injection,Telecommunications,809757,Nation-state,Social Engineering,61,4.35
+Malware,Healthcare,612319,Unknown,Social Engineering,47,24.06
+Phishing,Telecommunications,312051,Nation-state,Unpatched Software,41,21.8
+Phishing,Banking,279786,Insider,Zero-day,46,89.74
+Phishing,Government,847817,Hacker Group,Social Engineering,13,72.34
+Man-in-the-Middle,Education,382682,Nation-state,Zero-day,12,37.48
+Phishing,IT,159917,Insider,Zero-day,47,38.2
+Man-in-the-Middle,Government,841548,Unknown,Zero-day,68,85.85
+DDoS,Healthcare,751586,Nation-state,Social Engineering,24,5.5
+Man-in-the-Middle,Banking,680154,Nation-state,Zero-day,2,53.51
+Phishing,Education,978508,Insider,Weak Passwords,42,37.38
+Man-in-the-Middle,IT,392247,Unknown,Zero-day,7,84.55
+SQL Injection,Retail,446911,Unknown,Weak Passwords,25,34.87
+Ransomware,IT,777799,Insider,Weak Passwords,2,17.26
+Ransomware,Healthcare,799581,Nation-state,Zero-day,50,82.99
+Man-in-the-Middle,Retail,819676,Hacker Group,Zero-day,59,85.34
+SQL Injection,Telecommunications,192430,Nation-state,Unpatched Software,49,31.46
+DDoS,Telecommunications,735,Hacker Group,Unpatched Software,69,74.5
+Ransomware,Healthcare,654947,Insider,Social Engineering,23,12.79
+DDoS,Banking,327826,Hacker Group,Social Engineering,35,10.01
+Man-in-the-Middle,Healthcare,106126,Unknown,Weak Passwords,19,23.99
+Man-in-the-Middle,IT,46493,Insider,Unpatched Software,62,34.57
+Man-in-the-Middle,Education,733307,Nation-state,Social Engineering,29,15.78
+Malware,Government,789673,Unknown,Weak Passwords,31,71.91
+Ransomware,Education,159061,Insider,Weak Passwords,12,64.93
+Phishing,Education,80748,Hacker Group,Zero-day,8,6.35
+Man-in-the-Middle,IT,697536,Unknown,Social Engineering,72,85.85
+SQL Injection,Healthcare,748146,Insider,Weak Passwords,13,46.5
+Man-in-the-Middle,Telecommunications,803579,Unknown,Weak Passwords,1,64.39
+Phishing,Retail,537683,Insider,Unpatched Software,41,13.47
+DDoS,Retail,743271,Nation-state,Social Engineering,10,40.72
+Malware,Telecommunications,215231,Unknown,Zero-day,49,36.01
+Phishing,Banking,135941,Nation-state,Social Engineering,7,57.89
+Phishing,IT,362478,Hacker Group,Zero-day,67,7.95
+DDoS,Education,537149,Nation-state,Unpatched Software,54,13.89
+SQL Injection,Retail,162061,Insider,Zero-day,32,96.28
+Ransomware,Banking,455702,Hacker Group,Weak Passwords,5,94.63
+Ransomware,Telecommunications,448367,Nation-state,Social Engineering,7,13.26
+Malware,Retail,603904,Nation-state,Unpatched Software,38,21.92
+Malware,IT,331741,Hacker Group,Social Engineering,29,81.81
+Ransomware,Education,983506,Hacker Group,Social Engineering,35,58.79
+Phishing,Retail,914743,Insider,Social Engineering,69,14.72
+Malware,Banking,258587,Insider,Social Engineering,7,59.7
+Man-in-the-Middle,Retail,527964,Insider,Zero-day,28,16.26
+Phishing,Banking,593384,Unknown,Zero-day,65,29.61
+Malware,IT,386972,Insider,Unpatched Software,56,82.38
+DDoS,Healthcare,644339,Insider,Unpatched Software,71,96.49
+DDoS,Healthcare,782425,Insider,Weak Passwords,13,76.39
+SQL Injection,Banking,84185,Nation-state,Weak Passwords,2,79.98
+Malware,Healthcare,337120,Insider,Weak Passwords,59,91.65
+Phishing,Banking,241282,Hacker Group,Social Engineering,55,3.84
+DDoS,Healthcare,734819,Unknown,Unpatched Software,50,97.15
+DDoS,Healthcare,8517,Hacker Group,Weak Passwords,4,77.04
+Man-in-the-Middle,Government,865257,Nation-state,Social Engineering,19,91.52
+SQL Injection,Education,662428,Insider,Weak Passwords,4,37.4
+Malware,Healthcare,646567,Insider,Unpatched Software,15,11.89
+DDoS,Telecommunications,266748,Unknown,Unpatched Software,30,43.29
+Ransomware,Retail,771367,Hacker Group,Social Engineering,5,92.88
+DDoS,Banking,948174,Unknown,Social Engineering,4,99.81
+DDoS,Healthcare,460264,Unknown,Social Engineering,9,62.74
+DDoS,Government,794147,Unknown,Unpatched Software,4,96.89
+SQL Injection,IT,72222,Unknown,Weak Passwords,64,43.86
+DDoS,Telecommunications,995231,Nation-state,Weak Passwords,53,66.27
+Malware,Retail,841766,Nation-state,Social Engineering,16,90.8
+Man-in-the-Middle,IT,566542,Unknown,Weak Passwords,58,95.04
+Malware,Healthcare,781284,Hacker Group,Weak Passwords,11,12.67
+Phishing,IT,361270,Nation-state,Weak Passwords,31,89.59
+Malware,Telecommunications,404834,Hacker Group,Zero-day,62,97.03
+DDoS,Government,374484,Unknown,Unpatched Software,46,53.46
+SQL Injection,IT,681476,Unknown,Weak Passwords,6,21.02
+SQL Injection,Retail,514826,Hacker Group,Unpatched Software,72,15.39
+Malware,Education,742866,Nation-state,Social Engineering,61,97.32
+Ransomware,Healthcare,639896,Hacker Group,Social Engineering,63,61.66
+SQL Injection,IT,42346,Hacker Group,Unpatched Software,33,15.29
+Malware,Telecommunications,235399,Unknown,Social Engineering,21,5.88
+Man-in-the-Middle,Retail,448426,Nation-state,Weak Passwords,36,24.93
+Ransomware,Retail,467137,Nation-state,Social Engineering,14,97.37
+SQL Injection,Education,364107,Hacker Group,Social Engineering,28,11.49
+Man-in-the-Middle,Government,357898,Hacker Group,Social Engineering,27,4.05
+DDoS,Banking,605118,Insider,Social Engineering,30,76.9
+Man-in-the-Middle,Education,106169,Nation-state,Unpatched Software,28,96.44
+Ransomware,Healthcare,157547,Insider,Unpatched Software,29,34.29
+SQL Injection,Healthcare,242677,Insider,Social Engineering,21,56.63
+SQL Injection,Banking,385872,Insider,Zero-day,50,63.67
+DDoS,Retail,148209,Insider,Weak Passwords,54,80.85
+DDoS,Healthcare,387457,Nation-state,Weak Passwords,61,9.5
+Malware,IT,404004,Nation-state,Social Engineering,58,47.22
+Ransomware,Retail,981029,Nation-state,Weak Passwords,42,28.98
+Malware,Telecommunications,389525,Unknown,Zero-day,32,96.63
+SQL Injection,IT,764974,Nation-state,Weak Passwords,18,43.97
+Man-in-the-Middle,Healthcare,621971,Nation-state,Weak Passwords,49,91.4
+SQL Injection,IT,680584,Insider,Zero-day,5,53.71
+SQL Injection,Education,907858,Nation-state,Social Engineering,47,15.36
+SQL Injection,Banking,983047,Hacker Group,Unpatched Software,19,80.68
+Malware,Government,610049,Hacker Group,Social Engineering,37,17.3
+SQL Injection,IT,100105,Unknown,Zero-day,56,52.16
+SQL Injection,Government,59398,Hacker Group,Zero-day,8,89.46
+Malware,Banking,91974,Hacker Group,Zero-day,41,35.91
+Ransomware,Healthcare,785564,Insider,Unpatched Software,70,9.32
+Phishing,Banking,597516,Nation-state,Unpatched Software,15,15.21
+Ransomware,IT,799372,Hacker Group,Zero-day,14,17.98
+SQL Injection,Banking,77096,Unknown,Weak Passwords,29,32.84
+Man-in-the-Middle,Retail,610786,Nation-state,Social Engineering,31,59.18
+SQL Injection,Telecommunications,667271,Insider,Weak Passwords,22,28.33
+Phishing,Banking,133315,Nation-state,Weak Passwords,25,33.27
+SQL Injection,Government,381105,Unknown,Weak Passwords,3,24.93
+Ransomware,Banking,795120,Unknown,Social Engineering,42,98.07
+SQL Injection,Healthcare,198285,Nation-state,Unpatched Software,56,67.13
+DDoS,Government,580270,Unknown,Unpatched Software,35,34.46
+Ransomware,Retail,277410,Hacker Group,Social Engineering,42,45.67
+Man-in-the-Middle,Government,793946,Nation-state,Weak Passwords,12,38.29
+Ransomware,Banking,126770,Insider,Weak Passwords,67,15.21
+Phishing,IT,66776,Unknown,Zero-day,29,55.18
+DDoS,Telecommunications,434797,Insider,Social Engineering,21,83.5
+SQL Injection,Retail,901137,Nation-state,Zero-day,10,3.07
+Man-in-the-Middle,Banking,427407,Unknown,Unpatched Software,47,34.59
+Phishing,Banking,959107,Unknown,Zero-day,35,28.75
+Man-in-the-Middle,IT,12439,Nation-state,Weak Passwords,20,55.23
+Man-in-the-Middle,Banking,292854,Nation-state,Unpatched Software,14,14.45
+Malware,Banking,189116,Insider,Social Engineering,53,66.06
+Phishing,Telecommunications,889404,Unknown,Weak Passwords,60,19.6
+Man-in-the-Middle,Retail,566242,Nation-state,Social Engineering,63,58.98
+SQL Injection,IT,694491,Unknown,Unpatched Software,65,86.67
+DDoS,Education,297721,Nation-state,Weak Passwords,29,51.54
+SQL Injection,Education,394335,Unknown,Zero-day,43,13.61
+Man-in-the-Middle,IT,590262,Insider,Unpatched Software,15,57.14
+DDoS,IT,846200,Unknown,Social Engineering,26,91.79
+Phishing,Telecommunications,44385,Hacker Group,Weak Passwords,18,89.85
+Phishing,Banking,408446,Insider,Social Engineering,43,44.7
+DDoS,Education,806965,Insider,Social Engineering,56,54.0
+Ransomware,Education,587346,Hacker Group,Social Engineering,39,79.93
+Phishing,Education,552342,Unknown,Zero-day,62,2.43
+DDoS,Education,47104,Insider,Social Engineering,5,66.65
+DDoS,Retail,586557,Hacker Group,Social Engineering,37,13.83
+Malware,Government,500857,Hacker Group,Zero-day,35,2.65
+Man-in-the-Middle,Banking,977913,Hacker Group,Weak Passwords,70,65.51
+Malware,Telecommunications,894858,Hacker Group,Social Engineering,19,68.64
+Man-in-the-Middle,IT,574089,Unknown,Unpatched Software,32,75.81
+DDoS,Healthcare,232622,Nation-state,Weak Passwords,33,62.99
+Malware,Retail,917351,Unknown,Zero-day,43,89.95
+SQL Injection,IT,694333,Insider,Unpatched Software,48,98.31
+Ransomware,Government,968822,Nation-state,Weak Passwords,25,38.87
+DDoS,Banking,976838,Unknown,Weak Passwords,65,18.87
+DDoS,Education,22739,Insider,Unpatched Software,44,54.63
+Man-in-the-Middle,Retail,657442,Nation-state,Social Engineering,29,7.92
+Phishing,Education,257681,Nation-state,Zero-day,40,57.59
+Man-in-the-Middle,Retail,536471,Hacker Group,Weak Passwords,72,9.97
+Ransomware,IT,824619,Unknown,Social Engineering,21,84.02
+SQL Injection,Government,538804,Hacker Group,Weak Passwords,43,77.94
+Phishing,Healthcare,463704,Hacker Group,Weak Passwords,14,49.32
+Man-in-the-Middle,Telecommunications,596341,Insider,Weak Passwords,9,66.61
+Malware,Retail,529588,Nation-state,Weak Passwords,65,89.71
+Man-in-the-Middle,Retail,22241,Hacker Group,Zero-day,5,43.28
+Phishing,Banking,434936,Hacker Group,Zero-day,24,21.65
+Malware,IT,52191,Nation-state,Weak Passwords,72,33.61
+Malware,Banking,242247,Insider,Social Engineering,29,8.24
+Phishing,Banking,372427,Insider,Weak Passwords,72,34.5
+Ransomware,Healthcare,796351,Nation-state,Weak Passwords,21,67.25
+SQL Injection,Telecommunications,505831,Hacker Group,Social Engineering,40,38.29
+Malware,Government,743344,Insider,Zero-day,4,32.59
+Phishing,Healthcare,651809,Unknown,Unpatched Software,17,70.4
+SQL Injection,Telecommunications,839281,Insider,Weak Passwords,25,31.54
+SQL Injection,Retail,99876,Insider,Unpatched Software,56,84.79
+SQL Injection,Telecommunications,836521,Insider,Weak Passwords,19,98.39
+SQL Injection,Retail,392831,Nation-state,Weak Passwords,71,43.73
+Ransomware,Government,99312,Unknown,Zero-day,60,86.88
+Malware,Education,945147,Insider,Zero-day,20,26.24
+DDoS,IT,943039,Insider,Zero-day,28,26.29
+Malware,Retail,670642,Unknown,Unpatched Software,10,76.81
+Malware,Banking,194553,Hacker Group,Social Engineering,48,36.2
+Ransomware,Education,257224,Hacker Group,Social Engineering,46,49.56
+DDoS,Banking,891815,Unknown,Weak Passwords,19,58.96
+Ransomware,Banking,168617,Hacker Group,Unpatched Software,16,98.05
+Ransomware,Government,701152,Nation-state,Social Engineering,53,83.67
+SQL Injection,Banking,749609,Nation-state,Zero-day,28,30.66
+Man-in-the-Middle,Government,658712,Hacker Group,Unpatched Software,25,86.74
+DDoS,Retail,642501,Hacker Group,Zero-day,19,77.74
+Malware,Banking,817255,Hacker Group,Weak Passwords,62,92.65
+Ransomware,Government,92237,Nation-state,Weak Passwords,47,5.96
+Man-in-the-Middle,Telecommunications,156195,Nation-state,Unpatched Software,58,66.91
+Man-in-the-Middle,IT,618125,Nation-state,Zero-day,16,23.38
+Man-in-the-Middle,Banking,828293,Insider,Weak Passwords,64,82.04
+Malware,Telecommunications,436100,Unknown,Zero-day,12,6.09
+DDoS,Retail,787194,Unknown,Zero-day,51,14.12
+Phishing,Retail,380086,Nation-state,Social Engineering,65,31.52
+Malware,Healthcare,330581,Unknown,Zero-day,54,13.74
+SQL Injection,IT,672966,Hacker Group,Zero-day,13,99.99
+Malware,Telecommunications,772330,Hacker Group,Unpatched Software,20,19.56
+Man-in-the-Middle,Telecommunications,255844,Insider,Unpatched Software,8,81.61
+Ransomware,Government,107009,Nation-state,Social Engineering,67,80.7
+SQL Injection,Retail,872095,Nation-state,Unpatched Software,44,10.41
+DDoS,Banking,50427,Hacker Group,Zero-day,5,85.36
+Phishing,Retail,599197,Unknown,Zero-day,8,15.24
+Malware,Telecommunications,459643,Nation-state,Weak Passwords,10,40.08
+DDoS,Telecommunications,950257,Nation-state,Weak Passwords,61,10.2
+Phishing,Healthcare,496317,Hacker Group,Weak Passwords,62,72.53
+Man-in-the-Middle,Healthcare,596078,Hacker Group,Weak Passwords,10,96.36
+Ransomware,Banking,701522,Insider,Social Engineering,10,88.63
+Man-in-the-Middle,Healthcare,357124,Nation-state,Weak Passwords,31,37.15
+SQL Injection,Government,112688,Nation-state,Social Engineering,15,47.92
+Phishing,Retail,743107,Hacker Group,Social Engineering,49,14.46
+Man-in-the-Middle,Banking,947465,Unknown,Unpatched Software,69,32.47
+Ransomware,Government,358572,Hacker Group,Weak Passwords,48,81.97
+Malware,IT,430701,Hacker Group,Unpatched Software,54,92.08
+DDoS,Banking,281900,Hacker Group,Zero-day,1,94.48
+Malware,IT,391257,Hacker Group,Zero-day,66,84.74
+Man-in-the-Middle,Banking,277875,Nation-state,Social Engineering,43,81.8
+DDoS,IT,207244,Hacker Group,Zero-day,38,33.27
+Malware,Healthcare,294133,Insider,Social Engineering,20,66.96
+Ransomware,Telecommunications,66852,Hacker Group,Weak Passwords,58,71.4
+Ransomware,Telecommunications,54722,Nation-state,Social Engineering,13,67.47
+Phishing,Education,178951,Nation-state,Weak Passwords,26,17.32
+Ransomware,Healthcare,682791,Insider,Social Engineering,44,17.24
+SQL Injection,Education,888205,Nation-state,Weak Passwords,38,17.05
+Phishing,IT,794901,Insider,Zero-day,26,52.19
+DDoS,Government,978683,Insider,Zero-day,35,27.44
+Phishing,Telecommunications,639279,Nation-state,Zero-day,44,73.77
+Malware,Retail,675338,Hacker Group,Weak Passwords,54,10.94
+Man-in-the-Middle,Government,147589,Insider,Unpatched Software,31,42.24
+DDoS,Government,646824,Hacker Group,Zero-day,2,82.39
+Phishing,Government,465317,Insider,Social Engineering,20,37.62
+Malware,IT,233379,Unknown,Unpatched Software,50,21.53
+Malware,IT,684108,Unknown,Weak Passwords,24,43.51
+DDoS,Healthcare,130510,Unknown,Social Engineering,66,44.32
+Man-in-the-Middle,Banking,489853,Nation-state,Zero-day,28,43.45
+Malware,Healthcare,25905,Nation-state,Unpatched Software,40,47.92
+Malware,IT,795367,Hacker Group,Zero-day,55,73.74
+Man-in-the-Middle,Retail,349335,Nation-state,Zero-day,27,93.25
+Ransomware,Government,366147,Hacker Group,Weak Passwords,38,13.92
+Phishing,Government,25094,Nation-state,Unpatched Software,42,41.1
+Phishing,Retail,988889,Nation-state,Unpatched Software,31,44.08
+Man-in-the-Middle,IT,216303,Hacker Group,Unpatched Software,49,65.19
+Ransomware,Healthcare,388211,Nation-state,Weak Passwords,22,21.54
+Man-in-the-Middle,Education,30235,Insider,Weak Passwords,47,83.61
+Malware,Banking,109083,Nation-state,Weak Passwords,49,13.99
+Malware,Healthcare,397361,Hacker Group,Weak Passwords,57,49.09
+Ransomware,Retail,329026,Nation-state,Weak Passwords,31,32.16
+Man-in-the-Middle,IT,889521,Nation-state,Weak Passwords,51,45.5
+SQL Injection,Healthcare,849755,Insider,Weak Passwords,46,73.16
+Phishing,Education,631101,Unknown,Zero-day,36,70.2
+DDoS,Healthcare,625954,Insider,Weak Passwords,71,10.62
+Man-in-the-Middle,IT,220769,Unknown,Zero-day,71,26.65
+SQL Injection,Healthcare,527443,Hacker Group,Unpatched Software,24,52.01
+DDoS,Government,846169,Hacker Group,Zero-day,59,32.71
+Malware,Education,783239,Unknown,Social Engineering,41,47.46
+Malware,Telecommunications,104772,Unknown,Social Engineering,43,11.39
+DDoS,Telecommunications,33098,Hacker Group,Zero-day,8,31.68
+Man-in-the-Middle,Healthcare,512847,Insider,Social Engineering,72,65.78
+SQL Injection,Banking,840106,Insider,Weak Passwords,44,71.01
+SQL Injection,Healthcare,269458,Insider,Zero-day,15,69.57
+Ransomware,Healthcare,242893,Nation-state,Zero-day,50,66.84
+Phishing,Education,605947,Insider,Zero-day,13,5.25
+SQL Injection,Education,468399,Nation-state,Zero-day,56,60.57
+Ransomware,IT,503774,Hacker Group,Zero-day,37,61.68
+Phishing,Retail,754278,Insider,Social Engineering,46,45.74
+SQL Injection,IT,126120,Unknown,Social Engineering,39,89.81
+Malware,IT,210024,Hacker Group,Weak Passwords,20,73.27
+DDoS,Banking,970775,Insider,Unpatched Software,21,51.33
+Ransomware,Education,832471,Insider,Social Engineering,54,19.84
+Phishing,IT,165316,Unknown,Zero-day,61,97.25
+DDoS,Retail,990886,Insider,Weak Passwords,59,2.96
+Malware,Telecommunications,370146,Nation-state,Zero-day,55,82.28
+Man-in-the-Middle,Retail,284823,Unknown,Social Engineering,50,49.59
+Malware,Healthcare,742857,Nation-state,Weak Passwords,49,65.14
+DDoS,Healthcare,484101,Hacker Group,Unpatched Software,9,70.0
+Ransomware,Telecommunications,368441,Hacker Group,Weak Passwords,71,22.58
+Malware,Banking,945465,Unknown,Weak Passwords,5,55.42
+DDoS,Healthcare,551900,Unknown,Social Engineering,17,27.08
+Malware,Banking,731722,Hacker Group,Weak Passwords,28,73.02
+Phishing,Banking,436597,Insider,Unpatched Software,33,88.73
+DDoS,Education,728830,Insider,Zero-day,45,16.35
+Ransomware,IT,826018,Hacker Group,Weak Passwords,24,85.61
+Ransomware,Telecommunications,791323,Insider,Unpatched Software,40,76.61
+SQL Injection,Banking,117454,Insider,Unpatched Software,19,42.77
+Ransomware,Retail,986882,Hacker Group,Weak Passwords,45,95.3
+Phishing,IT,770227,Unknown,Zero-day,20,78.12
+SQL Injection,Government,997411,Nation-state,Social Engineering,25,21.33
+Malware,Education,640603,Hacker Group,Unpatched Software,23,66.93
+Phishing,Telecommunications,499671,Hacker Group,Weak Passwords,4,81.54
+Phishing,Retail,805905,Nation-state,Social Engineering,54,12.64
+Phishing,Retail,377252,Nation-state,Unpatched Software,8,43.2
+Ransomware,Retail,653168,Unknown,Weak Passwords,3,20.58
+Phishing,IT,955790,Nation-state,Zero-day,44,26.62
+Phishing,Telecommunications,734448,Unknown,Social Engineering,37,15.56
+Ransomware,Retail,425647,Unknown,Zero-day,4,12.97
+SQL Injection,Banking,278315,Unknown,Unpatched Software,3,98.04
+Man-in-the-Middle,Telecommunications,294447,Unknown,Zero-day,54,63.35
+DDoS,Education,384988,Insider,Zero-day,19,26.57
+Man-in-the-Middle,Education,141411,Insider,Unpatched Software,58,29.58
+Phishing,Healthcare,581712,Insider,Social Engineering,12,72.54
+Ransomware,Education,100749,Unknown,Zero-day,62,35.16
+Malware,Education,217880,Nation-state,Unpatched Software,48,56.94
+Man-in-the-Middle,Telecommunications,357542,Hacker Group,Zero-day,21,99.71
+Malware,Telecommunications,347426,Hacker Group,Zero-day,36,77.18
+Man-in-the-Middle,Education,829140,Nation-state,Unpatched Software,2,36.92
+SQL Injection,Healthcare,683189,Unknown,Zero-day,19,42.8
+Ransomware,Banking,453441,Hacker Group,Unpatched Software,29,89.41
+Malware,IT,673439,Insider,Weak Passwords,13,33.34
+SQL Injection,Telecommunications,832297,Nation-state,Weak Passwords,69,13.94
+Phishing,IT,400964,Nation-state,Weak Passwords,19,13.05
+DDoS,Telecommunications,192293,Nation-state,Weak Passwords,57,52.94
+Man-in-the-Middle,Banking,565292,Insider,Unpatched Software,27,26.02
+Phishing,Education,774750,Nation-state,Social Engineering,70,9.23
+Phishing,IT,666996,Insider,Weak Passwords,59,78.2
+Malware,Healthcare,21382,Unknown,Weak Passwords,21,94.12
+Phishing,Telecommunications,463525,Nation-state,Unpatched Software,59,55.14
+Ransomware,Telecommunications,905673,Insider,Weak Passwords,54,16.98
+Man-in-the-Middle,Retail,619881,Nation-state,Unpatched Software,42,30.59
+Malware,Banking,987350,Insider,Zero-day,4,20.27
+Phishing,Education,849084,Nation-state,Zero-day,62,97.32
+Man-in-the-Middle,Education,799627,Hacker Group,Weak Passwords,36,13.06
+Man-in-the-Middle,Education,307155,Unknown,Unpatched Software,28,87.39
+Ransomware,Retail,989106,Unknown,Zero-day,3,88.36
+Man-in-the-Middle,Retail,129144,Hacker Group,Weak Passwords,25,84.77
+Malware,Government,767562,Unknown,Zero-day,61,57.81
+Malware,IT,956965,Hacker Group,Unpatched Software,40,74.03
+Phishing,Retail,291580,Unknown,Unpatched Software,25,87.55
+Ransomware,Education,950276,Hacker Group,Unpatched Software,31,76.96
+Man-in-the-Middle,Telecommunications,932075,Unknown,Unpatched Software,72,89.07
+DDoS,Healthcare,931456,Hacker Group,Zero-day,22,33.96
+Ransomware,Retail,983880,Nation-state,Unpatched Software,54,28.77
+DDoS,Education,20680,Nation-state,Social Engineering,29,18.49
+Malware,Education,437056,Hacker Group,Zero-day,52,21.39
+Malware,Government,769222,Insider,Weak Passwords,32,57.91
+Malware,Government,436928,Unknown,Social Engineering,34,4.5
+DDoS,Healthcare,340194,Unknown,Weak Passwords,44,38.67
+DDoS,IT,612030,Nation-state,Unpatched Software,47,44.01
+Man-in-the-Middle,IT,551100,Insider,Zero-day,9,87.89
+Phishing,IT,251768,Unknown,Social Engineering,6,26.02
+DDoS,Retail,680720,Nation-state,Zero-day,2,11.69
+DDoS,Telecommunications,156213,Nation-state,Weak Passwords,9,51.69
+Man-in-the-Middle,Retail,468856,Hacker Group,Unpatched Software,15,33.75
+Ransomware,Government,90678,Nation-state,Unpatched Software,22,63.45
+DDoS,Retail,554585,Hacker Group,Social Engineering,63,45.73
+Man-in-the-Middle,Banking,935265,Nation-state,Unpatched Software,20,33.3
+SQL Injection,Banking,459922,Nation-state,Zero-day,12,43.96
+DDoS,Healthcare,782873,Hacker Group,Zero-day,4,6.72
+Ransomware,Banking,528708,Unknown,Social Engineering,14,53.03
+SQL Injection,Healthcare,513096,Hacker Group,Weak Passwords,57,38.89
+DDoS,Education,636407,Hacker Group,Zero-day,11,79.5
+Ransomware,Retail,419557,Unknown,Weak Passwords,2,38.02
+DDoS,Healthcare,784099,Insider,Social Engineering,30,47.47
+Malware,Telecommunications,37870,Nation-state,Zero-day,31,71.18
+Malware,IT,291590,Hacker Group,Zero-day,22,4.08
+SQL Injection,Telecommunications,444408,Unknown,Weak Passwords,64,15.96
+Malware,Banking,526658,Nation-state,Weak Passwords,38,56.13
+Malware,Retail,333238,Hacker Group,Social Engineering,20,30.53
+DDoS,Retail,449936,Insider,Weak Passwords,52,31.36
+Malware,Retail,61238,Unknown,Unpatched Software,41,71.05
+Malware,Education,916209,Unknown,Zero-day,50,24.93
+DDoS,Banking,762440,Nation-state,Unpatched Software,19,13.97
+Malware,Banking,248859,Nation-state,Social Engineering,33,92.2
+SQL Injection,IT,645774,Hacker Group,Social Engineering,7,47.8
+Man-in-the-Middle,Healthcare,218189,Unknown,Weak Passwords,48,61.55
+Man-in-the-Middle,Banking,623301,Hacker Group,Social Engineering,40,66.47
+Ransomware,Education,195872,Hacker Group,Social Engineering,22,10.32
+SQL Injection,IT,807745,Nation-state,Unpatched Software,71,76.36
+Ransomware,Healthcare,50385,Unknown,Unpatched Software,10,25.49
+Malware,Telecommunications,377769,Hacker Group,Zero-day,38,73.71
+Ransomware,Telecommunications,355256,Hacker Group,Unpatched Software,51,99.41
+DDoS,Government,478549,Hacker Group,Weak Passwords,37,65.57
+Malware,Retail,125300,Insider,Weak Passwords,11,60.85
+Ransomware,Education,608196,Insider,Weak Passwords,25,34.54
+Phishing,Government,27694,Unknown,Weak Passwords,30,43.49
+Man-in-the-Middle,Retail,29840,Hacker Group,Weak Passwords,63,30.38
+Phishing,Banking,720643,Unknown,Social Engineering,19,4.59
+Man-in-the-Middle,IT,775866,Insider,Weak Passwords,69,54.54
+Phishing,Retail,671335,Hacker Group,Zero-day,62,95.86
+DDoS,Banking,276199,Insider,Weak Passwords,28,98.07
+Ransomware,IT,534962,Unknown,Weak Passwords,59,75.49
+Phishing,Telecommunications,758516,Hacker Group,Zero-day,16,62.8
+Phishing,Education,943662,Unknown,Weak Passwords,47,82.18
+Ransomware,Government,257068,Hacker Group,Social Engineering,17,99.3
+DDoS,Education,75167,Insider,Unpatched Software,13,66.04
+SQL Injection,Retail,3200,Insider,Weak Passwords,43,88.18
+Ransomware,IT,917016,Unknown,Weak Passwords,39,60.82
+SQL Injection,Banking,760892,Hacker Group,Zero-day,22,40.31
+SQL Injection,Telecommunications,204624,Unknown,Unpatched Software,33,1.47
+DDoS,Healthcare,324899,Insider,Unpatched Software,57,16.65
+Ransomware,Government,472878,Unknown,Social Engineering,37,96.44
+Malware,Retail,804221,Nation-state,Zero-day,68,13.77
+Ransomware,Banking,514319,Hacker Group,Zero-day,37,54.09
+Man-in-the-Middle,Education,180599,Insider,Social Engineering,4,2.17
+SQL Injection,Retail,129677,Hacker Group,Unpatched Software,60,61.83
+Ransomware,Telecommunications,999508,Unknown,Unpatched Software,23,99.88
+SQL Injection,Healthcare,915247,Nation-state,Zero-day,52,3.92
+Man-in-the-Middle,Education,685261,Nation-state,Unpatched Software,36,50.99
+DDoS,Government,48515,Hacker Group,Social Engineering,50,34.8
+Man-in-the-Middle,Government,613786,Nation-state,Unpatched Software,24,49.37
+DDoS,Education,228033,Nation-state,Unpatched Software,43,61.23
+SQL Injection,Education,862718,Hacker Group,Weak Passwords,44,95.54
+Ransomware,Healthcare,924837,Hacker Group,Unpatched Software,62,16.77
+SQL Injection,Government,876850,Insider,Weak Passwords,8,20.36
+Phishing,Banking,556014,Nation-state,Unpatched Software,11,10.56
+Phishing,Government,974362,Insider,Unpatched Software,70,42.82
+Man-in-the-Middle,IT,725608,Insider,Zero-day,15,68.68
+Man-in-the-Middle,Education,386691,Nation-state,Weak Passwords,20,6.79
+SQL Injection,Government,402855,Insider,Social Engineering,26,40.98
+Phishing,Healthcare,518357,Insider,Weak Passwords,42,25.66
+Phishing,Banking,724633,Hacker Group,Weak Passwords,26,29.35
+Ransomware,IT,742272,Nation-state,Zero-day,64,6.74
+Malware,IT,650093,Unknown,Social Engineering,58,83.09
+Phishing,Banking,755165,Hacker Group,Social Engineering,28,94.32
+DDoS,IT,581923,Hacker Group,Social Engineering,63,67.12
+Man-in-the-Middle,Retail,637189,Hacker Group,Unpatched Software,56,76.83
+DDoS,Retail,513625,Nation-state,Weak Passwords,37,70.37
+Phishing,Government,499142,Nation-state,Unpatched Software,70,22.46
+Phishing,Healthcare,8334,Unknown,Zero-day,13,17.64
+Phishing,Government,617277,Insider,Social Engineering,4,37.3
+Man-in-the-Middle,Education,614662,Unknown,Weak Passwords,37,2.17
+DDoS,Banking,755185,Unknown,Weak Passwords,20,99.99
+DDoS,IT,839882,Nation-state,Social Engineering,7,37.84
+Ransomware,Education,852965,Nation-state,Weak Passwords,39,86.8
+Man-in-the-Middle,Banking,566386,Insider,Unpatched Software,45,3.69
+Phishing,IT,402903,Insider,Zero-day,55,73.85
+DDoS,Retail,261266,Hacker Group,Weak Passwords,63,0.5
+Malware,IT,899215,Hacker Group,Weak Passwords,59,91.94
+Man-in-the-Middle,Education,455900,Hacker Group,Zero-day,11,35.37
+SQL Injection,Government,391049,Unknown,Weak Passwords,35,69.61
+Ransomware,Government,694660,Unknown,Weak Passwords,29,81.53
+DDoS,IT,650469,Unknown,Unpatched Software,58,63.96
+SQL Injection,IT,247149,Nation-state,Unpatched Software,47,68.17
+DDoS,Education,645578,Insider,Weak Passwords,56,15.54
+SQL Injection,Government,848517,Unknown,Unpatched Software,16,67.05
+Malware,Healthcare,897755,Hacker Group,Social Engineering,61,25.19
+Ransomware,Government,999635,Nation-state,Weak Passwords,24,93.34
+Phishing,Government,767721,Unknown,Weak Passwords,9,87.27
+Phishing,IT,629687,Unknown,Social Engineering,53,33.15
+Phishing,Retail,517843,Unknown,Unpatched Software,69,38.5
+DDoS,Healthcare,807631,Nation-state,Weak Passwords,56,20.92
+Phishing,Retail,354954,Nation-state,Social Engineering,14,98.95
+SQL Injection,Healthcare,839368,Insider,Unpatched Software,40,54.26
+DDoS,Healthcare,910081,Nation-state,Zero-day,28,10.77
+Phishing,IT,979700,Hacker Group,Weak Passwords,49,87.42
+Man-in-the-Middle,Telecommunications,586131,Nation-state,Unpatched Software,68,58.78
+Phishing,Education,317988,Nation-state,Zero-day,2,82.47
+Ransomware,Government,11241,Hacker Group,Weak Passwords,4,43.11
+Phishing,Education,381599,Unknown,Weak Passwords,66,97.98
+SQL Injection,Education,347293,Nation-state,Unpatched Software,65,16.5
+Ransomware,IT,82321,Unknown,Zero-day,47,86.23
+SQL Injection,Retail,460558,Nation-state,Zero-day,61,49.76
+Man-in-the-Middle,Telecommunications,828280,Hacker Group,Social Engineering,62,62.83
+Malware,Education,287352,Unknown,Zero-day,69,20.14
+Ransomware,Government,946651,Insider,Unpatched Software,67,25.9
+Phishing,Education,954423,Unknown,Unpatched Software,6,88.43
+Ransomware,Banking,979382,Nation-state,Social Engineering,43,32.56
+DDoS,Government,12372,Nation-state,Social Engineering,29,58.67
+Phishing,IT,195044,Unknown,Unpatched Software,20,6.49
+Ransomware,Telecommunications,721984,Nation-state,Weak Passwords,44,34.93
+DDoS,Education,654253,Insider,Weak Passwords,35,71.55
+Malware,Healthcare,686119,Insider,Weak Passwords,25,23.01
+Man-in-the-Middle,Healthcare,776634,Unknown,Weak Passwords,33,93.91
+Ransomware,IT,698224,Insider,Unpatched Software,21,41.09
+Malware,Government,88821,Unknown,Zero-day,39,86.77
+Man-in-the-Middle,Banking,846546,Unknown,Unpatched Software,51,53.95
+Man-in-the-Middle,Retail,117819,Nation-state,Zero-day,15,14.04
+Man-in-the-Middle,IT,465446,Unknown,Unpatched Software,51,70.97
+Malware,Healthcare,184554,Unknown,Zero-day,39,75.72
+Phishing,IT,520480,Insider,Weak Passwords,66,48.71
+Malware,Government,294668,Nation-state,Social Engineering,17,50.61
+Man-in-the-Middle,Healthcare,892665,Insider,Unpatched Software,31,54.54
+Ransomware,Healthcare,80926,Hacker Group,Unpatched Software,19,87.42
+Ransomware,Education,884536,Insider,Zero-day,34,80.77
+SQL Injection,Healthcare,445422,Unknown,Unpatched Software,70,3.73
+Ransomware,Government,376628,Unknown,Zero-day,30,52.28
+Man-in-the-Middle,Banking,378949,Unknown,Weak Passwords,67,70.89
+Phishing,IT,26036,Hacker Group,Weak Passwords,71,35.27
+DDoS,Government,191369,Insider,Unpatched Software,65,40.98
+Phishing,IT,899005,Insider,Weak Passwords,61,93.62
+Man-in-the-Middle,Education,119348,Nation-state,Unpatched Software,48,20.57
+Man-in-the-Middle,Telecommunications,610106,Unknown,Social Engineering,39,21.8
+SQL Injection,Education,239853,Insider,Unpatched Software,64,28.19
+Ransomware,Telecommunications,419344,Hacker Group,Zero-day,59,99.83
+SQL Injection,Healthcare,428415,Hacker Group,Zero-day,69,45.85
+Malware,Banking,169113,Insider,Weak Passwords,55,47.14
+Phishing,Government,867302,Unknown,Social Engineering,55,24.06
+DDoS,IT,821848,Insider,Unpatched Software,60,63.87
+Malware,Government,982719,Unknown,Social Engineering,26,35.96
+DDoS,Education,769794,Nation-state,Zero-day,29,76.22
+Phishing,IT,957199,Hacker Group,Social Engineering,49,29.42
+Ransomware,Education,431174,Unknown,Weak Passwords,24,65.73
+Ransomware,Education,483598,Insider,Zero-day,29,44.39
+Malware,IT,661385,Hacker Group,Zero-day,26,80.49
+Malware,Education,878362,Nation-state,Unpatched Software,57,60.13
+Man-in-the-Middle,Healthcare,401178,Hacker Group,Unpatched Software,43,56.14
+Ransomware,Healthcare,144533,Unknown,Social Engineering,67,11.57
+Ransomware,Government,828963,Unknown,Zero-day,2,89.9
+Man-in-the-Middle,Government,554294,Unknown,Unpatched Software,42,63.82
+Man-in-the-Middle,Banking,844953,Unknown,Weak Passwords,53,22.94
+Phishing,IT,581813,Unknown,Social Engineering,20,94.02
+Malware,Banking,122728,Unknown,Zero-day,7,9.76
+DDoS,Education,267631,Hacker Group,Zero-day,12,39.33
+SQL Injection,Retail,755230,Insider,Weak Passwords,31,3.87
+Malware,Retail,339119,Unknown,Unpatched Software,29,80.37
+SQL Injection,Government,540718,Insider,Zero-day,6,14.72
+DDoS,Government,546017,Unknown,Social Engineering,14,85.88
+SQL Injection,Retail,96083,Unknown,Weak Passwords,17,48.83
+Man-in-the-Middle,Retail,366318,Nation-state,Unpatched Software,35,60.04
+Malware,IT,510454,Nation-state,Zero-day,18,86.98
+Phishing,Government,68551,Nation-state,Weak Passwords,55,12.62
+Ransomware,Healthcare,83374,Insider,Zero-day,45,63.74
+Man-in-the-Middle,Banking,981595,Nation-state,Weak Passwords,56,20.44
+Phishing,Banking,934436,Unknown,Unpatched Software,64,13.38
+Ransomware,Healthcare,461093,Hacker Group,Zero-day,42,79.48
+SQL Injection,Retail,214195,Nation-state,Zero-day,54,86.79
+SQL Injection,Education,519698,Insider,Social Engineering,30,17.55
+Man-in-the-Middle,Healthcare,393738,Nation-state,Zero-day,69,16.71
+DDoS,Government,327171,Unknown,Unpatched Software,41,41.75
+DDoS,Telecommunications,534069,Nation-state,Social Engineering,6,94.79
+SQL Injection,Government,812679,Nation-state,Zero-day,67,68.53
+Malware,Education,552241,Hacker Group,Zero-day,50,23.86
+SQL Injection,Banking,708357,Unknown,Weak Passwords,49,80.98
+Man-in-the-Middle,Government,491008,Hacker Group,Weak Passwords,50,51.41
+Phishing,Telecommunications,761576,Insider,Unpatched Software,9,99.98
+Ransomware,Government,10206,Hacker Group,Weak Passwords,28,12.64
+SQL Injection,Banking,49085,Hacker Group,Weak Passwords,32,92.66
+DDoS,Government,131940,Nation-state,Weak Passwords,34,18.69
+Phishing,IT,396839,Hacker Group,Zero-day,60,68.5
+DDoS,Banking,46824,Hacker Group,Social Engineering,39,76.53
+DDoS,IT,705326,Hacker Group,Unpatched Software,19,71.22
+Malware,Telecommunications,252949,Insider,Unpatched Software,51,4.52
+Phishing,Government,699825,Nation-state,Unpatched Software,60,45.97
+Man-in-the-Middle,Banking,882784,Insider,Weak Passwords,31,3.57
+DDoS,Education,721334,Insider,Social Engineering,31,92.06
+Malware,IT,840225,Unknown,Zero-day,70,71.15
+Ransomware,Telecommunications,118118,Unknown,Social Engineering,17,9.74
+Phishing,Education,272199,Nation-state,Zero-day,29,30.42
+Ransomware,Retail,964115,Nation-state,Unpatched Software,48,59.44
+Man-in-the-Middle,Education,171936,Hacker Group,Weak Passwords,70,27.58
+Malware,Healthcare,841903,Unknown,Social Engineering,7,73.26
+Man-in-the-Middle,Telecommunications,521871,Insider,Social Engineering,6,92.88
+Malware,Government,578427,Hacker Group,Weak Passwords,16,46.25
+DDoS,Banking,538890,Nation-state,Zero-day,59,51.64
+DDoS,Telecommunications,789067,Hacker Group,Unpatched Software,63,79.5
+DDoS,IT,446331,Nation-state,Unpatched Software,17,93.96
+Ransomware,Government,927623,Nation-state,Weak Passwords,29,52.85
+DDoS,Telecommunications,724629,Insider,Unpatched Software,18,84.38
+Ransomware,Education,21699,Insider,Weak Passwords,32,54.26
+SQL Injection,Healthcare,135042,Nation-state,Weak Passwords,13,12.56
+Malware,IT,884741,Nation-state,Zero-day,30,95.17
+DDoS,IT,285609,Unknown,Weak Passwords,46,99.62
+Ransomware,Government,755692,Nation-state,Social Engineering,46,97.5
+SQL Injection,Telecommunications,241449,Unknown,Unpatched Software,27,80.14
+DDoS,IT,951607,Unknown,Zero-day,58,31.5
+Phishing,Government,774050,Hacker Group,Social Engineering,40,32.93
+Malware,Retail,538552,Hacker Group,Weak Passwords,65,83.42
+DDoS,Retail,342951,Nation-state,Zero-day,72,20.39
+DDoS,Healthcare,974261,Hacker Group,Social Engineering,20,92.58
+SQL Injection,Healthcare,86583,Unknown,Social Engineering,47,91.03
+DDoS,Healthcare,326955,Nation-state,Zero-day,21,90.94
+DDoS,Healthcare,344772,Hacker Group,Unpatched Software,5,54.41
+Man-in-the-Middle,IT,568075,Unknown,Weak Passwords,22,30.93
+Ransomware,Government,693509,Nation-state,Unpatched Software,70,24.43
+Malware,Government,505404,Insider,Zero-day,30,25.53
+Malware,IT,570159,Hacker Group,Unpatched Software,18,51.66
+DDoS,Telecommunications,208313,Hacker Group,Weak Passwords,5,18.18
+Phishing,Retail,916272,Nation-state,Zero-day,32,2.73
+Phishing,Banking,288526,Hacker Group,Unpatched Software,66,83.27
+Malware,Government,892175,Insider,Zero-day,18,54.17
+Ransomware,Retail,189999,Hacker Group,Social Engineering,57,76.83
+SQL Injection,Telecommunications,716114,Insider,Weak Passwords,63,78.9
+Ransomware,Education,414904,Nation-state,Unpatched Software,53,32.5
+SQL Injection,Banking,989592,Insider,Weak Passwords,49,77.65
+Phishing,Government,389782,Insider,Social Engineering,45,60.68
+Malware,Healthcare,552427,Hacker Group,Zero-day,58,67.85
+Ransomware,Retail,933418,Nation-state,Zero-day,15,44.25
+Man-in-the-Middle,Telecommunications,934333,Insider,Unpatched Software,60,42.88
+Malware,Telecommunications,213558,Unknown,Unpatched Software,37,65.81
+DDoS,Telecommunications,271388,Nation-state,Unpatched Software,36,41.37
+DDoS,Government,482307,Hacker Group,Zero-day,62,88.79
+Man-in-the-Middle,Telecommunications,848419,Insider,Unpatched Software,27,59.32
+DDoS,Government,615305,Insider,Zero-day,6,54.7
+DDoS,Telecommunications,829827,Nation-state,Weak Passwords,48,57.75
+Man-in-the-Middle,Education,699194,Nation-state,Social Engineering,45,60.55
+Malware,IT,82276,Insider,Zero-day,26,6.51
+Phishing,IT,234055,Unknown,Weak Passwords,64,47.56
+Phishing,IT,880546,Nation-state,Zero-day,39,52.47
+Phishing,Education,183678,Insider,Zero-day,59,54.76
+DDoS,Education,720850,Unknown,Social Engineering,17,42.64
+Phishing,Banking,339645,Unknown,Weak Passwords,2,39.53
+DDoS,Telecommunications,368351,Nation-state,Zero-day,48,73.27
+DDoS,Banking,810930,Insider,Weak Passwords,30,88.79
+DDoS,IT,966010,Unknown,Weak Passwords,20,13.99
+Man-in-the-Middle,Telecommunications,104759,Hacker Group,Zero-day,12,79.88
+Phishing,Banking,654122,Nation-state,Social Engineering,68,77.41
+SQL Injection,Telecommunications,731625,Nation-state,Zero-day,33,87.44
+Ransomware,Education,848222,Insider,Unpatched Software,16,47.32
+Man-in-the-Middle,Telecommunications,437554,Insider,Weak Passwords,19,32.4
+Phishing,Retail,589348,Hacker Group,Social Engineering,4,53.07
+Ransomware,Retail,322146,Hacker Group,Social Engineering,70,68.95
+SQL Injection,Government,432917,Hacker Group,Unpatched Software,53,42.81
+DDoS,IT,64163,Unknown,Weak Passwords,7,53.91
+Phishing,Retail,95873,Unknown,Unpatched Software,50,45.67
+SQL Injection,Healthcare,205015,Nation-state,Unpatched Software,57,62.61
+SQL Injection,Telecommunications,488501,Nation-state,Social Engineering,47,27.52
+Ransomware,Retail,850758,Insider,Unpatched Software,9,16.33
+SQL Injection,Healthcare,703282,Insider,Weak Passwords,2,67.42
+SQL Injection,Government,1579,Unknown,Unpatched Software,55,87.71
+DDoS,IT,828721,Insider,Weak Passwords,21,93.72
+Malware,Government,239402,Hacker Group,Zero-day,17,67.79
+DDoS,Education,891298,Insider,Social Engineering,60,54.4
+Man-in-the-Middle,Education,915463,Insider,Weak Passwords,2,86.52
+Malware,Education,395264,Unknown,Weak Passwords,5,99.09
+Man-in-the-Middle,Healthcare,946668,Hacker Group,Unpatched Software,67,66.13
+Malware,IT,201017,Insider,Unpatched Software,17,52.54
+SQL Injection,IT,876383,Insider,Zero-day,72,48.0
+Ransomware,Government,564944,Insider,Social Engineering,58,10.84
+Malware,IT,259573,Nation-state,Zero-day,68,6.35
+DDoS,Education,10859,Nation-state,Social Engineering,66,99.83
+DDoS,Government,496378,Insider,Unpatched Software,42,41.45
+Man-in-the-Middle,Education,937987,Hacker Group,Weak Passwords,45,29.92
+Ransomware,Education,182887,Hacker Group,Unpatched Software,51,9.32
+Man-in-the-Middle,Healthcare,927694,Insider,Social Engineering,43,34.43
+Man-in-the-Middle,Banking,893986,Insider,Unpatched Software,47,81.68
+Phishing,Retail,852789,Hacker Group,Social Engineering,4,36.85
+Man-in-the-Middle,Healthcare,695427,Nation-state,Zero-day,28,26.92
+DDoS,Banking,961173,Insider,Social Engineering,37,35.31
+Man-in-the-Middle,Healthcare,430760,Nation-state,Unpatched Software,63,11.74
+Ransomware,Telecommunications,198764,Insider,Zero-day,40,93.93
+Malware,Banking,786462,Unknown,Weak Passwords,17,34.68
+Malware,IT,999542,Hacker Group,Social Engineering,15,84.43
+Malware,Government,221315,Nation-state,Unpatched Software,53,24.6
+SQL Injection,Education,861075,Hacker Group,Social Engineering,7,52.7
+Phishing,Telecommunications,55209,Nation-state,Unpatched Software,11,33.54
+Phishing,Education,76479,Insider,Zero-day,4,43.54
+SQL Injection,Telecommunications,728731,Unknown,Weak Passwords,72,37.17
+SQL Injection,Education,161579,Nation-state,Zero-day,15,36.37
+SQL Injection,Government,362642,Unknown,Social Engineering,19,56.53
+DDoS,Education,913276,Insider,Social Engineering,57,29.76
+Phishing,Government,817268,Nation-state,Zero-day,1,70.6
+SQL Injection,IT,682480,Hacker Group,Zero-day,14,80.05
+DDoS,Telecommunications,298385,Hacker Group,Unpatched Software,11,15.53
+DDoS,Healthcare,682445,Nation-state,Social Engineering,20,6.32
+SQL Injection,Government,78277,Hacker Group,Weak Passwords,51,18.26
+Man-in-the-Middle,IT,985267,Hacker Group,Unpatched Software,48,90.85
+Man-in-the-Middle,Healthcare,603982,Hacker Group,Social Engineering,18,2.59
+DDoS,Banking,81354,Insider,Weak Passwords,6,74.26
+Phishing,Education,542754,Insider,Zero-day,42,78.99
+Phishing,Education,905386,Hacker Group,Zero-day,17,85.79
+Phishing,Banking,281387,Hacker Group,Social Engineering,55,88.38
+Malware,Banking,205850,Insider,Unpatched Software,72,30.15
+Malware,Telecommunications,998028,Hacker Group,Unpatched Software,59,70.44
+Malware,IT,780527,Hacker Group,Zero-day,68,20.63
+Ransomware,Telecommunications,667436,Insider,Social Engineering,11,56.37
+Ransomware,Retail,440529,Insider,Weak Passwords,20,71.26
+Man-in-the-Middle,Banking,194670,Nation-state,Social Engineering,29,3.47
+DDoS,Banking,750875,Nation-state,Weak Passwords,30,53.59
+Phishing,Retail,970373,Unknown,Social Engineering,58,75.95
+Phishing,Retail,827399,Nation-state,Weak Passwords,25,44.98
+Man-in-the-Middle,Education,416149,Insider,Unpatched Software,56,81.01
+Ransomware,IT,506625,Insider,Weak Passwords,41,51.11
+Phishing,Government,333027,Hacker Group,Zero-day,19,38.83
+SQL Injection,Telecommunications,982269,Insider,Unpatched Software,51,89.93
+Malware,Government,724903,Unknown,Weak Passwords,53,78.97
+DDoS,Education,156823,Hacker Group,Social Engineering,1,26.82
+DDoS,Education,244753,Insider,Zero-day,45,56.73
+Malware,Retail,258554,Unknown,Social Engineering,72,71.15
+Ransomware,Telecommunications,139407,Insider,Unpatched Software,41,97.9
+Phishing,Education,206203,Hacker Group,Social Engineering,7,5.8
+SQL Injection,Government,55635,Unknown,Weak Passwords,13,69.55
+Ransomware,Education,55683,Hacker Group,Unpatched Software,19,11.42
+Phishing,Banking,210006,Nation-state,Social Engineering,27,87.62
+Man-in-the-Middle,Education,816455,Unknown,Unpatched Software,40,98.58
+SQL Injection,IT,53147,Nation-state,Social Engineering,9,87.48
+SQL Injection,Telecommunications,583514,Hacker Group,Zero-day,54,80.96
+Ransomware,Government,688150,Unknown,Weak Passwords,58,85.43
+Phishing,Government,809443,Insider,Weak Passwords,59,3.54
+Malware,Government,78149,Nation-state,Weak Passwords,30,34.03
+DDoS,Banking,113775,Insider,Weak Passwords,14,64.29
+Ransomware,Banking,798498,Nation-state,Zero-day,54,54.97
+Phishing,Education,267789,Insider,Weak Passwords,26,97.45
+SQL Injection,Telecommunications,833840,Insider,Unpatched Software,6,30.19
+DDoS,Banking,646433,Insider,Social Engineering,37,6.61
+Man-in-the-Middle,Government,403770,Hacker Group,Weak Passwords,22,68.03
+SQL Injection,Retail,814701,Hacker Group,Social Engineering,63,75.63
+Ransomware,IT,666683,Hacker Group,Zero-day,34,72.29
+DDoS,Banking,236438,Hacker Group,Weak Passwords,24,44.17
+DDoS,Education,798113,Insider,Social Engineering,23,60.94
+Malware,Healthcare,518982,Hacker Group,Weak Passwords,20,23.34
+DDoS,IT,252225,Unknown,Unpatched Software,67,76.99
+SQL Injection,Government,5346,Unknown,Zero-day,69,60.66
+DDoS,Retail,4814,Unknown,Social Engineering,42,19.36
+SQL Injection,Banking,772512,Hacker Group,Weak Passwords,42,50.61
+Phishing,Education,16360,Nation-state,Unpatched Software,37,81.81
+Phishing,Telecommunications,224143,Nation-state,Social Engineering,60,38.68
+SQL Injection,IT,743325,Insider,Weak Passwords,9,52.35
+Phishing,Education,597542,Unknown,Weak Passwords,11,81.47
+Malware,Education,913591,Hacker Group,Zero-day,51,55.15
+SQL Injection,IT,183702,Nation-state,Zero-day,57,8.24
+Ransomware,Healthcare,685837,Insider,Social Engineering,68,42.26
+Phishing,Healthcare,690500,Hacker Group,Weak Passwords,11,28.6
+SQL Injection,Banking,520308,Insider,Zero-day,39,4.31
+Phishing,Education,84643,Nation-state,Unpatched Software,53,17.43
+Malware,Healthcare,762282,Hacker Group,Social Engineering,11,85.28
+Malware,Education,427144,Unknown,Social Engineering,42,70.46
+Man-in-the-Middle,Banking,800683,Nation-state,Unpatched Software,57,86.87
+Man-in-the-Middle,Education,662101,Insider,Social Engineering,7,46.39
+Malware,IT,977343,Hacker Group,Weak Passwords,47,30.72
+Ransomware,Education,534013,Unknown,Unpatched Software,49,86.73
+SQL Injection,Education,947933,Insider,Social Engineering,10,18.45
+Malware,Retail,692167,Unknown,Weak Passwords,70,9.25
+Malware,IT,320277,Unknown,Weak Passwords,69,23.16
+Ransomware,Retail,163062,Unknown,Unpatched Software,43,49.75
+Malware,Banking,801821,Unknown,Weak Passwords,18,25.76
+Ransomware,Government,860664,Unknown,Zero-day,10,72.25
+Man-in-the-Middle,Education,511823,Insider,Zero-day,43,20.85
+Man-in-the-Middle,IT,952299,Unknown,Weak Passwords,33,93.13
+Phishing,Education,982450,Unknown,Weak Passwords,32,5.27
+DDoS,Retail,411083,Unknown,Weak Passwords,30,28.16
+Man-in-the-Middle,Government,43140,Insider,Social Engineering,28,17.59
+Malware,Education,935465,Nation-state,Weak Passwords,28,51.59
+DDoS,Banking,52799,Insider,Zero-day,38,81.34
+SQL Injection,Telecommunications,688312,Nation-state,Unpatched Software,48,70.02
+Phishing,Government,219162,Hacker Group,Unpatched Software,23,5.18
+Man-in-the-Middle,Telecommunications,740448,Hacker Group,Weak Passwords,26,60.01
+Ransomware,Banking,596776,Nation-state,Zero-day,17,62.73
+SQL Injection,Telecommunications,571454,Insider,Weak Passwords,42,56.2
+DDoS,Government,787260,Insider,Weak Passwords,15,72.59
+Malware,Healthcare,805745,Insider,Weak Passwords,7,19.79
+SQL Injection,Telecommunications,377194,Unknown,Weak Passwords,50,35.02
+Malware,Education,417554,Insider,Unpatched Software,35,37.07
+SQL Injection,Government,252025,Hacker Group,Zero-day,60,65.85
+Ransomware,Education,898251,Hacker Group,Weak Passwords,70,96.03
+Man-in-the-Middle,Banking,551388,Unknown,Unpatched Software,51,74.27
+DDoS,Banking,538245,Hacker Group,Weak Passwords,18,45.98
+Malware,Telecommunications,838461,Nation-state,Zero-day,6,50.97
+SQL Injection,Banking,912770,Unknown,Zero-day,67,68.05
+DDoS,Education,62194,Nation-state,Zero-day,12,95.95
+Man-in-the-Middle,Banking,416522,Insider,Social Engineering,63,15.01
+DDoS,IT,530341,Insider,Social Engineering,40,70.49
+Ransomware,IT,346939,Insider,Weak Passwords,21,73.1
+Phishing,Banking,56333,Unknown,Social Engineering,8,78.45
+Ransomware,IT,644913,Unknown,Weak Passwords,32,27.51
+SQL Injection,Banking,295917,Unknown,Weak Passwords,57,18.01
+Malware,Healthcare,54206,Insider,Unpatched Software,51,20.62
+DDoS,Telecommunications,423071,Unknown,Unpatched Software,69,47.5
+Man-in-the-Middle,Healthcare,687020,Unknown,Weak Passwords,48,17.62
+Ransomware,Education,550317,Insider,Weak Passwords,63,77.09
+Phishing,Banking,170032,Nation-state,Social Engineering,24,48.0
+SQL Injection,Healthcare,388591,Unknown,Zero-day,68,11.55
+DDoS,Healthcare,438318,Hacker Group,Unpatched Software,39,2.27
+DDoS,Education,63389,Insider,Unpatched Software,20,1.71
+Man-in-the-Middle,Retail,377602,Nation-state,Zero-day,15,95.66
+SQL Injection,Government,467551,Unknown,Unpatched Software,61,42.75
+Malware,Telecommunications,361529,Nation-state,Social Engineering,67,38.76
+Man-in-the-Middle,Retail,677755,Hacker Group,Social Engineering,52,15.21
+Man-in-the-Middle,IT,303838,Nation-state,Zero-day,56,66.25
+Ransomware,Banking,339815,Insider,Weak Passwords,58,93.74
+Ransomware,Banking,820140,Insider,Social Engineering,63,13.66
+Ransomware,IT,879875,Insider,Zero-day,61,49.3
+Man-in-the-Middle,Healthcare,987320,Unknown,Zero-day,44,40.94
+SQL Injection,Government,772948,Unknown,Zero-day,43,13.51
+Phishing,Healthcare,794914,Insider,Social Engineering,34,84.83
+DDoS,Telecommunications,198563,Hacker Group,Social Engineering,24,36.98
+DDoS,Retail,32346,Nation-state,Unpatched Software,38,21.45
+Phishing,Banking,541829,Nation-state,Zero-day,33,18.39
+Phishing,Telecommunications,446028,Hacker Group,Weak Passwords,37,21.22
+Malware,Education,759625,Insider,Social Engineering,14,13.06
+Phishing,Retail,520654,Nation-state,Social Engineering,53,3.18
+DDoS,IT,248383,Insider,Social Engineering,55,99.64
+Man-in-the-Middle,Banking,855974,Unknown,Social Engineering,44,62.39
+Malware,Government,50842,Insider,Zero-day,59,84.23
+Man-in-the-Middle,Education,697275,Nation-state,Weak Passwords,59,81.5
+Man-in-the-Middle,Telecommunications,419912,Nation-state,Zero-day,40,0.54
+Man-in-the-Middle,Banking,193620,Nation-state,Zero-day,67,65.8
+SQL Injection,Banking,777684,Unknown,Zero-day,31,58.32
+Malware,Healthcare,375245,Hacker Group,Social Engineering,20,27.61
+Man-in-the-Middle,IT,656090,Insider,Unpatched Software,27,22.96
+Man-in-the-Middle,IT,653967,Unknown,Unpatched Software,21,80.27
+SQL Injection,Education,977791,Unknown,Weak Passwords,15,0.83
+DDoS,Telecommunications,397687,Hacker Group,Social Engineering,65,81.91
+Malware,Banking,719537,Nation-state,Zero-day,23,40.87
+DDoS,Telecommunications,724790,Hacker Group,Unpatched Software,64,34.79
+Phishing,IT,51723,Hacker Group,Weak Passwords,23,33.33
+Ransomware,Healthcare,312340,Nation-state,Zero-day,35,18.26
+Man-in-the-Middle,Banking,995025,Unknown,Weak Passwords,52,15.28
+SQL Injection,Telecommunications,336356,Hacker Group,Unpatched Software,2,48.77
+Ransomware,Retail,886212,Unknown,Weak Passwords,67,48.93
+Ransomware,Healthcare,209358,Nation-state,Social Engineering,25,37.23
+DDoS,Education,495616,Nation-state,Unpatched Software,38,69.24
+SQL Injection,Government,224311,Insider,Zero-day,57,55.55
+DDoS,IT,65516,Insider,Weak Passwords,37,51.95
+Ransomware,Government,301972,Unknown,Weak Passwords,33,40.36
+Phishing,Telecommunications,124250,Insider,Zero-day,64,47.04
+Man-in-the-Middle,Healthcare,733934,Nation-state,Zero-day,31,22.61
+Malware,IT,377446,Unknown,Zero-day,12,19.26
+SQL Injection,IT,430792,Insider,Weak Passwords,9,98.57
+Malware,IT,825881,Unknown,Zero-day,35,96.79
+Malware,Telecommunications,858207,Nation-state,Unpatched Software,42,27.16
+Ransomware,Healthcare,912847,Unknown,Weak Passwords,27,16.64
+Malware,Banking,82287,Unknown,Unpatched Software,61,41.34
+Man-in-the-Middle,Education,527938,Nation-state,Zero-day,1,44.85
+DDoS,Telecommunications,645154,Insider,Weak Passwords,16,50.9
+Ransomware,Retail,732636,Hacker Group,Zero-day,3,26.01
+DDoS,Retail,26321,Nation-state,Zero-day,11,69.61
+Ransomware,Banking,982507,Unknown,Unpatched Software,39,52.88
+Malware,Retail,367712,Nation-state,Weak Passwords,13,11.57
+DDoS,Telecommunications,236346,Insider,Unpatched Software,55,83.28
+SQL Injection,Retail,287089,Nation-state,Weak Passwords,8,51.46
+Malware,Healthcare,964191,Unknown,Weak Passwords,36,50.71
+SQL Injection,Healthcare,55913,Nation-state,Social Engineering,70,52.68
+Phishing,Government,850600,Insider,Zero-day,17,98.29
+Phishing,Retail,201137,Hacker Group,Zero-day,25,45.57
+Malware,Healthcare,859708,Nation-state,Weak Passwords,10,1.68
+Phishing,Government,863777,Insider,Zero-day,20,2.74
+SQL Injection,Banking,521384,Unknown,Social Engineering,32,67.37
+SQL Injection,Government,474183,Insider,Weak Passwords,27,69.09
+SQL Injection,Retail,829742,Insider,Unpatched Software,57,36.63
+DDoS,Telecommunications,460842,Unknown,Weak Passwords,59,99.81
+Malware,Retail,839881,Unknown,Zero-day,51,47.33
+DDoS,IT,860625,Unknown,Zero-day,4,72.48
+SQL Injection,Healthcare,263110,Insider,Social Engineering,6,65.47
+Man-in-the-Middle,IT,506364,Nation-state,Social Engineering,66,13.61
+Phishing,Education,176772,Insider,Unpatched Software,6,6.01
+SQL Injection,Retail,564277,Nation-state,Weak Passwords,1,1.32
+Man-in-the-Middle,Retail,36780,Insider,Unpatched Software,64,47.97
+Ransomware,Retail,589744,Nation-state,Weak Passwords,32,46.82
+Malware,Government,309230,Hacker Group,Social Engineering,61,59.01
+Man-in-the-Middle,Telecommunications,4913,Hacker Group,Weak Passwords,61,53.59
+SQL Injection,Education,350295,Insider,Unpatched Software,5,50.41
+DDoS,Banking,998937,Nation-state,Zero-day,19,60.2
+Malware,Telecommunications,445546,Nation-state,Weak Passwords,45,96.22
+SQL Injection,Healthcare,486146,Insider,Zero-day,12,7.33
+Phishing,Education,466333,Hacker Group,Zero-day,51,29.49
+Phishing,Government,706019,Nation-state,Zero-day,65,73.35
+DDoS,Retail,971464,Nation-state,Weak Passwords,4,70.03
+Man-in-the-Middle,IT,224983,Nation-state,Weak Passwords,42,76.97
+Ransomware,Telecommunications,919425,Nation-state,Unpatched Software,45,87.41
+DDoS,Telecommunications,115138,Unknown,Unpatched Software,42,57.25
+Phishing,IT,786468,Nation-state,Social Engineering,42,99.57
+Phishing,Retail,620560,Hacker Group,Weak Passwords,59,5.11
+Malware,Government,976007,Insider,Social Engineering,59,56.74
+DDoS,Education,361163,Hacker Group,Zero-day,38,46.58
+Ransomware,Healthcare,469735,Nation-state,Zero-day,57,54.78
+Man-in-the-Middle,IT,117231,Unknown,Unpatched Software,28,46.27
+Ransomware,Healthcare,276925,Unknown,Unpatched Software,54,14.38
+Malware,Telecommunications,208089,Unknown,Zero-day,33,37.3
+Phishing,Telecommunications,71720,Hacker Group,Zero-day,21,63.81
+Ransomware,Telecommunications,236676,Nation-state,Social Engineering,67,35.62
+Man-in-the-Middle,Telecommunications,409281,Nation-state,Weak Passwords,18,93.46
+Phishing,Banking,612815,Insider,Zero-day,12,82.36
+SQL Injection,Telecommunications,153618,Nation-state,Weak Passwords,29,11.32
+Ransomware,Banking,704230,Nation-state,Zero-day,71,57.15
+Malware,Retail,863510,Hacker Group,Weak Passwords,2,79.37
+DDoS,Healthcare,488599,Unknown,Social Engineering,11,4.08
+Ransomware,Healthcare,964782,Unknown,Weak Passwords,47,80.73
+Man-in-the-Middle,IT,323027,Unknown,Unpatched Software,49,48.96
+Man-in-the-Middle,Education,12970,Unknown,Social Engineering,32,10.55
+Man-in-the-Middle,Government,659835,Unknown,Zero-day,46,50.19
+SQL Injection,Telecommunications,336320,Hacker Group,Social Engineering,51,66.92
+Man-in-the-Middle,Banking,83617,Insider,Unpatched Software,64,47.52
+Malware,Banking,99178,Nation-state,Unpatched Software,27,87.13
+Ransomware,Education,489369,Nation-state,Unpatched Software,41,80.1
+Phishing,Telecommunications,620350,Hacker Group,Zero-day,45,2.22
+DDoS,Healthcare,846602,Insider,Weak Passwords,31,38.14
+Malware,Government,650042,Nation-state,Unpatched Software,48,61.02
+Man-in-the-Middle,Government,549197,Hacker Group,Social Engineering,59,61.01
+Phishing,IT,138639,Hacker Group,Unpatched Software,14,15.49
+Man-in-the-Middle,Healthcare,833819,Insider,Unpatched Software,14,93.4
+Malware,Retail,813217,Insider,Zero-day,71,13.88
+Malware,Banking,636273,Insider,Zero-day,30,11.25
+Man-in-the-Middle,Banking,45277,Insider,Social Engineering,43,66.53
+Phishing,Telecommunications,488342,Hacker Group,Unpatched Software,23,89.41
+Phishing,IT,526220,Nation-state,Social Engineering,2,55.31
+DDoS,Education,311596,Insider,Weak Passwords,23,90.38
+DDoS,Retail,658226,Insider,Weak Passwords,52,25.17
+Phishing,Education,344693,Hacker Group,Social Engineering,19,6.29
+Phishing,Education,380995,Unknown,Weak Passwords,60,37.57
+Malware,Banking,458185,Insider,Social Engineering,31,3.1
+Man-in-the-Middle,Education,581034,Insider,Social Engineering,67,91.69
+Ransomware,Retail,722544,Hacker Group,Social Engineering,14,19.97
+Phishing,IT,793783,Insider,Social Engineering,17,28.78
+SQL Injection,IT,620822,Unknown,Zero-day,21,53.21
+Ransomware,Healthcare,715102,Insider,Zero-day,2,16.6
+Man-in-the-Middle,Banking,634390,Unknown,Zero-day,54,44.32
+Ransomware,Government,791473,Nation-state,Weak Passwords,58,10.34
+Phishing,IT,631816,Unknown,Weak Passwords,29,41.81
+Malware,Banking,517353,Nation-state,Social Engineering,41,84.54
+Malware,Telecommunications,118734,Insider,Unpatched Software,21,40.38
+Man-in-the-Middle,Education,963367,Insider,Zero-day,50,39.15
+SQL Injection,Telecommunications,71557,Insider,Social Engineering,47,22.51
+Ransomware,Government,824704,Hacker Group,Zero-day,30,58.18
+Man-in-the-Middle,Banking,1326,Nation-state,Social Engineering,11,92.48
+Phishing,Banking,630931,Insider,Zero-day,48,51.38
+Phishing,Government,395731,Insider,Unpatched Software,64,93.61
+Ransomware,Government,918816,Unknown,Weak Passwords,58,27.38
+Malware,Healthcare,357205,Nation-state,Weak Passwords,21,74.61
+SQL Injection,IT,464960,Unknown,Unpatched Software,24,78.84
+Ransomware,Telecommunications,51619,Insider,Unpatched Software,3,65.7
+Phishing,IT,850794,Unknown,Social Engineering,69,81.04
+Man-in-the-Middle,Banking,559841,Nation-state,Unpatched Software,22,27.2
+DDoS,Healthcare,685136,Nation-state,Weak Passwords,62,86.38
+Malware,Education,102797,Unknown,Weak Passwords,17,83.93
+Ransomware,Healthcare,439046,Insider,Social Engineering,42,40.36
+SQL Injection,Telecommunications,51312,Insider,Social Engineering,26,57.4
+Ransomware,Retail,510870,Unknown,Unpatched Software,35,1.42
+SQL Injection,Government,348118,Hacker Group,Zero-day,42,66.5
+Ransomware,Healthcare,509930,Unknown,Social Engineering,68,47.18
+Ransomware,IT,822380,Hacker Group,Zero-day,26,58.99
+SQL Injection,Banking,619669,Unknown,Unpatched Software,19,52.91
+SQL Injection,Telecommunications,341111,Insider,Weak Passwords,14,20.95
+Ransomware,Government,443730,Hacker Group,Weak Passwords,39,2.79
+DDoS,IT,824968,Insider,Weak Passwords,15,27.76
+Man-in-the-Middle,Retail,172346,Nation-state,Social Engineering,51,58.77
+DDoS,Telecommunications,919855,Hacker Group,Weak Passwords,56,51.95
+Man-in-the-Middle,IT,254634,Hacker Group,Social Engineering,5,90.57
+Phishing,Retail,724409,Unknown,Weak Passwords,56,39.15
+Phishing,Healthcare,269142,Unknown,Unpatched Software,72,95.3
+Phishing,Retail,32067,Insider,Unpatched Software,19,92.48
+Malware,Government,591314,Hacker Group,Weak Passwords,65,32.2
+SQL Injection,Healthcare,149171,Hacker Group,Zero-day,64,91.72
+DDoS,IT,535205,Hacker Group,Social Engineering,53,13.52
+Ransomware,Education,471889,Nation-state,Zero-day,4,87.93
+Phishing,Healthcare,869751,Insider,Zero-day,12,52.18
+DDoS,Education,690010,Nation-state,Weak Passwords,18,50.42
+Ransomware,Healthcare,433987,Unknown,Zero-day,21,32.9
+Phishing,Banking,31262,Unknown,Social Engineering,56,1.54
+Malware,Retail,824433,Nation-state,Unpatched Software,60,32.26
+Man-in-the-Middle,Retail,651963,Insider,Unpatched Software,53,23.28
+SQL Injection,Education,349070,Unknown,Zero-day,41,81.06
+Malware,Telecommunications,967411,Hacker Group,Social Engineering,47,71.42
+SQL Injection,Retail,263770,Unknown,Social Engineering,62,64.81
+Phishing,Retail,714670,Hacker Group,Weak Passwords,32,85.89
+DDoS,Telecommunications,498904,Hacker Group,Zero-day,65,47.84
+Phishing,Education,569539,Unknown,Weak Passwords,18,47.95
+Man-in-the-Middle,Retail,217938,Nation-state,Weak Passwords,69,82.52
+Ransomware,Retail,172607,Unknown,Zero-day,60,36.48
+Man-in-the-Middle,Retail,424762,Insider,Unpatched Software,10,95.66
+Man-in-the-Middle,IT,130309,Insider,Zero-day,56,42.34
+DDoS,Government,95378,Insider,Social Engineering,67,65.11
+Phishing,IT,920801,Nation-state,Zero-day,52,53.95
+Man-in-the-Middle,Retail,551038,Insider,Social Engineering,21,91.36
+Malware,Telecommunications,962508,Unknown,Social Engineering,13,85.8
+Malware,Healthcare,267554,Hacker Group,Social Engineering,45,92.29
+Ransomware,IT,76258,Unknown,Social Engineering,43,25.3
+Malware,Banking,661377,Hacker Group,Weak Passwords,66,3.6
+SQL Injection,Retail,310341,Unknown,Weak Passwords,32,56.62
+Phishing,Education,702883,Insider,Unpatched Software,31,66.25
+Malware,Education,516103,Hacker Group,Unpatched Software,62,78.38
+Malware,Retail,542283,Hacker Group,Social Engineering,64,84.7
+SQL Injection,Government,173441,Hacker Group,Social Engineering,43,43.75
+DDoS,Retail,856228,Hacker Group,Zero-day,47,67.36
+Malware,IT,791265,Hacker Group,Social Engineering,65,68.54
+Malware,Retail,969699,Hacker Group,Social Engineering,63,45.42
+Malware,Telecommunications,338867,Nation-state,Unpatched Software,34,95.0
+Ransomware,Government,951249,Hacker Group,Weak Passwords,25,44.98
+Ransomware,IT,34584,Insider,Zero-day,43,50.4
+Malware,Education,298836,Hacker Group,Social Engineering,29,74.37
+Malware,Retail,526161,Unknown,Unpatched Software,12,27.82
+Phishing,Government,476308,Insider,Social Engineering,44,76.95
+SQL Injection,Banking,206897,Unknown,Zero-day,18,29.39
+Malware,IT,2653,Nation-state,Unpatched Software,56,1.92
+Ransomware,Healthcare,540353,Hacker Group,Unpatched Software,68,90.37
+Phishing,Retail,779922,Nation-state,Zero-day,50,84.77
+Ransomware,Education,908906,Hacker Group,Weak Passwords,46,24.4
+Man-in-the-Middle,Healthcare,446741,Nation-state,Weak Passwords,20,28.34
+Phishing,Education,317488,Insider,Social Engineering,46,9.95
+Phishing,IT,182613,Unknown,Unpatched Software,26,72.33
+Ransomware,IT,211305,Hacker Group,Zero-day,27,61.42
+DDoS,Government,60379,Hacker Group,Unpatched Software,32,68.83
+Ransomware,Healthcare,785179,Unknown,Weak Passwords,2,11.11
+SQL Injection,Telecommunications,652682,Insider,Social Engineering,46,1.99
+SQL Injection,Banking,52649,Nation-state,Unpatched Software,57,5.85
+Man-in-the-Middle,Government,865871,Insider,Weak Passwords,58,45.75
+DDoS,Retail,474552,Nation-state,Zero-day,20,93.71
+SQL Injection,Healthcare,400840,Insider,Social Engineering,57,5.7
+Phishing,Education,275819,Nation-state,Social Engineering,69,60.57
+DDoS,Retail,454088,Hacker Group,Social Engineering,70,89.79
+Phishing,Government,338619,Hacker Group,Unpatched Software,68,30.68
+Malware,Banking,940038,Hacker Group,Zero-day,24,31.56
+DDoS,Government,17805,Nation-state,Weak Passwords,31,98.73
+SQL Injection,Telecommunications,244933,Nation-state,Social Engineering,37,92.13
+Phishing,Retail,198602,Unknown,Zero-day,18,71.14
+DDoS,Retail,504861,Unknown,Weak Passwords,65,73.85
+Malware,Telecommunications,695618,Nation-state,Social Engineering,14,91.24
+Man-in-the-Middle,Healthcare,270732,Unknown,Weak Passwords,31,5.4
+Phishing,Retail,270326,Nation-state,Social Engineering,24,77.58
+Man-in-the-Middle,Government,827534,Hacker Group,Unpatched Software,29,80.95
+Man-in-the-Middle,Retail,32499,Insider,Zero-day,14,46.07
+Malware,Telecommunications,279065,Hacker Group,Unpatched Software,62,52.2
+Ransomware,Telecommunications,119598,Insider,Unpatched Software,43,49.56
+SQL Injection,Education,387500,Nation-state,Weak Passwords,30,61.78
+Phishing,Education,656031,Nation-state,Social Engineering,36,66.07
+Ransomware,Education,637259,Unknown,Zero-day,57,85.72
+SQL Injection,Education,623106,Nation-state,Weak Passwords,43,0.98
+DDoS,Education,513867,Unknown,Zero-day,34,21.74
+Man-in-the-Middle,Healthcare,710871,Insider,Zero-day,55,7.54
+Malware,Healthcare,875225,Unknown,Zero-day,31,7.08
+Malware,Retail,989625,Unknown,Social Engineering,53,71.2
+DDoS,Education,210433,Insider,Weak Passwords,63,89.08
+Malware,IT,709153,Hacker Group,Weak Passwords,45,26.31
+Ransomware,IT,568832,Nation-state,Social Engineering,12,21.11
+Phishing,Retail,355545,Unknown,Weak Passwords,68,51.76
+Phishing,Education,112635,Insider,Weak Passwords,55,90.91
+SQL Injection,Banking,988268,Unknown,Zero-day,44,89.39
+Malware,Education,357399,Nation-state,Zero-day,2,65.87
+Man-in-the-Middle,Government,512258,Hacker Group,Weak Passwords,32,78.16
+Ransomware,Healthcare,180760,Nation-state,Weak Passwords,34,24.21
+Man-in-the-Middle,Retail,691638,Unknown,Zero-day,17,81.16
+Ransomware,IT,123757,Insider,Social Engineering,54,80.18
+DDoS,Telecommunications,702285,Hacker Group,Zero-day,46,70.0
+DDoS,Education,907708,Unknown,Unpatched Software,44,9.73
+DDoS,Healthcare,713160,Hacker Group,Unpatched Software,26,4.49
+Malware,Banking,239200,Nation-state,Social Engineering,8,46.75
+DDoS,Healthcare,500521,Nation-state,Weak Passwords,27,63.15
+Phishing,IT,741259,Hacker Group,Unpatched Software,18,25.47
+SQL Injection,Education,604843,Insider,Unpatched Software,40,3.97
+SQL Injection,Education,697610,Insider,Weak Passwords,18,19.17
+SQL Injection,IT,730850,Hacker Group,Weak Passwords,27,58.35
+SQL Injection,IT,417807,Insider,Social Engineering,46,65.08
+Malware,Healthcare,58205,Hacker Group,Unpatched Software,63,3.74
+SQL Injection,Healthcare,830670,Unknown,Social Engineering,11,33.11
+Ransomware,Government,691990,Insider,Weak Passwords,41,57.7
+Ransomware,Retail,498089,Insider,Weak Passwords,18,74.68
+Ransomware,IT,748040,Insider,Weak Passwords,18,86.82
+Ransomware,Healthcare,909979,Nation-state,Social Engineering,65,4.51
+Man-in-the-Middle,Banking,286038,Nation-state,Social Engineering,43,27.0
+SQL Injection,Retail,479586,Insider,Zero-day,8,82.88
+Phishing,Banking,454763,Hacker Group,Social Engineering,14,42.03
+Phishing,Telecommunications,60183,Nation-state,Unpatched Software,17,33.85
+Phishing,Education,596801,Nation-state,Weak Passwords,70,94.6
+Ransomware,IT,698786,Hacker Group,Zero-day,21,71.9
+DDoS,Telecommunications,441749,Nation-state,Unpatched Software,55,94.23
+SQL Injection,Healthcare,966102,Hacker Group,Social Engineering,1,76.4
+Malware,Healthcare,430200,Unknown,Zero-day,48,66.29
+Ransomware,Banking,638668,Nation-state,Social Engineering,47,49.89
+DDoS,Healthcare,127817,Nation-state,Weak Passwords,66,81.91
+Man-in-the-Middle,Government,491794,Nation-state,Zero-day,4,14.54
+Ransomware,IT,737958,Hacker Group,Social Engineering,54,33.44
+DDoS,Education,724207,Hacker Group,Weak Passwords,54,31.74
+SQL Injection,Healthcare,451780,Hacker Group,Unpatched Software,28,78.11
+Man-in-the-Middle,Healthcare,875227,Unknown,Zero-day,20,8.25
+Malware,Banking,334945,Nation-state,Weak Passwords,33,17.52
+DDoS,IT,525978,Unknown,Weak Passwords,12,81.89
+Phishing,Retail,761252,Insider,Weak Passwords,57,37.29
+Phishing,Government,168075,Insider,Social Engineering,52,38.87
+Ransomware,Banking,443408,Hacker Group,Weak Passwords,71,6.57
+DDoS,IT,60917,Unknown,Zero-day,1,17.99
+Man-in-the-Middle,Banking,839892,Nation-state,Weak Passwords,20,59.54
+Ransomware,Government,673933,Unknown,Zero-day,22,72.14
+Ransomware,Education,534283,Insider,Social Engineering,49,84.64
+DDoS,Education,49715,Insider,Unpatched Software,72,32.2
+SQL Injection,Banking,297461,Hacker Group,Zero-day,15,1.16
+SQL Injection,Healthcare,861410,Unknown,Social Engineering,7,48.71
+DDoS,Telecommunications,547178,Insider,Social Engineering,45,14.28
+Ransomware,Banking,273660,Insider,Weak Passwords,6,37.38
+Phishing,IT,195113,Unknown,Unpatched Software,4,23.01
+Man-in-the-Middle,Banking,881294,Insider,Unpatched Software,3,9.77
+Phishing,Government,146937,Hacker Group,Social Engineering,10,58.64
+Phishing,Healthcare,72191,Unknown,Weak Passwords,3,11.29
+Man-in-the-Middle,Government,898589,Hacker Group,Zero-day,58,90.65
+Malware,Telecommunications,430306,Nation-state,Weak Passwords,67,30.66
+DDoS,IT,835814,Insider,Weak Passwords,40,27.02
+SQL Injection,IT,837322,Insider,Zero-day,25,56.07
+SQL Injection,Telecommunications,299403,Unknown,Unpatched Software,23,10.88
+Man-in-the-Middle,Government,482492,Unknown,Social Engineering,17,96.13
+DDoS,IT,777010,Hacker Group,Weak Passwords,34,88.61
+DDoS,IT,806210,Unknown,Weak Passwords,5,73.5
+Malware,Government,281616,Nation-state,Unpatched Software,6,1.17
+Ransomware,Banking,827952,Hacker Group,Unpatched Software,21,42.02
+Malware,Retail,179586,Hacker Group,Social Engineering,27,59.15
+Phishing,Retail,725905,Hacker Group,Zero-day,54,26.63
+DDoS,Healthcare,723411,Hacker Group,Weak Passwords,40,30.49
+Malware,Banking,141437,Nation-state,Weak Passwords,10,14.01
+DDoS,Government,441744,Unknown,Weak Passwords,40,49.88
+Malware,Telecommunications,936738,Insider,Weak Passwords,8,4.84
+Malware,Education,822636,Insider,Social Engineering,63,75.51
+Malware,Banking,843891,Unknown,Weak Passwords,31,68.32
+DDoS,Healthcare,82576,Nation-state,Weak Passwords,40,6.37
+Ransomware,Banking,759522,Unknown,Weak Passwords,39,97.53
+Ransomware,Banking,860343,Hacker Group,Weak Passwords,42,12.22
+Malware,Government,14483,Nation-state,Weak Passwords,36,55.72
+Malware,Telecommunications,871255,Hacker Group,Social Engineering,24,67.77
+Man-in-the-Middle,Government,48647,Unknown,Zero-day,48,98.86
+Phishing,Education,109907,Insider,Social Engineering,5,74.75
+Man-in-the-Middle,Retail,749386,Unknown,Unpatched Software,16,89.11
+Malware,Telecommunications,900723,Insider,Zero-day,32,89.79
+Phishing,IT,943151,Nation-state,Zero-day,66,49.75
+Malware,Education,93580,Nation-state,Unpatched Software,21,1.05
+Malware,Retail,303469,Insider,Social Engineering,60,26.66
+Malware,Telecommunications,28436,Unknown,Unpatched Software,66,0.71
+Phishing,Healthcare,383484,Unknown,Unpatched Software,52,41.92
+DDoS,Telecommunications,27446,Insider,Social Engineering,13,40.05
+Phishing,Healthcare,39276,Nation-state,Unpatched Software,29,73.13
+SQL Injection,IT,88304,Nation-state,Zero-day,41,33.94
+Malware,Government,281096,Nation-state,Zero-day,2,4.95
+SQL Injection,Banking,793612,Nation-state,Zero-day,12,50.23
+Malware,Banking,848188,Nation-state,Unpatched Software,12,49.92
+Man-in-the-Middle,IT,374767,Unknown,Unpatched Software,67,70.24
+DDoS,Telecommunications,835349,Nation-state,Unpatched Software,8,85.65
+SQL Injection,Banking,877560,Nation-state,Weak Passwords,61,64.25
+Man-in-the-Middle,Government,249279,Unknown,Weak Passwords,58,58.93
+Ransomware,Government,126143,Unknown,Weak Passwords,35,9.24
+Malware,Government,7910,Unknown,Unpatched Software,19,50.84
+SQL Injection,Education,732802,Nation-state,Weak Passwords,62,85.12
+DDoS,Telecommunications,426349,Hacker Group,Unpatched Software,44,12.13
+Man-in-the-Middle,Telecommunications,739538,Nation-state,Zero-day,5,6.24
+SQL Injection,Retail,251689,Nation-state,Social Engineering,1,17.98
+Malware,Education,461291,Insider,Social Engineering,5,75.2
+Man-in-the-Middle,Banking,757595,Insider,Weak Passwords,40,71.88
+Man-in-the-Middle,Retail,970866,Hacker Group,Weak Passwords,13,12.62
+Malware,Government,334916,Nation-state,Weak Passwords,35,79.56
+Man-in-the-Middle,IT,384185,Insider,Weak Passwords,71,35.37
+Phishing,Education,6670,Nation-state,Social Engineering,24,98.72
+Man-in-the-Middle,IT,801177,Nation-state,Social Engineering,11,62.08
+Ransomware,Banking,183711,Insider,Zero-day,50,28.79
+Malware,Retail,573985,Insider,Weak Passwords,45,83.45
+DDoS,Healthcare,675172,Nation-state,Weak Passwords,43,88.04
+DDoS,Government,716770,Insider,Unpatched Software,2,35.76
+DDoS,IT,825866,Unknown,Weak Passwords,23,43.19
+Ransomware,Healthcare,206631,Unknown,Zero-day,64,92.43
+Phishing,Banking,153211,Nation-state,Weak Passwords,43,40.18
+SQL Injection,IT,322255,Nation-state,Zero-day,41,48.91
+Ransomware,Telecommunications,16106,Nation-state,Weak Passwords,29,44.84
+Man-in-the-Middle,Education,640851,Unknown,Zero-day,11,51.43
+Phishing,Banking,570853,Unknown,Unpatched Software,4,12.42
+SQL Injection,Banking,995462,Unknown,Unpatched Software,33,98.91
+Ransomware,Telecommunications,716832,Hacker Group,Social Engineering,67,64.68
+Malware,Retail,677462,Unknown,Unpatched Software,45,41.34
+DDoS,IT,362499,Insider,Unpatched Software,4,52.09
+DDoS,Retail,274512,Insider,Weak Passwords,69,26.01
+Malware,Government,590555,Nation-state,Social Engineering,27,63.97
+Phishing,Telecommunications,297456,Nation-state,Zero-day,20,42.28
+Ransomware,Government,465465,Nation-state,Unpatched Software,60,2.73
+Man-in-the-Middle,IT,24387,Hacker Group,Unpatched Software,29,58.9
+Man-in-the-Middle,Education,871001,Nation-state,Zero-day,39,35.12
+Malware,IT,989421,Unknown,Zero-day,46,8.31
+Phishing,Retail,190100,Nation-state,Zero-day,69,84.86
+SQL Injection,IT,3324,Unknown,Zero-day,65,63.56
+Malware,Retail,851177,Insider,Unpatched Software,53,33.24
+Malware,Healthcare,477346,Unknown,Social Engineering,8,35.11
+Malware,Healthcare,386686,Insider,Zero-day,7,49.73
+DDoS,Banking,922456,Insider,Zero-day,67,87.62
+DDoS,Telecommunications,954379,Insider,Social Engineering,59,84.09
+Phishing,Telecommunications,887186,Insider,Weak Passwords,8,36.34
+Malware,Education,197323,Hacker Group,Social Engineering,47,41.28
+Malware,IT,294587,Unknown,Social Engineering,43,34.78
+Man-in-the-Middle,Telecommunications,191263,Hacker Group,Unpatched Software,68,88.71
+Ransomware,Healthcare,332214,Nation-state,Social Engineering,16,88.79
+Man-in-the-Middle,Government,196531,Hacker Group,Zero-day,45,56.26
+SQL Injection,Banking,258021,Hacker Group,Unpatched Software,46,4.34
+Ransomware,Healthcare,920121,Unknown,Social Engineering,21,85.65
+SQL Injection,IT,971908,Unknown,Zero-day,16,4.52
+Ransomware,IT,760590,Nation-state,Weak Passwords,9,27.19
+Man-in-the-Middle,Government,569044,Hacker Group,Social Engineering,27,45.16
+SQL Injection,Government,841324,Unknown,Weak Passwords,8,2.3
+Malware,Government,668679,Unknown,Social Engineering,27,71.54
+SQL Injection,Banking,310150,Unknown,Unpatched Software,21,27.86
+Man-in-the-Middle,IT,549414,Unknown,Social Engineering,70,13.21
+DDoS,Government,731839,Unknown,Zero-day,14,11.89
+SQL Injection,Healthcare,626352,Hacker Group,Social Engineering,33,76.58
+DDoS,Banking,626017,Unknown,Unpatched Software,1,92.23
+DDoS,Telecommunications,172782,Unknown,Social Engineering,2,70.7
+Ransomware,Government,665023,Insider,Unpatched Software,49,2.39
+Man-in-the-Middle,Banking,15909,Nation-state,Zero-day,19,89.87
+Man-in-the-Middle,Banking,998547,Unknown,Weak Passwords,46,24.28
+DDoS,IT,76358,Nation-state,Weak Passwords,58,58.3
+Man-in-the-Middle,IT,89704,Hacker Group,Social Engineering,26,84.19
+Man-in-the-Middle,Education,191361,Hacker Group,Unpatched Software,11,72.02
+Man-in-the-Middle,Government,200862,Insider,Social Engineering,13,0.61
+Malware,Government,4966,Hacker Group,Social Engineering,41,89.49
+Phishing,Education,344674,Unknown,Weak Passwords,19,34.06
+Phishing,Government,449424,Unknown,Unpatched Software,3,37.66
+Phishing,Healthcare,162807,Hacker Group,Unpatched Software,4,69.2
+DDoS,Banking,21292,Insider,Social Engineering,10,47.1
+Malware,Banking,993215,Nation-state,Zero-day,56,25.7
+DDoS,Banking,744201,Hacker Group,Zero-day,7,16.58
+Phishing,Banking,762300,Nation-state,Social Engineering,20,61.33
+DDoS,Government,764003,Insider,Zero-day,43,14.1
+DDoS,Banking,761910,Hacker Group,Zero-day,27,33.88
+Ransomware,IT,296050,Insider,Weak Passwords,30,87.45
+Malware,Government,82853,Hacker Group,Social Engineering,67,27.43
+SQL Injection,Banking,700439,Insider,Zero-day,41,34.03
+SQL Injection,Retail,351048,Insider,Unpatched Software,57,6.61
+Phishing,Retail,36963,Insider,Zero-day,54,17.99
+Ransomware,IT,533151,Nation-state,Zero-day,43,99.77
+Man-in-the-Middle,Healthcare,62185,Nation-state,Social Engineering,32,61.93
+DDoS,Education,231299,Unknown,Unpatched Software,58,48.83
+SQL Injection,Retail,914365,Insider,Weak Passwords,52,47.99
+Ransomware,Retail,696953,Nation-state,Zero-day,54,47.44
+Malware,Education,977607,Hacker Group,Zero-day,62,24.47
+Ransomware,Retail,91228,Hacker Group,Social Engineering,22,71.03
+Phishing,Government,417253,Insider,Weak Passwords,16,59.95
+Man-in-the-Middle,Government,60431,Hacker Group,Weak Passwords,59,44.03
+Man-in-the-Middle,Healthcare,567209,Hacker Group,Social Engineering,1,44.69
+SQL Injection,IT,596168,Nation-state,Zero-day,15,70.18
+Malware,Telecommunications,437357,Unknown,Weak Passwords,56,49.88
+Ransomware,IT,588421,Nation-state,Unpatched Software,72,43.88
+Phishing,IT,477292,Nation-state,Social Engineering,18,57.17
+Phishing,Education,163839,Insider,Social Engineering,19,16.76
+SQL Injection,IT,922676,Unknown,Zero-day,6,65.06
+Malware,Education,941720,Nation-state,Zero-day,71,34.66
+Phishing,Government,647613,Unknown,Social Engineering,53,49.71
+Ransomware,Telecommunications,429456,Hacker Group,Social Engineering,28,27.17
+Phishing,Government,340643,Unknown,Zero-day,72,85.73
+Malware,Education,21833,Hacker Group,Zero-day,2,55.66
+Phishing,Education,598297,Insider,Social Engineering,49,3.6
+Phishing,Retail,92925,Insider,Zero-day,53,78.28
+SQL Injection,Retail,98500,Hacker Group,Unpatched Software,30,70.09
+SQL Injection,IT,820070,Hacker Group,Weak Passwords,70,64.56
+Phishing,Banking,170892,Unknown,Zero-day,47,66.65
+Ransomware,Healthcare,887531,Hacker Group,Social Engineering,51,60.13
+DDoS,IT,179507,Insider,Weak Passwords,8,57.81
+DDoS,Banking,315219,Unknown,Social Engineering,30,78.71
+Phishing,Government,223827,Insider,Zero-day,21,63.35
+DDoS,Healthcare,254371,Unknown,Zero-day,13,47.01
+DDoS,Government,839088,Unknown,Unpatched Software,62,67.59
+DDoS,IT,394109,Unknown,Unpatched Software,37,17.49
+DDoS,IT,877224,Unknown,Unpatched Software,57,75.84
+Phishing,Telecommunications,846884,Nation-state,Social Engineering,42,91.52
+Malware,IT,100972,Nation-state,Unpatched Software,54,44.05
+DDoS,Education,148447,Insider,Zero-day,39,40.18
+SQL Injection,IT,698908,Nation-state,Zero-day,32,44.56
+SQL Injection,Government,633626,Nation-state,Social Engineering,54,53.89
+Malware,Government,334748,Unknown,Zero-day,5,88.01
+Phishing,Banking,383589,Unknown,Weak Passwords,7,55.94
+Ransomware,Education,901880,Unknown,Social Engineering,16,90.48
+SQL Injection,Education,598151,Nation-state,Unpatched Software,34,40.59
+DDoS,Banking,120341,Nation-state,Zero-day,45,77.29
+Phishing,Government,305005,Hacker Group,Zero-day,71,91.02
+Man-in-the-Middle,Retail,494622,Hacker Group,Social Engineering,37,46.41
+SQL Injection,Banking,264662,Insider,Social Engineering,46,69.07
+SQL Injection,Healthcare,942089,Insider,Unpatched Software,39,2.3
+Man-in-the-Middle,Education,779870,Nation-state,Zero-day,6,33.45
+Phishing,IT,407233,Insider,Unpatched Software,72,15.27
+Malware,Banking,148622,Nation-state,Weak Passwords,6,98.59
+Ransomware,Healthcare,480773,Hacker Group,Weak Passwords,52,30.45
+Malware,IT,946994,Unknown,Zero-day,13,22.24
+Malware,Retail,559143,Nation-state,Social Engineering,69,9.75
+Man-in-the-Middle,Education,287646,Nation-state,Social Engineering,68,67.55
+SQL Injection,Retail,19575,Insider,Zero-day,1,26.97
+Malware,Retail,701505,Hacker Group,Social Engineering,36,73.45
+Ransomware,Retail,998728,Unknown,Weak Passwords,68,40.01
+SQL Injection,Telecommunications,434504,Unknown,Social Engineering,46,52.67
+Ransomware,Retail,860546,Unknown,Zero-day,22,61.46
+SQL Injection,Education,827349,Nation-state,Unpatched Software,68,62.72
+DDoS,IT,145427,Nation-state,Social Engineering,28,2.65
+Malware,Government,613718,Unknown,Unpatched Software,60,33.8
+Phishing,IT,239301,Unknown,Social Engineering,22,61.47
+Phishing,Education,848597,Hacker Group,Weak Passwords,11,16.82
+Man-in-the-Middle,Banking,278424,Nation-state,Zero-day,9,73.85
+DDoS,Government,23096,Unknown,Weak Passwords,38,97.4
+Phishing,Education,68371,Nation-state,Unpatched Software,57,33.49
+Ransomware,Healthcare,534686,Insider,Unpatched Software,44,62.21
+Man-in-the-Middle,Education,985505,Unknown,Social Engineering,26,75.86
+DDoS,Banking,306320,Insider,Unpatched Software,41,98.39
+DDoS,Government,799380,Unknown,Weak Passwords,57,17.69
+DDoS,IT,529551,Unknown,Zero-day,61,55.14
+DDoS,IT,102295,Unknown,Weak Passwords,46,82.49
+Phishing,Banking,800131,Unknown,Zero-day,69,64.07
+Ransomware,Banking,712739,Nation-state,Weak Passwords,17,32.0
+Phishing,Telecommunications,814119,Hacker Group,Weak Passwords,64,39.15
+SQL Injection,Education,599905,Nation-state,Social Engineering,13,12.44
+DDoS,Healthcare,65117,Unknown,Social Engineering,3,5.07
+Phishing,Telecommunications,591348,Nation-state,Weak Passwords,55,6.18
+Phishing,Retail,53447,Insider,Unpatched Software,43,55.7
+Malware,IT,471379,Unknown,Unpatched Software,67,47.13
+SQL Injection,Banking,883919,Hacker Group,Social Engineering,8,76.84
+Malware,Telecommunications,606940,Insider,Social Engineering,32,78.46
+Man-in-the-Middle,Healthcare,416331,Hacker Group,Unpatched Software,62,56.88
+Phishing,Banking,826778,Insider,Zero-day,59,58.38
+Ransomware,Healthcare,712697,Insider,Unpatched Software,39,71.36
+Man-in-the-Middle,Government,450891,Nation-state,Social Engineering,32,48.19
+Phishing,Healthcare,600700,Hacker Group,Zero-day,28,13.91
+DDoS,Education,119319,Nation-state,Zero-day,9,44.51
+Ransomware,Healthcare,490818,Hacker Group,Unpatched Software,65,55.45
+Ransomware,Telecommunications,155170,Insider,Zero-day,15,17.92
+Malware,Healthcare,783899,Hacker Group,Social Engineering,29,41.37
+Malware,Healthcare,275619,Nation-state,Weak Passwords,4,24.78
+SQL Injection,IT,746862,Nation-state,Unpatched Software,51,8.85
+SQL Injection,Government,244429,Hacker Group,Zero-day,8,28.13
+SQL Injection,Government,287446,Hacker Group,Unpatched Software,56,52.59
+DDoS,Retail,966469,Nation-state,Social Engineering,43,79.86
+DDoS,IT,126709,Unknown,Weak Passwords,45,47.83
+Malware,IT,883977,Nation-state,Unpatched Software,47,54.26
+SQL Injection,Retail,805183,Unknown,Weak Passwords,37,78.57
+Malware,Telecommunications,434446,Unknown,Social Engineering,28,77.63
+Ransomware,Education,63872,Nation-state,Unpatched Software,55,2.27
+Ransomware,Education,131307,Hacker Group,Weak Passwords,46,59.0
+DDoS,Telecommunications,732072,Hacker Group,Social Engineering,35,25.07
+Ransomware,IT,340213,Nation-state,Zero-day,15,43.65
+Phishing,Retail,617987,Insider,Social Engineering,23,41.97
+Malware,Government,629293,Insider,Weak Passwords,69,56.13
+SQL Injection,Healthcare,979308,Nation-state,Social Engineering,10,92.69
+Phishing,Healthcare,278126,Unknown,Social Engineering,30,14.38
+Man-in-the-Middle,Banking,852868,Unknown,Unpatched Software,8,57.26
+Phishing,Retail,43771,Nation-state,Zero-day,49,35.61
+SQL Injection,Education,90689,Nation-state,Weak Passwords,40,40.68
+SQL Injection,Healthcare,931787,Hacker Group,Unpatched Software,15,31.91
+DDoS,Education,992029,Nation-state,Unpatched Software,26,98.61
+Ransomware,Government,283947,Hacker Group,Unpatched Software,72,72.24
+Malware,Banking,68718,Insider,Social Engineering,47,20.76
+DDoS,Education,630087,Nation-state,Social Engineering,72,93.39
+DDoS,Telecommunications,481252,Hacker Group,Weak Passwords,48,52.17
+Ransomware,IT,935319,Nation-state,Social Engineering,25,58.86
+Malware,Banking,159475,Insider,Zero-day,19,23.14
+DDoS,Healthcare,316136,Hacker Group,Zero-day,22,90.38
+DDoS,IT,445129,Insider,Unpatched Software,19,71.08
+DDoS,Healthcare,545588,Insider,Unpatched Software,54,53.42
+SQL Injection,Healthcare,3315,Nation-state,Unpatched Software,41,22.8
+Ransomware,Retail,919427,Nation-state,Weak Passwords,51,89.71
+Phishing,Banking,666877,Nation-state,Weak Passwords,28,99.2
+Ransomware,Telecommunications,578125,Insider,Social Engineering,71,49.72
+Man-in-the-Middle,Government,616547,Hacker Group,Zero-day,22,13.26
+DDoS,Government,976849,Hacker Group,Weak Passwords,12,26.97
+Ransomware,Government,931196,Unknown,Social Engineering,27,60.69
+Phishing,Banking,240400,Unknown,Weak Passwords,10,38.69
+DDoS,IT,281698,Insider,Social Engineering,18,74.59
+DDoS,Retail,145401,Insider,Unpatched Software,14,94.19
+SQL Injection,Retail,918201,Insider,Zero-day,35,85.18
+Malware,Healthcare,71213,Nation-state,Social Engineering,58,42.4
+Ransomware,Banking,322611,Unknown,Unpatched Software,16,34.58
+SQL Injection,Telecommunications,680011,Insider,Unpatched Software,66,48.84
+SQL Injection,Healthcare,165204,Hacker Group,Social Engineering,18,63.93
+SQL Injection,Education,693497,Nation-state,Unpatched Software,56,55.5
+Malware,Telecommunications,363166,Unknown,Unpatched Software,38,32.6
+Ransomware,Retail,942824,Nation-state,Social Engineering,68,52.79
+Ransomware,IT,809153,Nation-state,Social Engineering,48,36.9
+Ransomware,Education,740421,Unknown,Social Engineering,59,5.51
+Malware,Retail,579778,Nation-state,Zero-day,57,52.2
+Malware,IT,627616,Insider,Zero-day,29,68.12
+SQL Injection,Government,696801,Insider,Zero-day,32,36.09
+DDoS,Healthcare,819663,Unknown,Zero-day,5,68.1
+SQL Injection,Government,778573,Unknown,Zero-day,62,10.46
+Malware,Telecommunications,850214,Unknown,Social Engineering,45,23.21
+SQL Injection,Government,83376,Insider,Unpatched Software,62,1.89
+Ransomware,Telecommunications,459635,Insider,Unpatched Software,49,48.68
+Ransomware,Government,386911,Insider,Social Engineering,33,9.54
+Phishing,Telecommunications,756305,Nation-state,Weak Passwords,45,76.26
+Phishing,IT,743177,Hacker Group,Unpatched Software,21,55.06
+Malware,Education,893060,Unknown,Social Engineering,19,17.3
+Malware,Government,358933,Nation-state,Zero-day,3,69.39
+Phishing,Government,725325,Insider,Zero-day,16,8.93
+Ransomware,IT,597723,Unknown,Zero-day,48,74.03
+Phishing,Retail,311675,Unknown,Weak Passwords,18,11.72
+Ransomware,Government,74407,Unknown,Unpatched Software,48,21.92
+Malware,Government,138915,Hacker Group,Weak Passwords,44,37.07
+DDoS,Banking,153829,Hacker Group,Weak Passwords,6,84.09
+Phishing,Education,587851,Nation-state,Social Engineering,6,58.86
+Malware,Government,728308,Unknown,Zero-day,10,54.59
+Malware,Retail,471898,Hacker Group,Social Engineering,55,71.84
+SQL Injection,Telecommunications,639630,Insider,Unpatched Software,31,14.15
+Malware,Retail,6691,Hacker Group,Zero-day,57,28.79
+Ransomware,Retail,672033,Hacker Group,Social Engineering,2,46.96
+SQL Injection,Healthcare,719415,Nation-state,Unpatched Software,56,98.03
+Malware,Telecommunications,727509,Insider,Zero-day,67,92.53
+SQL Injection,Banking,704427,Hacker Group,Zero-day,30,78.89
+SQL Injection,Government,147384,Unknown,Zero-day,54,80.0
+Ransomware,Banking,545908,Insider,Social Engineering,2,63.14
+SQL Injection,IT,354694,Insider,Weak Passwords,18,2.1
+DDoS,Banking,849664,Unknown,Social Engineering,40,14.98
+SQL Injection,Government,248359,Nation-state,Weak Passwords,58,9.91
+Man-in-the-Middle,Retail,254903,Unknown,Social Engineering,4,12.96
+Man-in-the-Middle,Education,647998,Insider,Weak Passwords,38,19.59
+Phishing,IT,800909,Nation-state,Zero-day,53,37.76
+Man-in-the-Middle,Telecommunications,23469,Insider,Zero-day,64,95.8
+Phishing,Healthcare,388325,Nation-state,Social Engineering,39,4.87
+DDoS,Retail,359124,Insider,Unpatched Software,13,64.39
+Malware,Healthcare,992014,Insider,Social Engineering,62,70.36
+Malware,Education,596468,Insider,Unpatched Software,29,35.05
+Ransomware,Healthcare,801948,Insider,Zero-day,55,58.91
+SQL Injection,Healthcare,950991,Nation-state,Social Engineering,49,24.07
+Man-in-the-Middle,Healthcare,875912,Insider,Unpatched Software,33,97.14
+DDoS,Telecommunications,35041,Hacker Group,Social Engineering,14,36.49
+Malware,Retail,431678,Insider,Unpatched Software,60,43.99
+SQL Injection,Telecommunications,358439,Insider,Unpatched Software,48,79.71
+Malware,Healthcare,905770,Nation-state,Zero-day,9,88.08
+Ransomware,Healthcare,843256,Nation-state,Unpatched Software,43,37.89
+SQL Injection,IT,691377,Hacker Group,Social Engineering,44,37.94
+Ransomware,Education,849791,Nation-state,Unpatched Software,53,18.11
+Phishing,Telecommunications,998011,Unknown,Zero-day,14,65.16
+Ransomware,Banking,594170,Nation-state,Social Engineering,53,28.14
+Malware,Banking,191427,Nation-state,Zero-day,56,60.14
+SQL Injection,Education,786577,Insider,Unpatched Software,70,54.98
+Ransomware,Government,76066,Insider,Unpatched Software,8,58.6
+Ransomware,Government,190694,Unknown,Social Engineering,52,51.42
+SQL Injection,Telecommunications,892843,Hacker Group,Zero-day,26,30.28
+SQL Injection,IT,734737,Nation-state,Weak Passwords,30,32.97
+SQL Injection,IT,379954,Insider,Unpatched Software,9,32.17
+SQL Injection,Retail,480984,Unknown,Zero-day,64,48.2
