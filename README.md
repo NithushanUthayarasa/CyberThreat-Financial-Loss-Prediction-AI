@@ -179,3 +179,56 @@ CyberThreats_FinancialLoss_Prediction_ML/
 │── plots/            # Feature importance plots
 │── README.md
 │── requirements.txt
+```
+
+🔧 How to Run
+git clone https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI
+cd CyberThreats_FinancialLoss_Prediction_ML
+pip install -r requirements.txt
+jupyter notebook
+
+
+➡️ Run notebooks Step 1 → Step 10 sequentially
+
+🌍 Business & Social Impact
+
+Cybersecurity risk assessment
+
+Financial loss forecasting
+
+Incident response prioritization
+
+Industry-specific cyber-risk profiling
+
+Data-driven security investment decisions
+
+🌟 Highlights
+
+✅ Full production-ready ML pipeline
+
+📈 R² = 0.985, ROC–AUC = 0.995
+
+🔍 Interpretable features improve insights
+
+⚙️ High-variance models analyzed & mitigated
+
+🔁 Fully reproducible and deployable
+
+🛠 Tech Stack
+
+Python
+
+Pandas, NumPy
+
+Scikit-Learn
+
+LightGBM, XGBoost, CatBoost
+
+Matplotlib, Seaborn
+
+Jupyter Notebook
+
+👤 Author
+
+Nithushan Uthayarasa
+Machine Learning | Cybersecurity Analytics
