@@ -1,34 +1,7 @@
-Here is the full, complete version of your Cyber Threats & Financial Loss Prediction README. This includes all sections from start to end, formatted exactly like your Asset Portal project using only standard Markdown symbols (#, *, ---, ```).
 
-You can copy the raw text below:
-
-code
-Markdown
-download
-content_copy
-expand_less
 # 🔐 Cyber Threats & Financial Loss Prediction (2015–2024)
 
 **I built an end-to-end machine learning system to predict financial losses caused by cybersecurity threats. This project implements a complete Step-by-Step ML pipeline (Step 1 → Step 10), starting from raw data cleaning and ending with automated best-model deployment to enhance proactive risk assessment and security investment decisions.**
-
----
-
-## 📸 Visual Analysis & Reports
-
-### 📊 Model Performance
-
-* [Feature Importance Plot](https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI/blob/main/plots/feature_importance.png)
-* [Actual vs Predicted Loss](https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI/blob/main/plots/prediction_analysis.png)
-* [Residual Distribution](https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI/blob/main/plots/residuals.png)
-* [ROC-AUC Curve (Classification)](https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI/blob/main/plots/roc_auc.png)
-
-### 📈 Benchmarking
-
-* [Model Comparison Table](https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI/blob/main/reports/benchmark_summary.csv)
-* [Hyperparameter Tuning Logs](https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI/blob/main/reports/tuning_results.txt)
-
----
-
 ## 🎯 Purpose
 
 The purpose of this project is to predict financial loss (in million USD) from cyber attacks using structured data and machine learning. This enables organizations to:
