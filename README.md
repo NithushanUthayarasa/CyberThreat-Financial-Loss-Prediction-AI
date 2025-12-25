@@ -6,44 +6,38 @@ The project implements a complete ML pipeline (**Step 1 → Step 10**), starting
 ---
 
 ## 📌 Project Overview
+Cybersecurity incidents are increasing globally, causing significant financial losses across industries. Estimating these losses is challenging due to multiple interconnected factors, including attack type, industry vulnerabilities, and incident resolution time.  
 
-Cybersecurity incidents are escalating worldwide, leading to billions in financial losses across industries. Estimating these losses is complex because they depend on multiple interconnected factors such as attack type, industry vulnerabilities, and resolution time.
+This project implements a **complete machine learning pipeline (Step 1 → Step 10)** to transform raw incident data into actionable insights. The system provides:
 
-This project delivers a complete machine learning pipeline (Step 1 → Step 10) that transforms raw incident data into actionable insights. It provides:
-
-- Accurate financial loss estimation from cyber threats
-- Detection of high‑risk events using regression and classification approaches
-- Rigorous model benchmarking to ensure robust performance
-- Automated deployment of the best model, making the solution production‑ready
+- Accurate prediction of financial losses from cyber threats  
+- Detection of high-risk events using regression and classification  
+- Benchmarking of multiple models for robust performance  
+- Automated deployment of the best-performing model  
 
 ---
 
 ## 🚨 Problem Statement
+Organizations struggle to quantify financial losses from cyber attacks because traditional risk assessment methods cannot capture the complex, non-linear relationships between:
 
-Organizations struggle to quantify financial losses from cyber attacks because traditional risk assessment methods fail to capture the complex, non‑linear relationships between:
+- Evolving cyber threat types  
+- Variations in incident resolution time  
+- Industry-specific vulnerabilities and defense mechanisms  
 
-- Diverse and evolving cyber threat types
-- Variations in incident resolution times
-- Industry‑specific vulnerabilities and defense mechanisms
+As a result, businesses often face poor resource allocation, ineffective incident response, and misaligned cybersecurity budgets.  
 
-This results in:
-
-- Poor resource allocation
-- Ineffective incident response planning
-- Underinvestment or misallocation of cybersecurity budgets
-
-The challenge is reframed as a machine learning problem: predicting financial loss (in million USD) from structured cyber incident data and flagging high‑risk loss events to support proactive risk management.
+This project reframes the challenge as a **machine learning task**: predicting financial loss (in million USD) and flagging high-risk events from structured cyber incident data to support proactive decision-making.  
 
 ---
 
 ## 🎯 Purpose
+The goal of this project is to provide organizations with a **data-driven tool** for anticipating the financial impact of cyber threats. By leveraging advanced machine learning, the system enables:
 
-The purpose of this project is to equip organizations with a data‑driven tool for anticipating the financial impact of cyber threats. By leveraging advanced machine learning, the system enables:
+- Proactive cyber-risk assessment before incidents escalate  
+- Smarter resource allocation to reduce financial and operational impact  
+- Industry-specific risk profiling to address sector vulnerabilities  
+- Evidence-based cybersecurity investment decisions to maximize protection  
 
-- Proactive cyber‑risk assessment before incidents escalate
-- Smarter resource allocation to minimize financial and operational damage
-- Industry‑specific risk profiling, recognizing unique sector vulnerabilities
-- Evidence‑based security investment decisions, ensuring budgets deliver maximum protection
 
 ---
 
