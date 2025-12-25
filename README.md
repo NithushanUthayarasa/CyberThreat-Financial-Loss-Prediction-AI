@@ -12,7 +12,7 @@ Organizations struggle to quantify potential losses due to complex factors such 
 
 ---
 
-## ❓ Problem Statement
+## 🚨 Problem Statement
 
 Organizations face difficulty in estimating financial losses from cyber attacks due to:
 
@@ -37,9 +37,9 @@ The project aims to predict **financial loss (in million USD)** from cyber attac
 
 ## 🧾 Dataset & Features
 
-**Source:** [Kaggle - Global Cybersecurity Threats, 2015–2024](https://www.kaggle.com/)  
-**Rows:** ~3,000 cybersecurity incidents  
-**Original Columns:** 10 (e.g., Country, Year, Attack Type, Target Industry, Financial Loss, Number of Affected Users, Attack Source, Security Vulnerability Type, Defense Mechanism Used, Incident Resolution Time)
+- **Source:** [Kaggle - Global Cybersecurity Threats, 2015–2024](https://www.kaggle.com/)  
+- **Rows:** ~3,000 cybersecurity incidents  
+- **Original Columns:** 10 (e.g., Country, Year, Attack Type, Target Industry, Financial Loss, Number of Affected Users, Attack Source, Security Vulnerability Type, Defense Mechanism Used, Incident Resolution Time)
 
 ### Engineered Features
 
