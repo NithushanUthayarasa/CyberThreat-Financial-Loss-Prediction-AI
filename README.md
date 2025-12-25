@@ -181,41 +181,39 @@ CyberThreats_FinancialLoss_Prediction_ML/
 │── requirements.txt
 ```
 
-##🔧 How to Run
+## 🔧 How to Run
 
-git clone https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI
-cd CyberThreats_FinancialLoss_Prediction_ML
-pip install -r requirements.txt
-jupyter notebook
+*git clone https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI
+*cd CyberThreats_FinancialLoss_Prediction_ML
+*pip install -r requirements.txt
+*jupyter notebook
 
+ * ➡️ Run notebooks Step 1 → Step 10 sequentially
 
-➡️ Run notebooks Step 1 → Step 10 sequentially
+## 🌍 Business & Social Impact
 
-##🌍 Business & Social Impact
+* Cybersecurity risk assessment
+* Financial loss forecasting
+* Incident response prioritization
+* Industry-specific cyber-risk profiling
+* Data-driven security investment decisions
 
-Cybersecurity risk assessment
-Financial loss forecasting
-Incident response prioritization
-Industry-specific cyber-risk profiling
-Data-driven security investment decisions
+## 🌟 Highlights
 
-##🌟 Highlights
+* ✅ Full production-ready ML pipeline
+* 📈 R² = 0.985, ROC–AUC = 0.995
+* 🔍 Interpretable features improve insights
+* ⚙️ High-variance models analyzed & mitigated
+* 🔁 Fully reproducible and deployable
 
-✅ Full production-ready ML pipeline
-📈 R² = 0.985, ROC–AUC = 0.995
-🔍 Interpretable features improve insights
-⚙️ High-variance models analyzed & mitigated
-🔁 Fully reproducible and deployable
+## 🛠 Tech Stack
+* Python
+* Pandas, NumPy
+* Scikit-Learn
+* LightGBM, XGBoost, CatBoost
+* Matplotlib, Seaborn
+* Jupyter Notebook
 
-##🛠 Tech Stack
-Python
-Pandas, NumPy
-Scikit-Learn
-LightGBM, XGBoost, CatBoost
-Matplotlib, Seaborn
-Jupyter Notebook
-
-##👤 Author
-
-Nithushan Uthayarasa
+## 👤 Author
+* Nithushan Uthayarasa
 Machine Learning | Cybersecurity Analytics
