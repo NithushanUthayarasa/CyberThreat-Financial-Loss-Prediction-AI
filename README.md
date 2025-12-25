@@ -191,8 +191,8 @@ jupyter notebook
 * Jupyter Notebook
 
 ## 📄 License
-*This project is for **learning and educational purposes only**.  
-*It is not intended for commercial use or production deployment.
+** This project is for **learning and educational purposes only**.  
+** It is not intended for commercial use or production deployment.
 
 ## 👤 Author
 * Nithushan Uthayarasa
