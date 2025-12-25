@@ -1,7 +1,7 @@
 # 🔐 Cyber Threats & Financial Loss Prediction (2015–2024)
 
 An **end-to-end machine learning project** that predicts **financial losses caused by cybersecurity threats** using structured global incident data.  
-The project implements a complete ML pipeline , starting from raw data cleaning and ending with automated best-model deployment.
+The project implements a complete ML pipeline, starting from raw data cleaning and ending with automated best-model deployment.
 
 ---
 
