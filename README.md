@@ -7,47 +7,43 @@ The project implements a complete ML pipeline (**Step 1 → Step 10**), starting
 
 ## 📌 Project Overview
 
-Cybersecurity incidents are escalating worldwide, resulting in billions of dollars in financial losses across industries. Estimating these losses is difficult because they depend on multiple interconnected factors, including:
+Cybersecurity incidents are escalating worldwide, leading to billions in financial losses across industries. Estimating these losses is complex because they depend on multiple interconnected factors such as attack type, industry vulnerabilities, and resolution time.
 
-- Attack type  
-- Industry vulnerabilities  
-- Incident resolution time  
+This project delivers a complete machine learning pipeline (Step 1 → Step 10) that transforms raw incident data into actionable insights. It provides:
 
-This project delivers a **comprehensive machine learning pipeline** that transforms raw incident data into actionable insights. The system is designed to:
-
-- **Estimate financial losses** from cyber threats with high accuracy  
-- **Identify high-risk events** using regression and classification approaches  
-- **Benchmark multiple models** to ensure robust performance  
-- **Deploy the best model automatically**, making the solution production-ready and reproducible  
+- Accurate financial loss estimation from cyber threats
+- Detection of high‑risk events using regression and classification approaches
+- Rigorous model benchmarking to ensure robust performance
+- Automated deployment of the best model, making the solution production‑ready
 
 ---
 
 ## 🚨 Problem Statement
 
-Organizations struggle to quantify financial losses from cyber attacks because traditional risk assessment methods fail to capture the **complex, non-linear relationships** between:
+Organizations struggle to quantify financial losses from cyber attacks because traditional risk assessment methods fail to capture the complex, non‑linear relationships between:
 
-- Diverse and evolving cyber threat types  
-- Variations in incident resolution times  
-- Industry-specific vulnerabilities and defense mechanisms  
+- Diverse and evolving cyber threat types
+- Variations in incident resolution times
+- Industry‑specific vulnerabilities and defense mechanisms
 
-As a result, businesses often face:
+This results in:
 
-- Poor resource allocation  
-- Ineffective incident response planning  
-- Underinvestment or misallocation of cybersecurity budgets  
+- Poor resource allocation
+- Ineffective incident response planning
+- Underinvestment or misallocation of cybersecurity budgets
 
-This project reframes the challenge as a **machine learning task**: predicting **financial loss (in million USD)** from structured cyber incident data and detecting **high-risk loss events** to support proactive risk management.
+The challenge is reframed as a machine learning problem: predicting financial loss (in million USD) from structured cyber incident data and flagging high‑risk loss events to support proactive risk management.
 
 ---
 
 ## 🎯 Purpose
 
-The project aims to predict **financial losses (in million USD)** from cyber attacks using advanced machine learning techniques. By converting structured incident data into actionable insights, the system enables organizations to:
+The purpose of this project is to equip organizations with a data‑driven tool for anticipating the financial impact of cyber threats. By leveraging advanced machine learning, the system enables:
 
-- **Proactively assess cyber-risk** before incidents escalate  
-- **Allocate resources more effectively** to minimize financial and operational impact  
-- **Profile risks by industry**, recognizing that different sectors face unique vulnerabilities  
-- **Support data-driven security investment decisions**, ensuring budgets are directed where they deliver the greatest protection  
+- Proactive cyber‑risk assessment before incidents escalate
+- Smarter resource allocation to minimize financial and operational damage
+- Industry‑specific risk profiling, recognizing unique sector vulnerabilities
+- Evidence‑based security investment decisions, ensuring budgets deliver maximum protection
 
 ---
 
