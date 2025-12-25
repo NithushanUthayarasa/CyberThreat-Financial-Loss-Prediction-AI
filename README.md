@@ -151,7 +151,7 @@ CyberThreats_FinancialLoss_Prediction_ML/
 │── models/           # Trained models (.joblib)
 │── reports/          # Model benchmarking results (CSV file)
 │── outputs/          # Visualization outputs (images)
-│── README.md
+│── README.md         # Project documentation
 
 ```
 ---
