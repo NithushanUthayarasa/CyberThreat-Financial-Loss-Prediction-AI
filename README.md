@@ -33,18 +33,19 @@ This project formulates the problem as a **machine learning task** to **predict 
 
 ## 🎯 Purpose
 
-The project aims to predict **financial loss (in million USD)** from cyber attacks using machine learning, enabling:
+This project is designed to predict **financial losses (in million USD)** resulting from cyber attacks using advanced machine learning techniques. By transforming structured incident data into actionable insights, the system enables organizations to:
 
-- Proactive cyber-risk assessment  
-- Better resource allocation  
-- Industry-specific risk profiling  
-- Data-driven security investment decisions  
+- **Proactively assess cyber‑risk** before incidents escalate  
+- **Allocate resources more effectively** to minimize financial and operational impact  
+- **Profile risks by industry**, recognizing that different sectors face unique vulnerabilities  
+- **Support data‑driven security investment decisions**, ensuring budgets are directed where they deliver the greatest protection
+
 
 ---
 
 ## 🧾 Dataset & Features
 
-- **Source:** [Kaggle - Global Cybersecurity Threats, 2015–2024](https://www.kaggle.com/)  
+- **Source:** [Kaggle - Global Cybersecurity Threats, 2015–2024](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
 - **Rows:** ~3,000 cybersecurity incidents  
 - **Original Columns:** 10 (e.g., Country, Year, Attack Type, Target Industry, Financial Loss, Number of Affected Users, Attack Source, Security Vulnerability Type, Defense Mechanism Used, Incident Resolution Time)
 
