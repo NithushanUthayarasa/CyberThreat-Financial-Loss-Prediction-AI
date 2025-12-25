@@ -1,78 +1,63 @@
 # 🔐 Cyber Threats & Financial Loss Prediction (2015–2024)
 
-An **end-to-end machine learning system** to predict **financial losses caused by cybersecurity threats**.  
-This project implements a **complete Step-by-Step ML pipeline (Step 1 → Step 10)**, starting from raw data cleaning and ending with **automated best-model deployment**.
+An **end-to-end machine learning project** that predicts **financial losses caused by cybersecurity threats** using structured global incident data.  
+The project implements a **complete ML pipeline (Step 1 → Step 10)**, starting from raw data cleaning and ending with automated best-model deployment.
 
 ---
 
 ## 📌 Project Overview
 
-Cybersecurity incidents are increasing globally, causing **significant financial damage across industries**.  
-Organizations struggle to quantify potential losses due to complex factors such as **attack type, vulnerabilities, and incident resolution time**.
-
-This project addresses that challenge by building a **production-ready ML pipeline** that predicts financial loss exposure from cyber attacks.
+Cybersecurity incidents are increasing globally, causing significant financial damage across industries.  
+Organizations struggle to quantify potential losses due to complex factors such as attack type, vulnerabilities, and incident resolution time.
 
 ---
 
 ## ❓ Problem Statement
 
-Estimating financial losses from cyber attacks is difficult due to:
-- Diverse attack types  
-- Varying resolution times  
+Organizations face difficulty in estimating financial losses from cyber attacks due to:
+
+- Complex threat types
+- Varied incident resolution times
 - Industry-specific vulnerabilities  
 
-Without accurate prediction, organizations risk:
-- Poor resource allocation  
-- Ineffective incident response  
-- Underinvestment or overinvestment in security measures  
+Without accurate prediction, businesses risk **poor resource allocation** and **underprepared incident response**.
 
 ---
 
-## 🎯 Purpose & Objectives
+## 🎯 Purpose
 
-The goal is to predict **financial loss (in million USD)** from cyber attacks using structured data and machine learning, enabling:
+The project aims to predict **financial loss (in million USD)** from cyber attacks using machine learning, enabling:
 
-- 🔍 Proactive cyber-risk assessment  
-- 📊 Better resource allocation  
-- 🏭 Industry-specific cyber-risk profiling  
-- 💰 Data-driven security investment decisions  
+- Proactive cyber-risk assessment  
+- Better resource allocation  
+- Industry-specific risk profiling  
+- Data-driven security investment decisions  
 
 ---
 
 ## 🧾 Dataset & Features
 
-**Source:** Kaggle — *Global Cybersecurity Threats (2015–2024)*  
-**Records:** ~3,000 cybersecurity incidents  
-**Original Features:** 10 columns  
+**Source:** [Kaggle - Global Cybersecurity Threats, 2015–2024](https://www.kaggle.com/)  
+**Rows:** ~3,000 cybersecurity incidents  
+**Original Columns:** 10 (e.g., Country, Year, Attack Type, Target Industry, Financial Loss, Number of Affected Users, Attack Source, Security Vulnerability Type, Defense Mechanism Used, Incident Resolution Time)
 
-### Key Original Columns
-- Country  
-- Year  
-- Attack Type  
-- Target Industry  
-- Financial Loss *(target variable)*  
-- Number of Affected Users  
-- Attack Source  
-- Security Vulnerability Type  
-- Defense Mechanism Used  
-- Incident Resolution Time  
+### Engineered Features
 
-### 🔧 Engineered Features
 - **Loss_per_User** = Financial Loss ÷ Number of Affected Users  
-- **AttackType_TargetIndustry** (interaction feature)
+- **AttackType_TargetIndustry** (interaction feature)  
 
-> ⚡ After encoding categorical variables, the final model uses **~20–30 input features**.
+> After encoding categorical variables, the model uses ~20–30 input features.
 
 ---
 
 ## 🔄 End-to-End ML Pipeline (Step 1 → Step 10)
 
-1. Feature Selection & Data Cleaning  
-2. Preprocessing Pipeline (scaling, encoding, train-test split)  
+1. Feature Selection & Cleaning  
+2. Preprocessing Pipeline (scaling, encoding, splitting)  
 3. Baseline Model Training  
-4. Feature Engineering & Hyperparameter Tuning  
-5. Classification Framing (High-Risk Loss Detection)  
-6. Baseline vs Tuned Model Comparison  
+4. Feature Engineering + Hyperparameter Tuning  
+5. Additional Metrics (Classification Framing)  
+6. Baseline vs Tuned Comparison  
 7. Visual Performance Analysis  
 8. Feature Importance Analysis  
 9. Model Benchmarking & Variance Check  
@@ -82,12 +67,8 @@ The goal is to predict **financial loss (in million USD)** from cyber attacks us
 
 ## 🧠 Feature Engineering & Preprocessing
 
-- Removed irrelevant features  
-- Handled missing values:
-  - Median for numeric features  
-  - Mode for categorical features  
-- Dropped duplicate records  
-- Created interpretable interaction features  
+- **Data Cleaning:** Removed irrelevant features, handled missing values (median for numeric, mode for categorical), dropped duplicates  
+- **Feature Engineering:** `Loss_per_User`, `AttackType_TargetIndustry`  
 
 ---
 
@@ -103,63 +84,51 @@ The goal is to predict **financial loss (in million USD)** from cyber attacks us
 
 ## 🔍 Evaluation Metrics
 
-### Regression Metrics
-- RMSE  
-- MAE  
-- R² Score  
-
-### Classification Metrics (High-Risk Loss Detection)
-- Accuracy  
-- Precision  
-- Recall  
-- F1-Score  
-- ROC–AUC  
+**Regression:** RMSE, MAE, R²  
+**Classification (High-Risk Loss Detection):** Accuracy, Precision, Recall, F1-Score, ROC–AUC  
 
 ---
 
 ## 📊 Results Summary
 
 | Step | Description | Model / Metrics | Notes |
-|----|------------|----------------|------|
+|------|------------|----------------|-------|
 | 3 | Baseline Training | Negative R² | Underfitting |
-| 4 | Feature Engineering + Tuning | **LightGBM:** RMSE=3.54, MAE=1.64, R²=0.985 | Best performance |
-| 5 | Classification Framing | Accuracy=0.97, F1=0.94, ROC–AUC=0.995 | High-risk detection |
-| 6 | Baseline vs Tuned | Tuned R² ≈ 0.97–0.98 | Massive improvement |
-| 8 | Feature Importance | Loss_per_User, Resolution Time | Key drivers |
-| 9 | Model Benchmarking | See table below | Generalization check |
+| 4 | Feature Engineering + Tuning | LightGBM: RMSE=3.54, MAE=1.64, R²=0.985 | XGBoost & CatBoost also strong (R² ≈ 0.97–0.98) |
+| 5 | Classification Framing | Threshold ~75M USD → LightGBM: Accuracy=0.97, F1=0.94, ROC–AUC=0.995 | High-risk detection |
+| 6 | Baseline vs Tuned | Tuned R² = 0.97–0.98 | Massive improvement |
+| 8 | Feature Importance | Loss_per_User, Incident Resolution Time, AttackType_TargetIndustry | Key drivers |
+| 9 | Model Benchmarking | See table below | LightGBM generalizes best; XGBoost/CatBoost show high variance |
 
----
-
-## 📈 Model Benchmarking
+**Model Benchmarking Table**
 
 | Model | Train R² | Test R² | Diagnosis |
-|-----|---------|--------|----------|
+|-------|----------|---------|-----------|
 | LightGBM | 0.993 | 0.985 | ✅ Good generalization |
 | XGBoost | 0.9998 | 0.980 | ⚠ High variance |
 | Gradient Boosting | 0.996 | 0.977 | ✅ Good generalization |
 | CatBoost | 0.999 | 0.973 | ⚠ High variance |
-| Random Forest | 0.989 | 0.972 | ✅ Good generalization |
+| RandomForest | 0.989 | 0.972 | ✅ Good generalization |
 
-**Inference Time:** ~0.02 seconds per batch
+**Inference Time:** ~0.02 seconds per batch  
 
 ---
 
 ## 🛠 Handling High Variance
 
-- Regularization (`reg_lambda`, `reg_alpha`, `l2_leaf_reg`)  
-- Reduced model complexity (`max_depth`, `n_estimators`)  
-- k-Fold Cross-Validation  
-- Feature selection to remove noisy features  
-- Dataset expansion / augmentation  
+- Regularization: `reg_lambda`, `reg_alpha` (XGBoost/LightGBM), `l2_leaf_reg` (CatBoost)  
+- Reduce Complexity: Limit `max_depth`, reduce number of estimators  
+- Cross-Validation Tuning: Use k-fold CV  
+- Feature Selection: Drop noisy/redundant features  
+- Data Augmentation / More Samples: Expand dataset or simulate variations  
 
 ---
 
 ## 🚀 Deployment (Step 10)
 
-- ✅ Best model: **LightGBM**
-- 💾 Saved as: `models/production_model.joblib`
-- 🔁 Reusable prediction function
-- ♻️ Fully reproducible pipeline for real-world use
+- **Best Model:** LightGBM saved as `models/production_model.joblib`  
+- Reusable prediction function for new cyber-threat data  
+- Fully reproducible pipeline  
 
 ---
 
@@ -176,12 +145,9 @@ CyberThreats_FinancialLoss_Prediction_ML/
 │── models/           # Trained models (.joblib)
 │── reports/          # Reports & analysis
 │── outputs/          # Images & pipelines
-│── plots/            # Feature importance plots
 │── README.md
-│── requirements.txt
+
 ```
-
-
 ---
 
 ## 🔧 How to Run the Project
