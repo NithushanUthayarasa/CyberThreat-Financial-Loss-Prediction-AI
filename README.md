@@ -1,30 +1,30 @@
 # 🔐 Cyber Threats & Financial Loss Prediction (2015–2024)
 
 An **end-to-end machine learning project** that predicts **financial losses caused by cybersecurity threats** using structured global incident data.  
-The project implements a **complete ML pipeline (Step 1 → Step 10)**, starting from raw data cleaning and ending with automated best-model deployment.
+The project implements a complete ML pipeline (**Step 1 → Step 10**), starting from raw data cleaning and ending with automated best-model deployment.
 
 ---
 
 ## 📌 Project Overview
 
-Cybersecurity incidents are escalating worldwide, resulting in billions of dollars in financial losses across industries. Predicting these losses is challenging because they are influenced by multiple interconnected factors, including:
+Cybersecurity incidents are escalating worldwide, resulting in billions of dollars in financial losses across industries. Estimating these losses is difficult because they depend on multiple interconnected factors, including:
 
 - Attack type  
 - Industry vulnerabilities  
 - Incident resolution time  
 
-This project delivers a **complete machine learning pipeline** that transforms raw incident data into actionable insights. The system is built to:
+This project delivers a **comprehensive machine learning pipeline** that transforms raw incident data into actionable insights. The system is designed to:
 
 - **Estimate financial losses** from cyber threats with high accuracy  
-- **Identify high‑risk events** using regression and classification approaches  
-- **Compare and benchmark multiple models** to ensure robust performance  
-- **Deploy the best model automatically**, making the solution production‑ready and reproducible  
+- **Identify high-risk events** using regression and classification approaches  
+- **Benchmark multiple models** to ensure robust performance  
+- **Deploy the best model automatically**, making the solution production-ready and reproducible  
 
 ---
 
 ## 🚨 Problem Statement
 
-Organizations struggle to accurately quantify financial losses from cyber attacks because traditional risk assessment methods fail to capture the **complex, non-linear relationships** between:
+Organizations struggle to quantify financial losses from cyber attacks because traditional risk assessment methods fail to capture the **complex, non-linear relationships** between:
 
 - Diverse and evolving cyber threat types  
 - Variations in incident resolution times  
@@ -39,15 +39,15 @@ As a result, businesses often face:
 This project reframes the challenge as a **machine learning task**: predicting **financial loss (in million USD)** from structured cyber incident data and detecting **high-risk loss events** to support proactive risk management.
 
 ---
+
 ## 🎯 Purpose
 
-This project is designed to predict **financial losses (in million USD)** resulting from cyber attacks using advanced machine learning techniques. By transforming structured incident data into actionable insights, the system enables organizations to:
+The project aims to predict **financial losses (in million USD)** from cyber attacks using advanced machine learning techniques. By converting structured incident data into actionable insights, the system enables organizations to:
 
-- **Proactively assess cyber‑risk** before incidents escalate  
+- **Proactively assess cyber-risk** before incidents escalate  
 - **Allocate resources more effectively** to minimize financial and operational impact  
 - **Profile risks by industry**, recognizing that different sectors face unique vulnerabilities  
-- **Support data‑driven security investment decisions**, ensuring budgets are directed where they deliver the greatest protection
-
+- **Support data-driven security investment decisions**, ensuring budgets are directed where they deliver the greatest protection  
 
 ---
 
