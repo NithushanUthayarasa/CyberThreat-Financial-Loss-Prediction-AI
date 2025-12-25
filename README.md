@@ -149,7 +149,7 @@ CyberThreats_FinancialLoss_Prediction_ML/
 │
 │── notebooks/        # Step 1 → Step 10 notebooks
 │── models/           # Trained models (.joblib)
-│── reports/          # Model benchmarking results (CSV file)
+│── reports/          # Model benchmarking results (CSV summaries)
 │── outputs/          # Visualization outputs (images)
 │── README.md         # Project documentation
 
