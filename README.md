@@ -7,8 +7,19 @@ The project implements a **complete ML pipeline (Step 1 → Step 10)**, starting
 
 ## 📌 Project Overview
 
-Cybersecurity incidents are increasing globally, causing significant financial damage across industries.  
-Organizations struggle to quantify potential losses due to complex factors such as attack type, vulnerabilities, and incident resolution time.
+Cybersecurity incidents are rising at an unprecedented pace, with organizations worldwide facing severe financial consequences. Estimating these losses is complex because they depend on multiple interacting factors such as:
+
+- Attack type  
+- Industry-specific vulnerabilities  
+- Incident resolution time  
+
+This project addresses that challenge by building a **comprehensive machine learning pipeline** that transforms raw incident data into actionable insights. The system is designed to:
+
+- **Quantify financial losses** from cyber threats with high accuracy  
+- **Detect high-risk events** using both regression and classification approaches  
+- **Benchmark multiple models** to ensure robust performance and avoid overfitting  
+- **Deploy the best model automatically**, making the solution production-ready
+
 
 ---
 
