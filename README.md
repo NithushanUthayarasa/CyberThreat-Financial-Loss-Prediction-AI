@@ -181,14 +181,18 @@ CyberThreats_FinancialLoss_Prediction_ML/
 │── requirements.txt
 ```
 
-## 🔧 How to Run
 
-*git clone https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI
-*cd CyberThreats_FinancialLoss_Prediction_ML
-*pip install -r requirements.txt
-*jupyter notebook
+---
 
- * ➡️ Run notebooks Step 1 → Step 10 sequentially
+## 🔧 How to Run the Project
+
+```bash
+git clone https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-AI
+cd CyberThreats_FinancialLoss_Prediction_ML
+pip install -r requirements.txt
+jupyter notebook
+```
+* ➡️ Run notebooks Step 1 → Step 10 sequentially
 
 ## 🌍 Business & Social Impact
 
@@ -216,4 +220,4 @@ CyberThreats_FinancialLoss_Prediction_ML/
 
 ## 👤 Author
 * Nithushan Uthayarasa
-Machine Learning | Cybersecurity Analytics
+
