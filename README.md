@@ -1,14 +1,14 @@
 # 🔐 Cyber Threats & Financial Loss Prediction (2015–2024)
 
 An **end-to-end machine learning project** that predicts **financial losses caused by cybersecurity threats** using structured global incident data.  
-The project implements a complete ML pipeline (**Step 1 → Step 10**), starting from raw data cleaning and ending with automated best-model deployment.
+The project implements a complete ML pipeline , starting from raw data cleaning and ending with automated best-model deployment.
 
 ---
 
 ## 📌 Project Overview
 Cybersecurity incidents are increasing globally, causing significant financial losses across industries. Estimating these losses is challenging due to multiple interconnected factors, including attack type, industry vulnerabilities, and incident resolution time.  
 
-This project implements a **complete machine learning pipeline (Step 1 → Step 10)** to transform raw incident data into actionable insights. The system provides:
+This project implements a **complete machine learning pipeline** to transform raw incident data into actionable insights. The system provides:
 
 - Accurate prediction of financial losses from cyber threats  
 - Detection of high-risk events using regression and classification  
@@ -56,7 +56,7 @@ The goal of this project is to provide organizations with a **data-driven tool**
 
 ---
 
-## 🔄 End-to-End ML Pipeline (Step 1 → Step 10)
+## 🔄 End-to-End ML Pipeline
 
 1. Feature Selection & Cleaning  
 2. Preprocessing Pipeline (scaling, encoding, splitting)  
@@ -130,7 +130,7 @@ The goal of this project is to provide organizations with a **data-driven tool**
 
 ---
 
-## 🚀 Deployment (Step 10)
+## 🚀 Deployment 
 
 - **Best Model:** LightGBM saved as `models/production_model.joblib`  
 - Reusable prediction function for new cyber-threat data  
