@@ -14,13 +14,20 @@ Organizations struggle to quantify potential losses due to complex factors such 
 
 ## 🚨 Problem Statement
 
-Organizations face difficulty in estimating financial losses from cyber attacks due to:
+Organizations struggle to accurately estimate the **financial losses caused by cybersecurity attacks** due to:
 
-- Complex threat types
-- Varied incident resolution times
-- Industry-specific vulnerabilities  
+- Diverse and evolving cyber threat types  
+- Variations in incident resolution time  
+- Industry-specific vulnerabilities and defense mechanisms  
 
-Without accurate prediction, businesses risk **poor resource allocation** and **underprepared incident response**.
+Traditional risk assessment methods fail to capture the **complex, non-linear relationships** between these factors, leading to:
+
+- Poor resource allocation  
+- Ineffective incident response planning  
+- Underinvestment or misallocation of cybersecurity budgets  
+
+This project formulates the problem as a **machine learning task** to **predict financial loss (in million USD)** from structured cyber incident data and to **identify high-risk loss events** using both **regression and classification approaches**.
+
 
 ---
 
